@@ -1,0 +1,3799 @@
+id,name,state_id,utility_id
+1,"Abbeville City of",47,34
+2,"Aberdeen City of",28,55
+3,"City of Abbeville",22,59
+4,"A & N Electric Coop",24,84
+5,"A & N Electric Coop",54,84
+6,"City of Ada",27,87
+7,"Adams Electric Coop",17,97
+8,"Adams-Columbia Electric Coop",57,108
+9,"Adams Rural Electric Coop, Inc",40,118
+10,"Village of Arcade",37,122
+11,"City of Adel",13,123
+12,"City of Afton",19,149
+13,"Adrian Public Utilities Comm",27,150
+14,"Agralite Electric Coop",27,155
+15,"Town of Advance",18,157
+16,"Aiken Electric Coop Inc",47,162
+17,"Aitkin Public Utilities Comm",27,174
+18,"Ajo Improvement Co",4,176
+19,"City of Akron",19,182
+20,"Village of Akron",37,183
+21,"Alamo Power District No 3",33,191
+22,"Akiachak Native Community Electric Co",2,192
+23,"Alabama Power Co",1,195
+24,"City of Alton",19,198
+25,"City of Alachua",12,201
+26,"Town of Black Creek",38,202
+27,"City of Alameda",6,207
+28,"Alaska Electric Light&Power Co",2,213
+29,"Alaska Power and Telephone Co",2,219
+30,"Alaska Village Elec Coop, Inc",2,221
+31,"City of Albany",29,228
+32,"City of Albany",17,229
+33,"Albany Water Gas & Light Comm",13,230
+34,"City of Albemarle",38,232
+35,"Albemarle Electric Member Corp",38,240
+36,"Albertville Municipal Utils Bd",1,241
+37,"City of Albion",16,244
+38,"City of Alpha",27,266
+39,"Alcorn County Elec Power Assn",28,276
+40,"Village of Arcadia",40,282
+41,"Alder Mutual Light Co, Inc",55,287
+42,"City of Alexander City",1,289
+43,"City of Alexandria",27,295
+44,"Alfalfa Electric Coop, Inc",20,296
+45,"Alfalfa Electric Coop, Inc",41,296
+46,"City of Alexandria",22,298
+47,"Alger-Delta Coop Electric Assn",26,305
+48,"Algoma Utility Comm",57,307
+49,"City of Acworth",13,308
+50,"City of Algona",19,309
+51,"Allamakee-Clayton El Coop, Inc",19,329
+52,"City of Allendale",17,366
+53,"City of Alliance",32,367
+54,"City of Alma",20,385
+55,"Alpena Power Co",26,392
+56,"City of Alta",19,405
+57,"Altamont City of",17,406
+58,"Altamaha Electric Member Corp",13,407
+59,"City of Altamont",20,408
+60,"City of Altus",41,416
+61,"City of Alta Vista",19,432
+62,"Amana Society Service Co",19,471
+63,"City of Alvarado",27,482
+64,"Ames City of",19,554
+65,"City of Amherst",40,560
+66,"Amicalola Electric Member Corp",13,562
+67,"City of Amory",28,571
+68,"City of Alcoa Utilities",49,577
+69,"Anadarko Public Works Auth",41,588
+70,"City of Anaheim",6,590
+71,"Anchorage Municipal Light and Power",2,599
+72,"City of Andalusia",1,604
+73,"City of Anderson",18,636
+74,"Village of Andover",37,661
+75,"Village of Angelica",37,669
+76,"City of Anita",19,682
+77,"Connexus Energy",27,689
+78,"City of Bardstown",21,690
+79,"City of Anoka",27,691
+80,"Anza Electric Coop Inc",6,694
+81,"City of Ansley",32,695
+82,"City of Anthon",19,700
+83,"Anthony City of",20,701
+84,"Arkansas River Power Authority",36,712
+85,"Town of Apex",38,719
+86,"City of Aplington",19,723
+87,"Appalachian Electric Coop",49,727
+88,"Appalachian Power Co",54,733
+89,"Appalachian Power Co",56,733
+90,"Aguila Irrigation District",4,737
+91,"Arab Electric Coop Inc",1,750
+92,"City of Arapahoe",32,752
+93,"City of Arcadia",20,764
+94,"Arcadia City of",57,765
+95,"Arcanum City of",40,768
+96,"Town of Argos",18,789
+97,"City of Argyle",57,792
+98,"Arizona Power Authority",4,798
+99,"Arizona Public Service Co",4,803
+100,"Entergy Arkansas Inc",5,814
+101,"Entergy Arkansas Inc",49,814
+102,"Arkansas Valley Elec Coop Corp",5,817
+103,"Arkansas Valley Elec Coop Corp",41,817
+104,"City of Arlington",27,828
+105,"City of Arlington",48,831
+106,"City of Arma",20,832
+107,"Village of Arnold",32,871
+108,"Atmautluak Tribal Utilities",2,878
+109,"Arrowhead Electric Coop, Inc",27,887
+110,"Town of Ashburnham",25,902
+111,"Town of Ashland",34,906
+112,"City of Ashland",42,907
+113,"City of Ashland",20,911
+114,"City of Aspen",7,918
+115,"Ashley Chicot Elec Coop, Inc",5,925
+116,"Ashley Chicot Elec Coop, Inc",22,925
+117,"Atchison-Holt Electric Coop",19,942
+118,"Atchison-Holt Electric Coop",29,942
+119,"Atchison-Holt Electric Coop",32,942
+120,"City of Athens",1,944
+121,"Athens Utility Board",49,947
+122,"Atlantic City Electric Co",35,963
+123,"Atlantic Municipal Utilities",19,965
+124,"City of Attica",20,989
+125,"Auburn Board of Public Works",32,993
+126,"City of Auburn",18,994
+127,"City of Auburn",19,995
+128,"City of Augusta",20,998
+129,"City of Augusta",5,1000
+130,"City of Aurelia",19,1002
+131,"City of Aurora",48,1004
+132,"Austin City of",27,1009
+133,"Austin Energy",50,1015
+134,"Ava City of",29,1024
+135,"Town of Avilla",18,1028
+136,"City of Axtell",20,1033
+137,"Town of Ayden",38,1036
+138,"Aztec City of",36,1046
+139,"City of Azusa",6,1050
+140,"BARC Electric Coop Inc",54,1062
+141,"City of Badger",48,1080
+142,"Bagley Public Utilities Comm",27,1101
+143,"Town of Bainbridge",18,1119
+144,"City of Baldwin City",20,1148
+145,"Baldwin County El Member Corp",1,1149
+146,"Baltimore Gas & Electric Co",24,1167
+147,"Bailey County Elec Coop Assn",50,1169
+148,"Bamberg Board of Public Works",47,1170
+149,"Bancroft Municipal Utilities",19,1172
+150,"Bandera Electric Coop, Inc",50,1175
+151,"City of Bandon",42,1176
+152,"Bangor Hydro-Electric Co",23,1179
+153,"Bangor City of",57,1181
+154,"Banning City of",6,1192
+155,"Village of Baraga",26,1196
+156,"Barbourville Utility Comm",21,1201
+157,"City of Bardwell",21,1205
+158,"Town of Bargersville",18,1208
+159,"City of Barnesville",13,1232
+160,"City of Barnesville",27,1233
+161,"Barron Electric Coop",57,1251
+162,"Bartlett Electric Coop, Inc",50,1273
+163,"Barrow Utils & Elec Coop, Inc",2,1276
+164,"City of Barron",57,1278
+165,"Barry Electric Coop",29,1279
+166,"Bartholomew County Rural E M C",18,1283
+167,"City of Bartlett",50,1287
+168,"Barton Village, Inc",52,1299
+169,"Bartow City of",12,1300
+170,"Barton County Elec Coop, Inc",29,1301
+171,"City of Bastrop",50,1324
+172,"City of Batavia",17,1325
+173,"Village of Bartley",32,1326
+174,"Bath Electric Gas & Water Sys",37,1343
+175,"City of Battle Creek",32,1346
+176,"City of Baudette",27,1353
+177,"City of Bay City",26,1366
+178,"Bayfield Electric Coop, Inc",26,1367
+179,"Bayfield Electric Coop, Inc",57,1367
+180,"City of Bayard",32,1374
+181,"Village of Beach City",40,1386
+182,"City of Benham",21,1387
+183,"Beartooth Electric Coop, Inc",30,1417
+184,"Beartooth Electric Coop, Inc",58,1417
+185,"Beatrice City of",32,1427
+186,"Beaver City Corporation",51,1434
+187,"City of Beaver City",32,1435
+188,"City of Bedford",54,1456
+189,"Beauregard Electric Coop, Inc",22,1458
+190,"Belhaven Town of",38,1494
+191,"City of Belleville",20,1512
+192,"City of Bellevue",19,1515
+193,"Bellville City of",50,1519
+194,"Village of Belmont",57,1522
+195,"Town of Belmont",25,1523
+196,"City of Beloit",20,1525
+197,"Beltrami Electric Coop, Inc",27,1529
+198,"City of Benkelman",32,1554
+199,"City of Bennettsville",47,1566
+200,"Benson Town of",38,1571
+201,"City of Benson",27,1573
+202,"Benton County",49,1578
+203,"PUD No 1 of Benton County",55,1579
+204,"Benton City of",5,1581
+205,"City of Benton",21,1582
+206,"Village of Benton",57,1585
+207,"City of Bentonville",5,1586
+208,"Big Country Electric Coop, Inc",50,1591
+209,"City of Beresford",48,1601
+210,"Village of Bergen",37,1604
+211,"Berkeley Electric Coop Inc",47,1613
+212,"Berlin Town of",24,1615
+213,"Borough of Berlin",44,1618
+214,"Benton Rural Electric Assn",55,1625
+215,"City of Bessemer Utilities",1,1640
+216,"City of Bethany",29,1647
+217,"Village of Bethany",17,1648
+218,"Village of Bethel",40,1650
+219,"Bethel Utilities Corp",2,1651
+220,"Big Flat Electric Coop Inc",30,1671
+221,"Big Horn Rural Electric Co",30,1675
+222,"Big Horn Rural Electric Co",58,1675
+223,"Village of Bloomdale",40,1677
+224,"Big Horn County Elec Coop, Inc",30,1683
+225,"Big Horn County Elec Coop, Inc",58,1683
+226,"City of Big Stone City",48,1698
+227,"City of Biggs",6,1702
+228,"Big Sandy Rural Elec Coop Corp",21,1708
+229,"Big Bend Electric Coop, Inc",55,1723
+230,"City of Blue Mound",20,1726
+231,"Blachly-Lane Cnty Coop El Assn",42,1736
+232,"Birch Creek Village Elec Util",2,1747
+233,"City of Biwabik",27,1753
+234,"Black River Electric Coop, Inc",47,1763
+235,"Black Diamond Power Co",56,1764
+236,"Village of Black Earth",57,1765
+237,"Black Hills Electric Coop, Inc",48,1769
+238,"Black River Electric Coop",29,1775
+239,"City of Black River Falls",57,1776
+240,"Town of Basin",58,1779
+241,"Black Warrior Elec Member Corp",1,1780
+242,"Town of Blackstone",54,1795
+243,"City of Blackwell",41,1800
+244,"City of Blaine",55,1818
+245,"Borough of Blakely",44,1823
+246,"City of Bigelow",19,1824
+247,"City of Bigelow",27,1824
+248,"City of Blakely",13,1826
+249,"Village of Blanchester",40,1832
+250,"City of Blanding",51,1839
+251,"Block Island Power Co",46,1857
+252,"Bloomer Electric & Water Co",57,1866
+253,"Bloomfield City of",19,1869
+254,"City of Blooming Prairie",27,1871
+255,"City of Blountstown",12,1876
+256,"City of Blue Earth",27,1883
+257,"Blue Earth-Nicollet-Faribault",27,1884
+258,"Blue Grass Energy Coop Corp",21,1886
+259,"Blue Ridge Elec Member Corp",38,1889
+260,"Blue Ridge Electric Coop Inc",47,1890
+261,"Blue Ridge Mountain E M C",13,1891
+262,"Blue Ridge Mountain E M C",49,1891
+263,"Bluebonnet Electric Coop, Inc",50,1892
+264,"City of Bluffton",18,1896
+265,"Bon Homme Yankton El Assn, Inc",48,1898
+266,"City of Boerne",50,1913
+267,"Bolivar Energy Authority",49,1936
+268,"City of Bridgeport Utilities",32,1955
+269,"City of Bonners Ferry",16,1956
+270,"Boone Valley Electric Coop",19,1968
+271,"Village of Boonville",37,1970
+272,"Town of Bostic",38,1987
+273,"City of Boscobel",57,1997
+274,"Boone Electric Coop",29,2001
+275,"City of Boulder",33,2008
+276,"City of Bountiful",51,2010
+277,"Bowie-Cass Electric Coop, Inc",50,2049
+278,"City of Bowie",50,2050
+279,"City of Bowling Green",40,2054
+280,"City of Bowling Green",21,2056
+281,"Town of Boyce",22,2064
+282,"Town of Boylston",25,2086
+283,"Bozrah Light & Power Company",8,2089
+284,"Village of Brainard",32,2120
+285,"Bradner Village of",40,2128
+286,"City of Brady",50,2135
+287,"Brainerd Public Utilities",27,2138
+288,"Braintree Town of",25,2144
+289,"City of Breckenridge",27,2182
+290,"City of Breda",19,2183
+291,"City of Breese",17,2188
+292,"Bremen Electric Light & Power Co",18,2192
+293,"City of Brenham",50,2194
+294,"Village of Brewster",40,2205
+295,"Brewster City of",27,2206
+296,"Bridgeport City of",50,2210
+297,"Broad River Electric Coop, Inc",38,2212
+298,"Broad River Electric Coop, Inc",47,2212
+299,"Bridger Valley Elec Assn, Inc",51,2215
+300,"Bridger Valley Elec Assn, Inc",58,2215
+301,"Brigham City Corporation",51,2220
+302,"Town of Brinson",13,2236
+303,"Bristol City of",49,2247
+304,"Bristol Virginia Utilities",49,2248
+305,"Bristol Virginia Utilities",54,2248
+306,"City of Bronson",20,2270
+307,"Village of Brocton",37,2272
+308,"Brodhead Water & Lighting Comm",57,2273
+309,"City of Broken Bow",32,2277
+310,"Brookings City of",48,2285
+311,"City of Brooklyn",19,2287
+312,"Town of Brooklyn",18,2289
+313,"Town of Brookston",18,2304
+314,"Brown County Rural Elec Assn",27,2316
+315,"Brown-Atchison E C A Inc",20,2354
+316,"Burke-Divide Electric Coop Inc",39,2394
+317,"City of Brownfield",50,2404
+318,"Brownsville Public Utilities Board",50,2409
+319,"City of Brownsville",49,2411
+320,"City of Brownton",27,2412
+321,"City of Brundidge",1,2423
+322,"City of Bryan",40,2439
+323,"City of Bryan",50,2442
+324,"City of Bryant",48,2448
+325,"City of Buffalo",27,2485
+326,"City of Buford",13,2487
+327,"City of Buhl",27,2491
+328,"Buckeye Rural Elec Coop, Inc",40,2502
+329,"City of Burbank Water and Power",6,2507
+330,"City of Burke",48,2534
+331,"City of Burley",16,2545
+332,"City of Burlingame",20,2547
+333,"City of Burlington-Electric",52,2548
+334,"City of Burlington",7,2550
+335,"City of Burlington",20,2551
+336,"City of Burlington",41,2553
+337,"City of Burnet",50,2559
+338,"Burt County Public Power Dist",32,2599
+339,"City of Burt",19,2600
+340,"City of Burwell",32,2609
+341,"City of Bushnell",12,2633
+342,"City of Bushnell",17,2634
+343,"Butler Rural El Coop Assn, Inc",20,2641
+344,"Butler Public Power District",32,2643
+345,"Butler City of",29,2647
+346,"Borough of Butler",35,2650
+347,"Butler Rural Electric Coop Inc",40,2651
+348,"Butler County Rural Elec Coop",19,2652
+349,"Butte Electric Coop, Inc",48,2655
+350,"C & L Electric Coop Corp",5,2678
+351,"City of Cabool",29,2726
+352,"Village of Cadott",57,2759
+353,"City of Cairo",13,2773
+354,"CMS Electric Coop Inc",20,2774
+355,"Cairo Public Utility Company",17,2776
+356,"City of Caldwell",50,2800
+357,"City of Callender",19,2809
+358,"City of Caledonia",27,2810
+359,"City of Calhoun",13,2812
+360,"Caliente City of",33,2821
+361,"Central Electric Power Assn",28,2849
+362,"City of California",29,2851
+363,"Village of Callaway",32,2859
+364,"City of Cambridge",32,2888
+365,"City of Camden",47,2890
+366,"City of Cameron",29,2900
+367,"Canoochee Electric Member Corp",13,2903
+368,"City of Camilla",13,2910
+369,"Canadian Valley Elec Coop, Inc",41,2911
+370,"City of Campbell",29,2930
+371,"Village of Campbell",32,2931
+372,"Canby Utility Board",42,2955
+373,"Caney Fork Electric Coop, Inc",49,2960
+374,"Caney Valley El Coop Assn, Inc",20,2961
+375,"Cannelton Utilities",18,2964
+376,"Canton Municipal Utilities",28,2974
+377,"Cape Hatteras Elec Member Corp",38,2982
+378,"Capital Electric Coop, Inc",39,2985
+379,"Cam Wal Electric Coop, Inc",48,2986
+380,"Carbon Power & Light, Inc",58,2998
+381,"Village of Carey",40,3008
+382,"City of Carlisle",19,3029
+383,"Carlyle City of",17,3037
+384,"Carmi City of",17,3040
+385,"Progress Energy Carolinas Inc",38,3046
+386,"Progress Energy Carolinas Inc",47,3046
+387,"Carroll County",49,3075
+388,"Carroll Electric Coop, Inc",40,3076
+389,"Carroll Electric Member Corp",13,3081
+390,"Carrollton Board of Public Wks",29,3082
+391,"Carroll County REMC",18,3086
+392,"Carroll Electric Coop Corp",5,3093
+393,"Carroll Electric Coop Corp",29,3093
+394,"Carteret-Craven El Member Corp",38,3107
+395,"Cartersville City of",13,3108
+396,"Cass Electric Coop",19,3111
+397,"City of Carthage",29,3113
+398,"City of Cascade Locks",42,3136
+399,"Cascade Municipal Utilities",19,3137
+400,"Cavalier Rural Elec Coop, Inc",39,3138
+401,"City of Casey",17,3153
+402,"Village of Cashton",57,3156
+403,"Village of Castile",37,3164
+404,"City of Castroville",50,3168
+405,"Borough of Catawissa",44,3170
+406,"City of Cavalier",39,3186
+407,"City of Cawker City",20,3191
+408,"Cedar Falls Utilities",19,3203
+409,"Cedar-Knox Public Power Dist",32,3205
+410,"Cedarburg Light & Water Comm",57,3208
+411,"Celina City of",40,3216
+412,"Central Alabama Electric Coop",1,3222
+413,"Central Rural Electric Cooperative, Inc",41,3226
+414,"City of Center",7,3227
+415,"Town of Centerville",18,3230
+416,"City of Central City",32,3235
+417,"Central Electric Coop, Inc",48,3236
+418,"Central Electric Coop Inc",42,3240
+419,"Central Florida Elec Coop, Inc",12,3245
+420,"Central Georgia El Member Corp",13,3248
+421,"Central Hudson Gas & Elec Corp",37,3249
+422,"Central Electric Membership Corporation",38,3250
+423,"Central Lincoln People's Ut Dt",42,3264
+424,"Cleco Power LLC",22,3265
+425,"Central Maine Power Co",23,3266
+426,"Central Missouri Elec Coop Inc",29,3268
+427,"Central New Mexico El Coop, Inc",36,3273
+428,"AEP Texas Central Company",50,3278
+429,"Central Texas Elec Coop, Inc",50,3282
+430,"Central Valley Elec Coop, Inc",36,3287
+431,"Central Virginia Electric Coop",54,3291
+432,"Central Vermont Pub Serv Corp",52,3292
+433,"Central Wisconsin Elec Coop",57,3293
+434,"City of Centralia",20,3294
+435,"City of Centralia",55,3295
+436,"Centralia City of",29,3296
+437,"Village of Centuria",57,3298
+438,"Chariton Valley Elec Coop, Inc",19,3314
+439,"Charles Mix Electric Assn, Inc",48,3315
+440,"Town of Chalmers",18,3323
+441,"Borough of Chambersburg",44,3329
+442,"City of Chanute",20,3355
+443,"City of Ceylon",27,3356
+444,"City of Chapman",20,3366
+445,"City of Chappell",32,3373
+446,"City of Charlevoix",26,3384
+447,"Caddo Electric Coop, Inc",41,3390
+448,"City of Chaska",27,3400
+449,"Village of Chatham",17,3405
+450,"City of Chattahoochee",12,3406
+451,"Chattanooga City of",13,3408
+452,"Chattanooga City of",49,3408
+453,"PUD No 1 of Chelan County",55,3413
+454,"Village of Chelsea",26,3415
+455,"City of Cheney",55,3420
+456,"City of Chignik",2,3421
+457,"City of Chefornak",2,3422
+458,"Cherokee Electric Coop",1,3426
+459,"Cherry-Todd Electric Coop, Inc",32,3435
+460,"Cherry-Todd Electric Coop, Inc",48,3435
+461,"Cherryland Electric Coop Inc",26,3436
+462,"City of Cherryville",38,3437
+463,"Village of Chester",32,3445
+464,"Town of Chester",25,3447
+465,"City of Chetopa",20,3454
+466,"City of Chewelah",55,3459
+467,"Cheyenne Light Fuel & Power Co",58,3461
+468,"Chitina Electric Inc",2,3465
+469,"Cherokee County Elec Coop Assn",50,3470
+470,"City of Chickamauga",13,3475
+471,"Chicopee City of",25,3477
+472,"Cimarron Electric Coop",41,3478
+473,"Chillicothe Municipal Utils",29,3486
+474,"Chimney Rock Public Power Dist",32,3495
+475,"Chippewa Valley Electric Coop",57,3498
+476,"Choctawhatche Elec Coop, Inc",12,3502
+477,"Choptank Electric Coop, Inc",24,3503
+478,"Chugach Electric Assn Inc",2,3522
+479,"Village of Churchville",37,3525
+480,"Choctaw Electric Coop Inc",41,3527
+481,"City of Cimarron",20,3535
+482,"Duke Energy Ohio Inc",40,3542
+483,"Citizens Electric Co",44,3597
+484,"Citizens Electric Corporation",29,3600
+485,"City of McLaughlin",48,3633
+486,"City of Nixa",29,3634
+487,"Claiborne Electric Coop, Inc",22,3641
+488,"PUD No 1 of Clallam County",55,3644
+489,"City of Claremore",41,3647
+490,"PUD No 1 of Clark County",55,3660
+491,"Clark Energy Coop Inc",21,3687
+492,"Clark Electric Coop",57,3701
+493,"Clarksdale Public Utilities",28,3702
+494,"Clarksville City of",49,3704
+495,"Clarksville Light & Water Co",5,3705
+496,"City of Clay Center",20,3710
+497,"Clay County Electric Coop Corp",5,3712
+498,"Clay County Electric Coop Corp",29,3712
+499,"Clay-Union Electric Corp",48,3716
+500,"Clarke Electric Coop Inc",19,3722
+501,"Clay Electric Coop Inc",17,3726
+502,"Town of Clayton",38,3731
+503,"Town of Clayton",9,3732
+504,"City of Colman",48,3735
+505,"Clearwater Power Company",16,3739
+506,"Clearwater Power Company",42,3739
+507,"Clearwater Power Company",55,3739
+508,"Cleveland Electric Illum Co",40,3755
+509,"Clay Electric Cooperative, Inc",12,3757
+510,"Cleveland City of",49,3758
+511,"City of Cleveland",40,3762
+512,"Clearwater-Polk Elec Coop Inc",27,3764
+513,"City of Clewiston",12,3774
+514,"Clinton Combined Utility Sys",47,3804
+515,"Clinton County Elec Coop, Inc",17,3806
+516,"Clinton City of",49,3812
+517,"Clinton Village of",26,3813
+518,"City of Clintonville",57,3814
+519,"Town of Coatesville",18,3815
+520,"Clyde Light & Power",40,3824
+521,"Cloverland Electric Co-op",26,3828
+522,"Coahoma Electric Power Assn",28,3839
+523,"Coast Electric Power Assn",28,3841
+524,"Coastal Electric Member Corp",13,3843
+525,"Coastal Electric Coop, Inc",47,3844
+526,"Codington-Clark Elec Coop, Inc",48,3850
+527,"Columbia Power System",49,3855
+528,"City of Cody",58,3881
+529,"City of Coffeyville",20,3892
+530,"City of Coffeyville",41,3892
+531,"City of Coggon",19,3900
+532,"City of Colby",20,3913
+533,"Coldwater Board of Public Util",26,3915
+534,"Cobb Electric Membership Corp",13,3916
+535,"City of Coleman",50,3923
+536,"Coles-Moultrie Electric Coop",17,3931
+537,"Coleman County Elec Coop, Inc",50,3938
+538,"City of College Park",13,3939
+539,"City of College Station",50,3940
+540,"City of Collins",28,3957
+541,"Collinsville City of",41,3986
+542,"Colorado Springs City of",7,3989
+543,"Colorado River Indian Irr Proj",4,3990
+544,"Colorado River Indian Irr Proj",6,3990
+545,"City of Colton",6,4003
+546,"Columbia Basin Elec Cooperative, Inc",42,4005
+547,"City of Columbia City",18,4007
+548,"Columbia Power Coop Assn Inc",42,4008
+549,"Calhoun County Elec Coop Assn",19,4040
+550,"Columbia Rural Elec Assn, Inc",42,4041
+551,"Columbia Rural Elec Assn, Inc",55,4041
+552,"City of Columbia",29,4045
+553,"Columbiana City of",40,4061
+554,"Columbus Southern Power Co",40,4062
+555,"Co-Mo Electric Coop Inc",29,4063
+556,"City of Columbus",40,4065
+557,"City of Columbus",28,4068
+558,"Columbus Electric Coop, Inc",4,4071
+559,"Columbus Electric Coop, Inc",36,4071
+560,"City of Columbus",57,4073
+561,"City of Comanche",41,4078
+562,"City of Commerce",13,4091
+563,"Commonwealth Edison Co",17,4110
+564,"Community Electric Coop",54,4117
+565,"Concho Valley Elec Coop Inc",50,4146
+566,"Town of Concord",25,4147
+567,"Concord City of",38,4150
+568,"Concordia Electric Coop, Inc",22,4153
+569,"Callaway Electric Cooperative",29,4160
+570,"Connecticut Light & Power Co",8,4176
+571,"Consolidated Edison Co-NY Inc",37,4226
+572,"Consolidated Electric Coop",29,4237
+573,"Consolidated Water Power Co",57,4247
+574,"Consumers Energy Co",26,4254
+575,"Cooke County Elec Coop Assn",50,4262
+576,"Continental Divide El Coop Inc",36,4265
+577,"Conway Corporation",5,4280
+578,"Cookeville City of",49,4294
+579,"Comanche County Elec Coop Assn",50,4295
+580,"Cookson Hills Elec Coop, Inc",41,4296
+581,"City of Corwith",19,4304
+582,"City of Coon Rapids",19,4305
+583,"Coos-Curry Electric Coop, Inc",42,4317
+584,"Copan Public Works Authority",41,4319
+585,"Coosa Valley Electric Coop Inc",1,4327
+586,"Copper Valley Elec Assn, Inc",2,4329
+587,"Corbin City Utilities Comm",21,4341
+588,"City of Cordell",41,4344
+589,"Cooperative L&P Assn Lake Cnty",27,4346
+590,"Colorado River Comm of Nevada",33,4356
+591,"Corn Belt Energy Corporation",17,4362
+592,"Town of Cornelius",38,4365
+593,"City of Cornell",57,4369
+594,"Cornhusker Public Power Dist",32,4373
+595,"City of Corning",19,4375
+596,"City of Corona",6,4390
+597,"Cotton Electric Coop, Inc",41,4401
+598,"City of Coulee Dam",55,4414
+599,"Covington City of",18,4429
+600,"Covington Electric Coop, Inc",1,4430
+601,"Coweta-Fayette El Member Corp",13,4432
+602,"Covington City of",13,4433
+603,"City of Covington",49,4437
+604,"PUD No 1 of Cowlitz County",55,4442
+605,"Cozad Board of Public Works",32,4459
+606,"Craig-Botetourt Electric Coop",54,4471
+607,"Craig-Botetourt Electric Coop",56,4471
+608,"City of Crane",29,4483
+609,"Crane Town of",18,4486
+610,"Crawfordsville Elec, Lgt & Pwr",18,4508
+611,"Craighead Electric Coop Corp",5,4509
+612,"Crawford Electric Coop, Inc",29,4524
+613,"City of Crete",32,4527
+614,"Crisp County Power Comm",13,4538
+615,"City of Croswell",26,4562
+616,"Crow Wing Cooperative Power & Light Comp",27,4577
+617,"City of Crystal Falls",26,4604
+618,"City of Cuba City",57,4607
+619,"City of Cuba",29,4608
+620,"Cuero City of",50,4610
+621,"Cullman Power Board",1,4617
+622,"Cullman Electric Coop, Inc",1,4618
+623,"Town of Culpeper",54,4619
+624,"Cumberland Valley Rural E C C",21,4622
+625,"Cumberland Valley Rural E C C",49,4622
+626,"Cumberland Elec Member Corp",49,4624
+627,"Cumberland City of",57,4627
+628,"Cuming County Public Pwr Dist",32,4632
+629,"City of Curtis",32,4661
+630,"City of Cushing",41,4667
+631,"Custer Public Power District",32,4671
+632,"Cuivre River Electric Coop Inc",29,4675
+633,"City of Cuyahoga Falls",40,4683
+634,"Village of Cygnet",40,4685
+635,"D S & O Rural E C A, Inc",20,4704
+636,"Dahlberg Light & Power Co",57,4715
+637,"Dakota Valley Elec Coop Inc",39,4717
+638,"Dakota Energy Coop Inc",48,4720
+639,"City of Custar",40,4725
+640,"Dallas Town of",38,4739
+641,"Consumers Power, Inc",42,4743
+642,"Dalton Utilities",13,4744
+643,"City of Danville",19,4791
+644,"Village of Daggett",26,4792
+645,"City of Danville",54,4794
+646,"Darke Rural Electric Coop, Inc",40,4796
+647,"Darlington Light & Power Co",18,4799
+648,"City of David City",20,4836
+649,"City of David City",32,4836
+650,"Daviess Martin County R E M C",18,4848
+651,"Dawson Power District",32,4911
+652,"Village of Davenport",32,4914
+653,"Dayton City of",19,4919
+654,"City of Dayton",49,4920
+655,"Dayton Power & Light Co",40,4922
+656,"Village of De Witt",32,4934
+657,"Deaf Smith Electric Coop, Inc",50,4939
+658,"Decatur Utilities",1,4958
+659,"Aniak Light & Power Co Inc",2,4959
+660,"Decatur County Rural E M C",18,4960
+661,"Village of Decatur",32,4961
+662,"Deep East Texas Elec Coop Inc",50,4975
+663,"City of Deaver",58,4981
+664,"Delano Municipal Utilities",27,5015
+665,"Delaware County Elec Coop Inc",37,5021
+666,"Delmarva Power",9,5027
+667,"Delmarva Power",24,5027
+668,"Delmarva Power",54,5027
+669,"City of Delta",7,5036
+670,"City of Denison",19,5056
+671,"City of Denton",50,5063
+672,"Delaware Electric Cooperative",9,5070
+673,"Town of Dunreith",18,5071
+674,"City of Denver",19,5076
+675,"Denton County Elec Coop, Inc",50,5078
+676,"Delta Montrose Electric Assn",7,5086
+677,"Village of Deshler",40,5096
+678,"City of Deshler",32,5097
+679,"City of Detroit",26,5107
+680,"Detroit Edison Co",26,5109
+681,"City of Detroit Lakes",27,5111
+682,"City of Dickson",49,5148
+683,"City of Dighton",20,5154
+684,"City of Dike",19,5155
+685,"Dixie Electric Power Assn",28,5175
+686,"Dixie Electric Membership Corp",22,5202
+687,"Dixie Electric Coop",1,5204
+688,"City of Doerun",13,5236
+689,"City of Dothan",1,5309
+690,"City of Douglas",13,5325
+691,"PUD No 1 of Douglas County",55,5326
+692,"Douglas Electric Coop, Inc",42,5327
+693,"Douglas Electric Coop, Inc",48,5328
+694,"Doniphan Elec Coop Assn, Inc",20,5334
+695,"Dover City of",9,5335
+696,"City of Dover",40,5336
+697,"City of Dowagiac",26,5343
+698,"Village of Dorchester",32,5350
+699,"City of Drain",42,5354
+700,"Town of Drexel",38,5372
+701,"Dublin Municipal Electric Util",18,5392
+702,"Dubois Rural Electric Coop Inc",18,5394
+703,"City of Dunnell",27,5397
+704,"Duck River Elec Member Corp",49,5399
+705,"City of Due West",47,5402
+706,"Duke Energy Carolinas, LLC",38,5416
+707,"Duke Energy Carolinas, LLC",47,5416
+708,"Dunn County Electric Coop",57,5417
+709,"City of Duncan",41,5429
+710,"Duncan Valley Elec Coop, Inc",4,5438
+711,"Duncan Valley Elec Coop, Inc",36,5438
+712,"Duncannon Borough of",44,5442
+713,"City of Durant",28,5479
+714,"Town of Danvers",25,5480
+715,"Duquesne Light Co",44,5487
+716,"City of Dyersburg",49,5509
+717,"City of Dysart",19,5518
+718,"City of Durant",19,5529
+719,"Edgar Electric Co-op, Assn",17,5531
+720,"Egyptian Electric Coop Assn",17,5535
+721,"City of Eagle River",57,5551
+722,"Egegik Light & Power Co",2,5553
+723,"City of Earlville",19,5563
+724,"East Central Energy",27,5574
+725,"East Central Energy",57,5574
+726,"East Grand Forks City of",27,5575
+727,"East Mississippi Elec Pwr Assn",28,5578
+728,"East Kentucky Power Coop, Inc",21,5580
+729,"City of East Point",13,5582
+730,"City of Easton",29,5583
+731,"East End Mutual Elec Co Ltd",16,5584
+732,"Eastern Illinois Elec Coop",17,5585
+733,"Borough of East Conemaugh",44,5586
+734,"East-Central Iowa Rural Elec Coop",19,5588
+735,"East Central Oklahoma Elec Coop Inc",41,5598
+736,"Eastern Iowa Light & Power Coop",19,5605
+737,"Eastern Maine Electric Coop",23,5609
+738,"Easton Utilities Comm",24,5625
+739,"City of Eaton Rapids",26,5630
+740,"Town of Eatonville",55,5631
+741,"Eau Claire Electric Coop",57,5632
+742,"Edisto Electric Coop, Inc",47,5644
+743,"City of Edgar",32,5650
+744,"Edgerton Village of",40,5653
+745,"Edinburg Municipal Utilities",18,5655
+746,"Edgecombe-Martin County E M C",38,5656
+747,"City of Edmond",41,5661
+748,"City of El Dorado Springs",29,5686
+749,"City of Eitzen",27,5692
+750,"El Paso Electric Co",36,5701
+751,"El Paso Electric Co",50,5701
+752,"City of Elfin Cove",2,5721
+753,"Elba City of",1,5728
+754,"Electrical Dist No8 Maricopa",4,5729
+755,"City of Elberton",13,5730
+756,"City of Elbow Lake",27,5732
+757,"City of Eldorado",41,5741
+758,"Eldridge City Utilities",19,5742
+759,"City of Electra",50,5744
+760,"Electric Energy Inc",17,5748
+761,"Electric Energy Inc",21,5748
+762,"Village of Eldorado",40,5752
+763,"City of Elizabeth City",38,5760
+764,"Village of Elk Creek",32,5762
+765,"City of Elizabethton",49,5763
+766,"City of Elk Point",48,5771
+767,"City of Elk River",27,5773
+768,"City of Elkhorn",57,5777
+769,"Elkhorn Rural Public Pwr Dist",32,5780
+770,"Town of Elkton",54,5794
+771,"City of Elsmore",20,5795
+772,"City of Ellaville",13,5796
+773,"City of Ellinwood",20,5802
+774,"City of Ellsworth",19,5827
+775,"Borough of Ellwood City",44,5828
+776,"Elmhurst Mutual Power & Light Co",55,5832
+777,"Village of Elmore",40,5833
+778,"City of Elroy",57,5834
+779,"City of Elwood",20,5839
+780,"Ely City of",27,5841
+781,"City of Emerson",32,5850
+782,"Empire District Electric Co",5,5860
+783,"Empire District Electric Co",20,5860
+784,"Empire District Electric Co",29,5860
+785,"Empire District Electric Co",41,5860
+786,"Empire Electric Assn, Inc",7,5862
+787,"Empire Electric Assn, Inc",51,5862
+788,"Village of Endicott",37,5875
+789,"Town of Enfield",38,5896
+790,"Excelsior Electric Member Corp",13,5905
+791,"Village of Enosburg Falls",52,5915
+792,"City of Enterprise",20,5919
+793,"Village of Endicott",32,5927
+794,"Town of Etna Green",18,5928
+795,"Fairfield Electric Coop, Inc",47,5929
+796,"Village of Fairport",37,5930
+797,"Ephraim City of",51,5932
+798,"Borough of Ephrata",44,5935
+799,"City of Erath",22,5945
+800,"Erie City of",20,5957
+801,"Erwin Town of",49,5961
+802,"Escambia River Elec Coop, Inc",12,5964
+803,"City of Escondido",6,5969
+804,"City of Estelline",48,5995
+805,"Town of Estes Park",7,5997
+806,"City of Estherville",19,5998
+807,"City of Etowah",49,6008
+808,"City of Eudora",20,6019
+809,"Eugene City of",42,6022
+810,"City of Evansville",57,6043
+811,"City of Evergreen",1,6052
+812,"Farmers Electric Coop, Inc",19,6112
+813,"City of Fairbank",19,6127
+814,"City of Fairburn",13,6130
+815,"City of Fairbury",32,6132
+816,"Fairmont Village of",32,6136
+817,"City of Fairfax",27,6138
+818,"City of Fairfield",17,6141
+819,"Fairhope City of",1,6145
+820,"City of Ellensburg",55,6149
+821,"Fairmont Public Utilities Comm",27,6151
+822,"City of Fairview",41,6152
+823,"Fairview City Corporation",51,6154
+824,"Farmers Electric Company, Ltd",16,6155
+825,"City of Faith",48,6157
+826,"Farmers Electric Coop",19,6168
+827,"Fall River Rural Elec Coop Inc",16,6169
+828,"Fall River Rural Elec Coop Inc",30,6169
+829,"Fall River Rural Elec Coop Inc",58,6169
+830,"City of Fallon",33,6172
+831,"Fannin County Electric Coop",50,6173
+832,"City of Falls City",32,6175
+833,"City of Falmouth",21,6178
+834,"Farmers' Electric Coop, Inc",29,6181
+835,"Farmers Electric Coop, Inc",50,6182
+836,"Fayette Electric Coop, Inc",50,6183
+837,"City of Farmer City",17,6192
+838,"Farmers Rural Electric Coop Corp",21,6194
+839,"Farmers' Electric Coop, Inc",36,6198
+840,"Farmers' Electric Coop, Inc",50,6198
+841,"Farmers Mutual Electric Co",17,6199
+842,"Farmersville City of",50,6203
+843,"City of Farmington",36,6204
+844,"City of Farmington",29,6205
+845,"Farmers Electric Coop Corp",5,6206
+846,"Farmington River Power Company",8,6207
+847,"Town of Farmville",38,6209
+848,"City of Farnhamville",19,6210
+849,"City of Fayette",29,6231
+850,"City of Fayetteville",49,6234
+851,"Public Works Comm-City of Fayetteville",38,6235
+852,"Federated Rural Electric Assn",19,6258
+853,"Federated Rural Electric Assn",27,6258
+854,"FEM Electric Assn, Inc",48,6272
+855,"City of Fennimore",57,6274
+856,"Town of Ferdinand",18,6276
+857,"PUD No 1 of Ferry County",55,6297
+858,"Fillmore City Corporation",51,6316
+859,"Firelands Electric Coop, Inc",40,6335
+860,"First Electric Coop Corp",5,6342
+861,"Fishers Island Utility Co Inc",37,6369
+862,"Fitchburg Gas and Electric Light Company",25,6374
+863,"Fitzgerald Wtr Lgt & Bond Comm",13,6380
+864,"City of Flandreau",48,6390
+865,"Flathead Electric Coop Inc",30,6395
+866,"City of Flatonia",50,6396
+867,"Flint Electric Membership Corp",13,6411
+868,"City of Flora",17,6417
+869,"Town of Fleming",7,6418
+870,"Florence City of",1,6422
+871,"Florence Utility Comm",57,6424
+872,"Flora Utilities",18,6425
+873,"City of Floresville",50,6427
+874,"Flint Hills Rural E C A, Inc",20,6431
+875,"Fleming-Mason Energy Coop Inc",21,6442
+876,"Florida Keys El Coop Assn, Inc",12,6443
+877,"Florida Power & Light Co",12,6452
+878,"Progress Energy Florida Inc",12,6455
+879,"Florida Public Utilities Co",12,6457
+880,"City of Floydada",50,6472
+881,"Foley Board of Utilities",1,6491
+882,"City of Fonda",19,6496
+883,"City of Fontanelle",19,6501
+884,"Town of Fort Laramie",58,6509
+885,"City of Forest City",19,6579
+886,"Town of Forest City",38,6580
+887,"City of Forest Grove",42,6582
+888,"City of Forsyth",13,6598
+889,"Fort Collins City of",7,6604
+890,"Fort Loudoun Electric Coop",49,6608
+891,"City of Fort Meade",12,6609
+892,"City of Fort Morgan",7,6610
+893,"Fort Belknap Electric Coop Inc",50,6611
+894,"Fort Payne Improvement Auth",1,6612
+895,"Town of Fountain",38,6613
+896,"City of Fort Pierre",48,6615
+897,"Fort Pierce Utilities Auth",12,6616
+898,"Fort Valley Utility Comm",13,6617
+899,"Town of Fort Supply",41,6618
+900,"City of Fosston",27,6627
+901,"City of Fountain",7,6638
+902,"Four County Elec Member Corp",38,6640
+903,"4-County Electric Power Assn",28,6641
+904,"City of Frankfort",18,6707
+905,"Frankfort City of",21,6708
+906,"Easley Combined Utility System",47,6709
+907,"Town of Edenton",38,6710
+908,"Village of Frankfort",37,6711
+909,"City of Franklin",54,6715
+910,"PUD No 1 of Franklin County",55,6716
+911,"Franklin Electric Coop",1,6717
+912,"City of Franklin",21,6718
+913,"Franklin Rural Electric Cooperative",19,6722
+914,"City of Franklin",32,6723
+915,"Town of Frankton",18,6735
+916,"City of Frederick",41,6750
+917,"Town of Frederick",7,6752
+918,"City of Fredonia",4,6753
+919,"City of Fredericksburg",50,6758
+920,"City of Fredericksburg",19,6759
+921,"Fredericktown City of",29,6761
+922,"City of Fredonia",20,6762
+923,"Freeburg Village of",17,6764
+924,"Village of Freeport",37,6775
+925,"Fremont City of",32,6779
+926,"Town of Fremont",38,6780
+927,"Freeborn-Mower Coop Services",19,6782
+928,"Freeborn-Mower Coop Services",27,6782
+929,"French Broad Elec Member Corp",38,6784
+930,"French Broad Elec Member Corp",49,6784
+931,"City of Friend",32,6793
+932,"Town of Front Royal",54,6803
+933,"Frontier Power Company",40,6804
+934,"City of Fulton",29,6839
+935,"City of Fulton",21,6840
+936,"Fulton County Rural E M C",18,6848
+937,"G & K, Inc",2,6866
+938,"City of Gaffney",47,6894
+939,"City of Galt",29,6896
+940,"City of Greendale",18,6907
+941,"Gainesville Regional Utilities",12,6909
+942,"City of Galion",40,6914
+943,"Galena Electric Utility",2,6915
+944,"City of Gallatin",49,6923
+945,"City of Gallatin",29,6924
+946,"City of Gallup",36,6930
+947,"City of Galva",20,6931
+948,"City of Garden City",20,6941
+949,"City of Gardner",20,6949
+950,"Garland Light & Power Company",58,6950
+951,"Garkane Energy Coop, Inc",4,6957
+952,"Garkane Energy Coop, Inc",51,6957
+953,"City of Garland",50,6958
+954,"City of Garnett",20,6965
+955,"City of Garrett",18,6970
+956,"City of Gas City",18,6993
+957,"Gascosage Electric Coop",29,7024
+958,"City of Gastonia",38,7027
+959,"City of Geary",41,7048
+960,"City of Declo",16,7084
+961,"GreyStone Power Corporation",13,7090
+962,"Geneseo City of",17,7095
+963,"City of Geneva",17,7096
+964,"Village of Genoa",40,7100
+965,"City of Georgetown",47,7128
+966,"Georgetown City of",50,7129
+967,"Town of Georgetown",25,7130
+968,"Village of Georgetown",40,7131
+969,"Georgia Power Co",13,7140
+970,"City of Gering",32,7149
+971,"Gibson Electric Members Corp",49,7174
+972,"City of Giddings",50,7184
+973,"City of Gilbert",27,7194
+974,"Georgia Transmission Corp",13,7197
+975,"City of Gilman City",29,7200
+976,"Gillette City of",58,7222
+977,"City of Giltner",32,7249
+978,"Girard Borough of",44,7256
+979,"Girard City of",20,7257
+980,"Glacier Electric Coop, Inc",30,7262
+981,"Glades Electric Coop, Inc",12,7264
+982,"City of Gladstone",26,7265
+983,"City of Glasco",20,7269
+984,"City of Glasgow",21,7270
+985,"City of Glen Elder",20,7287
+986,"Glencoe Light & Power Comm",27,7292
+987,"City of Glendale",6,7294
+988,"City of Glidden",19,7295
+989,"Glenwood Springs City of",7,7300
+990,"Glidden Rural Electric Coop",19,7303
+991,"Village of Glouster",40,7311
+992,"Goldenwest Electric Coop, Inc",30,7318
+993,"Goldenwest Electric Coop, Inc",39,7318
+994,"Golden Valley Elec Assn Inc",2,7353
+995,"Borough of Goldsboro",44,7359
+996,"City of Goldthwaite",50,7368
+997,"City of Gonzales",50,7370
+998,"City of Goodland",20,7374
+999,"City of Gothenburg",32,7411
+1000,"City of Goldsmith",50,7419
+1001,"Gowrie Municipal Utilities",19,7424
+1002,"Goltry Public Works Authority",41,7441
+1003,"Grafton Electric",19,7442
+1004,"City of Graettinger",19,7443
+1005,"Grafton City of",39,7444
+1006,"Grafton Village of",40,7445
+1007,"Grady Electric Membership Corp",13,7450
+1008,"Graham County Electric Coop Inc",4,7456
+1009,"Goodhue County Coop Elec Assn",27,7460
+1010,"Town of Granada",7,7478
+1011,"City of Granbury",50,7480
+1012,"City of Grand Haven",26,7483
+1013,"Grand Electric Coop, Inc",30,7484
+1014,"Grand Electric Coop, Inc",48,7484
+1015,"City of Grant",32,7485
+1016,"Grand Junction City of",19,7486
+1017,"City of Grand Marais",27,7487
+1018,"Grand Rapids Public Util Comm",27,7489
+1019,"Grand River Dam Authority",41,7490
+1020,"Granite Falls City of",27,7494
+1021,"Granite Falls Town of",38,7496
+1022,"City of Granite",41,7501
+1023,"City of Grantville",13,7515
+1024,"PUD No 1 of Grays Harbor Cnty",55,7548
+1025,"Grayson Rural Electric Coop Corp",21,7558
+1026,"Grayson-Collin Elec Coop, Inc",50,7559
+1027,"Greenbelt Electric Coop, Inc",50,7561
+1028,"Grand Valley Rrl Pwr Line, Inc",7,7563
+1029,"City of Green Cove Springs",12,7593
+1030,"Village of Green Island",37,7600
+1031,"Green Mountain Power Corp",52,7601
+1032,"Village of Greene",37,7624
+1033,"Greeneville City of",49,7625
+1034,"City of Greenfield",19,7626
+1035,"City of Greenfield",18,7627
+1036,"Village of Greenport",37,7630
+1037,"City of Greensburg",20,7631
+1038,"Village of Greenup",17,7633
+1039,"Greenville, City of",50,7634
+1040,"Greenville Utilities Comm",38,7639
+1041,"Village of Greenwich",40,7643
+1042,"Greenwood Commissioners-Pub Wk",47,7646
+1043,"Village of Greenwood",32,7650
+1044,"Greenwood Utilities Comm",28,7651
+1045,"Greer Commission of Public Wks",47,7654
+1046,"Village of Gresham",57,7665
+1047,"City of Gridley",6,7677
+1048,"City of Griffin",13,7679
+1049,"City of Groton",48,7712
+1050,"Village of Groton",37,7713
+1051,"Town of Groton",25,7715
+1052,"Groton Dept of Utilities",8,7716
+1053,"Borough of Grove City",44,7719
+1054,"Grundy Electric Coop, Inc",19,7720
+1055,"Grundy Electric Coop, Inc",29,7720
+1056,"Groveland Town of",25,7723
+1057,"City of Grove City",27,7732
+1058,"Grundy Center Mun Light & Power",19,7743
+1059,"Guthrie County Rural E C A",19,7750
+1060,"Guadalupe Valley Elec Coop Inc",50,7752
+1061,"Town of Guernsey",58,7759
+1062,"Town of Gueydan",22,7760
+1063,"Gulf Coast Electric Coop, Inc",12,7785
+1064,"Gunnison County Elec Assn.",7,7787
+1065,"Gulf Power Co",12,7801
+1066,"Gustavus Electric Inc",2,7822
+1067,"City of Gunnison",7,7826
+1068,"Guntersville Electric Board",1,7827
+1069,"Gwitchyaa Zhee Utility Co",2,7833
+1070,"City of Guttenberg",19,7837
+1071,"Grundy County Rural Elec Coop",19,7864
+1072,"H-D Electric Coop Inc",27,7870
+1073,"H-D Electric Coop Inc",48,7870
+1074,"Habersham Electric Membership Corp",13,7887
+1075,"Guernsey-Muskingum El Coop Inc",40,7891
+1076,"Hagerstown City of",18,7907
+1077,"Hagerstown Light Department",24,7908
+1078,"City of Hallettsville",50,7958
+1079,"City of Halstad",27,7969
+1080,"Village of Hamersville",40,7973
+1081,"City of Hamilton",40,7977
+1082,"Halifax Electric Member Corp",38,7978
+1083,"Hamilton County Elec Coop Assn",50,7979
+1084,"Village of Hamilton",37,7995
+1085,"Town of Hamilton",38,7996
+1086,"Hancock County Rural E M C",18,8000
+1087,"City of Hampton",13,8022
+1088,"Hancock-Wood Electric Coop Inc",40,8034
+1089,"City of Hannibal",29,8055
+1090,"Village of Hampton",32,8063
+1091,"Harbor Springs City of",26,8083
+1092,"Town of Hardwick",52,8104
+1093,"Harlan City of",19,8122
+1094,"City of Harmony",27,8131
+1095,"City of Harriman",49,8147
+1096,"Harrison County Rural E M C",18,8179
+1097,"Harmon Electric Assn Inc",41,8183
+1098,"Harrison Rural Elec Assn, Inc",56,8192
+1099,"Harrisonburg City of",54,8198
+1100,"Harrisonville City of",29,8199
+1101,"City of Hart Hydro",26,8205
+1102,"Hartford City of",1,8209
+1103,"Hart Electric Member Corp",13,8210
+1104,"Hartford Electric",57,8212
+1105,"City of Hartley",19,8214
+1106,"City of Hartselle",1,8226
+1107,"Village of Haskins",40,8240
+1108,"Hastings City of",32,8245
+1109,"Borough of Hatfield",44,8254
+1110,"Havana Power & Light Company",12,8276
+1111,"City of Haven",20,8279
+1112,"Harrison County Rrl Elec Coop",19,8283
+1113,"Hawaii Electric Light Co Inc",15,8287
+1114,"City of Hawarden",19,8288
+1115,"Hawkeye Tri-County El Coop Inc",19,8298
+1116,"Hawley Public Utilities Comm",27,8307
+1117,"Town of Haxtun",7,8311
+1118,"Heartland Power Coop",19,8319
+1119,"Heartland Power Coop",27,8319
+1120,"Haywood Electric Member Corp",13,8333
+1121,"Haywood Electric Member Corp",38,8333
+1122,"Haywood Electric Member Corp",47,8333
+1123,"Village of Hazel Green",57,8336
+1124,"Healdsburg City of",6,8348
+1125,"City of Hearne",50,8359
+1126,"Heber Light & Power Company",51,8366
+1127,"City of Hebron",32,8375
+1128,"City of Hecla",48,8379
+1129,"City of Helper",51,8428
+1130,"Village of Hemingford",32,8430
+1131,"Hemphill City of",50,8432
+1132,"City of Hempstead",50,8435
+1133,"Hendricks County Rural E M C",18,8447
+1134,"Henderson City Utility Comm",21,8449
+1135,"City of Henning",27,8459
+1136,"Henry County Rural E M C",18,8466
+1137,"City of Herington",20,8490
+1138,"City of Hermann",29,8493
+1139,"City of Herndon",20,8497
+1140,"City of Hermiston",42,8515
+1141,"Hertford City of",38,8517
+1142,"Heyburn City of",16,8532
+1143,"Hibbing Public Utilities Comm",27,8543
+1144,"City of Hickman",21,8548
+1145,"High Plains Power Inc",58,8566
+1146,"City of Higginsville",29,8567
+1147,"Highline Electric Assn",7,8570
+1148,"Highline Electric Assn",32,8570
+1149,"Town of High Point",38,8571
+1150,"City of Highland",17,8573
+1151,"Jackson Electric Coop, Inc",57,8574
+1152,"City of Highlands",38,8579
+1153,"City of Hill City",20,8599
+1154,"City of Hinton",19,8610
+1155,"HILCO Electric Cooperative, Inc.",50,8620
+1156,"City of Hillsboro",39,8628
+1157,"City of Hillsboro",20,8629
+1158,"Hillsdale Board of Public Wks",26,8631
+1159,"Hill County Electric Coop, Inc",30,8632
+1160,"Town of Hobgood",38,8677
+1161,"Hogansville City of",13,8698
+1162,"Inland Power & Light Company",16,8699
+1163,"Inland Power & Light Company",55,8699
+1164,"Hohokam Irr & Drain Dist",4,8700
+1165,"City of Hoisington",20,8703
+1166,"Town of Holden",51,8714
+1167,"Town of Holden",25,8715
+1168,"City of Holdrege",32,8717
+1169,"City of Holland",26,8723
+1170,"Village of Holley",37,8733
+1171,"City of Holly Springs",28,8748
+1172,"Town of Holly",7,8751
+1173,"Holmes-Wayne Electric Coop Inc",40,8761
+1174,"Holston Electric Coop, Inc",49,8764
+1175,"City of Holton",20,8770
+1176,"Holy Cross Electric Assn, Inc",7,8773
+1177,"Holyoke City of",25,8774
+1178,"City of Holyoke",7,8777
+1179,"Fox Islands Electric Coop, Inc",23,8780
+1180,"City of Holyrood",20,8781
+1181,"Horry Electric Coop Inc",47,8786
+1182,"City of Homestead",12,8795
+1183,"City of Hingham",25,8796
+1184,"Hull Municipal Light Plant",25,8797
+1185,"Hominy City of",41,8799
+1186,"City of Hondo",50,8801
+1187,"M J M Electric Cooperative Inc",17,8824
+1188,"Town of Hookerton",38,8825
+1189,"Hooversville Boro Elec Lgt Co",44,8826
+1190,"Hood River Electric Coop",42,8830
+1191,"City of Hope",5,8840
+1192,"City of Hopkinsville",21,8846
+1193,"City of Hopkinton",19,8847
+1194,"City of Horton",20,8871
+1195,"Houlton Water Company",23,8883
+1196,"Terrebonne Parish Consol Gov't",22,8884
+1197,"City of Houston",29,8896
+1198,"Houston County Elec Coop Inc",50,8898
+1199,"CenterPoint Energy",50,8901
+1200,"Howard Electric Coop",29,8911
+1201,"City of Howard",48,8919
+1202,"Howard Greeley Rural P P D",32,8924
+1203,"Howell-Oregon Elec Coop, Inc",29,8934
+1204,"City of Hubbard",40,8949
+1205,"Hudson Municipal Electric Utility",19,8966
+1206,"City of Hudson",40,8972
+1207,"Town of Hudson",25,8973
+1208,"Hughes Power & Light Co",2,9000
+1209,"City of Hugoton",20,9011
+1210,"City of Hubbell",32,9022
+1211,"City of Humboldt",49,9023
+1212,"City of Hunnewell",29,9025
+1213,"Humboldt County R E C",19,9026
+1214,"City of Hope",39,9067
+1215,"Town of Huntersville",38,9087
+1216,"Huntingburg City of",18,9088
+1217,"Huntsville City of",1,9094
+1218,"City of Lafayette",22,9096
+1219,"Hustisford Utilities",57,9124
+1220,"Hurricane Power Committee",51,9128
+1221,"Hutchinson Utilities Comm",27,9130
+1222,"Hyde Park Village of",52,9144
+1223,"Hyrum City Corporation",51,9163
+1224,"Idaho Cnty L&P Coop Assn, Inc",16,9186
+1225,"Idaho Falls City of",16,9187
+1226,"I-N-N Electric Coop, Inc",2,9188
+1227,"Idaho Power Co",16,9191
+1228,"Idaho Power Co",42,9191
+1229,"Igiugig Electric Company",2,9192
+1230,"Village of Ilion",37,9200
+1231,"Illinois Rural Electric Coop",17,9209
+1232,"Imperial Irrigation District",6,9216
+1233,"City of Imperial",32,9217
+1234,"City of Independence",19,9230
+1235,"Independence City of",29,9231
+1236,"Indian Electric Coop, Inc",41,9246
+1237,"Indianapolis Power & Light Co",18,9273
+1238,"City of Indianola",32,9274
+1239,"Indianola Municipal Utilities",19,9275
+1240,"Inter County Energy Coop Corp",21,9292
+1241,"Indiana Michigan Power Co",18,9324
+1242,"Indiana Michigan Power Co",26,9324
+1243,"Intercounty Electric Coop Assn",29,9331
+1244,"Intermountain Rural Elec Assn",7,9336
+1245,"Ipnatchiaq Electric Company",2,9416
+1246,"Interstate Power and Light Co",19,9417
+1247,"Interstate Power and Light Co",27,9417
+1248,"City of Iola",20,9418
+1249,"J-A-C Electric Coop Inc",50,9422
+1250,"Iowa Lakes Electric Coop",19,9425
+1251,"Irwin Electric Membership Corp",13,9431
+1252,"Town of Ipswich",25,9442
+1253,"City of Isabel",20,9463
+1254,"City of Itta Bena",28,9472
+1255,"Itasca-Mantrap Co-op Electrical Assn",27,9475
+1256,"City of Iuka",20,9541
+1257,"Village of Jackson Center",40,9572
+1258,"Jackson City of",13,9573
+1259,"Jackson Energy Coop Corp",21,9575
+1260,"Jackson County Rural E M C",18,9576
+1261,"Jackson Electric Coop, Inc",50,9590
+1262,"Jackson City of",40,9598
+1263,"City of Jackson",27,9599
+1264,"Jackson Electric Member Corp",13,9601
+1265,"City of Jackson",29,9603
+1266,"Jackson Purchase Energy Corporation",21,9605
+1267,"Jacksonville Village of",52,9610
+1268,"City of Jackson",49,9612
+1269,"City of Lebanon",18,9613
+1270,"Beaches Energy Services",12,9616
+1271,JEA,12,9617
+1272,"Jamestown Board of Public Util",37,9645
+1273,"Town of Jamestown",18,9646
+1274,"Janesville City of",27,9650
+1275,"City of Jasper",50,9664
+1276,"Jasper County Rural E M C",18,9665
+1277,"Jay County Rural E M C",18,9666
+1278,"City of Jasper",18,9667
+1279,"Jasper-Newton Elec Coop, Inc",50,9668
+1280,"Jefferson Davis Elec Coop, Inc",22,9682
+1281,"Jefferson Electric Member Corp",13,9689
+1282,"Jefferson Utilities",57,9690
+1283,"City of Jellico",21,9697
+1284,"City of Jellico",49,9697
+1285,"Jemez Mountains Elec Coop, Inc",36,9699
+1286,"Jersey Central Power & Lt Co",35,9726
+1287,"City of Jetmore",20,9732
+1288,"Jewett City City of",8,9734
+1289,"Joe Wheeler Elec Member Corp",1,9739
+1290,"Jo-Carroll Energy Coop Inc",17,9750
+1291,"City of Johnson",20,9776
+1292,"Johnson City City of",49,9777
+1293,"Johnson County Rural E M C",18,9778
+1294,"Johnson Village of",52,9806
+1295,"Kuiggluum Kallugvia",2,9832
+1296,"Jones-Onslow Elec Member Corp",38,9837
+1297,"City Water and Light Plant",5,9879
+1298,"Jonesville City of",22,9880
+1299,"City of King Cove",2,9897
+1300,"Jump River Electric Coop Inc",57,9922
+1301,"City of Julesburg",7,9928
+1302,"Juneau Utility Comm",57,9936
+1303,"Kenergy Corp",21,9964
+1304,"City of Kahoka",29,9973
+1305,"Kandiyohi Power Coop",27,9991
+1306,"Kanosh Town Corporation",51,9995
+1307,"Kansas City City of",20,9996
+1308,"City of Kandiyohi",27,9998
+1309,"Kankakee Valley Rural E M C",18,9999
+1310,"Kansas City Power & Light Co",20,10000
+1311,"Kansas City Power & Light Co",29,10000
+1312,"Kansas Gas & Electric Co",20,10005
+1313,"Karnes Electric Coop Inc",50,10009
+1314,"Kay Electric Coop",41,10012
+1315,"Kaw Valley Electric Coop Inc",20,10019
+1316,"City of Kaplan",22,10025
+1317,"City of Kasota",27,10037
+1318,"City of Kasson",27,10040
+1319,"City of Kaukauna",57,10056
+1320,"City of Lamar",29,10057
+1321,"Kaysville City Corporation",51,10063
+1322,"KBR Rural Public Power District",32,10065
+1323,"K C Electric Association",7,10066
+1324,"Kauai Island Utility Cooperative",15,10071
+1325,"Keewatin Public Utilities",27,10089
+1326,"Kennebunk Light & Power Dist",23,10144
+1327,"City of Kennett",29,10152
+1328,"KEM Electric Coop Inc",39,10153
+1329,"Kiamichi Electric Coop, Inc",41,10170
+1330,"Kentucky Utilities Co",21,10171
+1331,"Kentucky Utilities Co",49,10171
+1332,"Kentucky Utilities Co",54,10171
+1333,"City of Marathon",19,10172
+1334,"Kenyon Municipal Utilities",27,10179
+1335,"Keosauqua Municipal Light & Pwr",19,10181
+1336,"Ketchikan Public Utilities",2,10210
+1337,"Key West City of",12,10226
+1338,"City of Hickman",32,10229
+1339,"City of Kiel",57,10243
+1340,"City of Kimball",32,10260
+1341,"City of Kimballton",19,10265
+1342,"City of Kingfisher",41,10320
+1343,"Kingman City of",20,10321
+1344,"City of Kings Mountain",38,10324
+1345,"PUD No 1 of Kittitas County",55,10326
+1346,"Kingsbury Electric Coop, Inc",48,10329
+1347,"Town of Kingsford Heights",18,10330
+1348,"Kingsport Power Co",49,10331
+1349,"City of Kinston",38,10345
+1350,"City of Kiowa",20,10351
+1351,"Kirbyville Light & Power Co",50,10359
+1352,"City of Kirkwood",29,10370
+1353,"Kiwash Electric Coop, Inc",41,10375
+1354,"Kissimmee Utility Authority",12,10376
+1355,"Kit Carson Electric Coop, Inc",36,10378
+1356,"PUD No 1 of Klickitat County",55,10393
+1357,"Town of Knightstown",18,10407
+1358,"Knoxville Utilities Board",49,10421
+1359,"Kodiak Electric Assn Inc",2,10433
+1360,"Kosciusko City of",28,10447
+1361,"Kosciusko County Rural E M C",18,10448
+1362,"Kotzebue Electric Assn Inc",2,10451
+1363,"Kootenai Electric Coop Inc",16,10454
+1364,"Kootenai Electric Coop Inc",55,10454
+1365,"Kokhanok Village Council",2,10455
+1366,"Kwig Power Company",2,10491
+1367,"Borough of Kutztown",44,10494
+1368,"Village of L'Anse",26,10508
+1369,"La Farge Municipal Electric Co",57,10525
+1370,"City of La Grange",50,10532
+1371,"City of La Harpe",20,10533
+1372,"City of La Junta",7,10536
+1373,"City of La Plata",29,10538
+1374,"La Plata Electric Assn, Inc",7,10539
+1375,"La Plata Electric Assn, Inc",36,10539
+1376,"La Porte City Utilities",19,10542
+1377,"McCook Public Power District",32,10550
+1378,"LaCreek Electric Assn, Inc",32,10558
+1379,"LaCreek Electric Assn, Inc",48,10558
+1380,"City of La Crosse",20,10559
+1381,"Lagrange County Rural E M C",18,10562
+1382,"Ladoga Town of",18,10568
+1383,"City of Lafayette",1,10570
+1384,"City of LaFayette",13,10571
+1385,"Village of Hildreth",32,10573
+1386,"City of LaFollette",49,10579
+1387,"City of La Grange",13,10585
+1388,"La Grange Town of",38,10586
+1389,"City of Lake City",27,10595
+1390,"City of Lake Crystal",27,10596
+1391,"Lake Region Electric Coop, Inc",41,10599
+1392,"Laclede Electric Coop, Inc",29,10603
+1393,"Lake Mills Light & Water",57,10605
+1394,"City of Lake Mills",19,10606
+1395,"Lake Park City of",19,10608
+1396,"Lake Park City of",27,10609
+1397,"Lake Placid Village, Inc",37,10610
+1398,"Village of Lakeview",40,10616
+1399,"City of Lake View",19,10617
+1400,"Lake Region Electric Cooperative",27,10618
+1401,"City of Lake Worth",12,10620
+1402,"City of Lakefield",27,10622
+1403,"City of Lakeland",12,10623
+1404,"Southern Rivers Energy",13,10624
+1405,"Lamb County Electric Coop, Inc",50,10625
+1406,"Lakeview Light & Power",55,10627
+1407,"City of Lakin",20,10628
+1408,"City of Lakota",39,10629
+1409,"Lake Region Electric Assn, Inc",48,10632
+1410,"City of Lamar",7,10633
+1411,"Lamar County Elec Coop Assn",50,10649
+1412,"City of Lamoni",19,10650
+1413,"Lampasas City of",50,10656
+1414,"Licking Rural Electric Inc",40,10668
+1415,"Landis Town of",38,10669
+1416,"Lane Electric Coop Inc",42,10681
+1417,"Lanesboro Public Utility Comm",27,10685
+1418,"City of Lanett",1,10687
+1419,"Lake Country Power",27,10697
+1420,"Borough of Lansdale",44,10702
+1421,"Lansing City of",26,10704
+1422,"City of Larchwood",19,10706
+1423,"City of Larned",20,10713
+1424,"City of Larsen Bay",2,10716
+1425,"Lassen Municipal Utility District",6,10724
+1426,"Lane-Scott Electric Coop, Inc",20,10728
+1427,"Las Animas City of",7,10730
+1428,"City of Laurel",32,10760
+1429,"City of Linneus",29,10767
+1430,"Laurens Electric Coop, Inc",47,10768
+1431,"City of Laurens",19,10769
+1432,"City of Laurinburg",38,10770
+1433,"Borough of Lavallette",35,10776
+1434,"Town of Laverne",41,10777
+1435,"City of Lawler",19,10784
+1436,"Lawrenceburg Municipal Utils",18,10798
+1437,"City of Lawrenceburg",49,10799
+1438,"City of Lawrenceville",13,10800
+1439,"Leavenworth-Jefferson E C, Inc",20,10801
+1440,"Le Sueur City of",27,10814
+1441,"Lea County Electric Coop, Inc",36,10817
+1442,"Lea County Electric Coop, Inc",50,10817
+1443,"City of Lebanon",40,10830
+1444,"City of Lebanon",29,10832
+1445,"Lee County Electric Coop, Inc",12,10857
+1446,"City of Leesburg",12,10868
+1447,"Lehi City Corporation",51,10879
+1448,"City of Lehigh",19,10881
+1449,"Borough of Lehighton",44,10882
+1450,"Village of Leigh",32,10886
+1451,"City of Leland",28,10892
+1452,"Lenoir City of",49,10906
+1453,"City of Lenox",19,10908
+1454,"City of Lewes",9,10935
+1455,"PUD No 1 of Lewis County",55,10944
+1456,"Borough of Lewisberry",44,10959
+1457,"City of Lewisburg",49,10960
+1458,"Lewisville City of",18,10961
+1459,"Lewis County Rural E C A",29,10962
+1460,"City of Lexington",38,10966
+1461,"Lexington City of",32,10967
+1462,"City of Lexington",49,10968
+1463,"City of Lexington",50,10969
+1464,"City of Lexington",41,10970
+1465,"City of Liberal",29,10977
+1466,"Levan Town Corporation",51,10978
+1467,"City of Liberty",50,10982
+1468,"Licking Valley Rural E C C",21,11011
+1469,"Lighthouse Electric Coop, Inc",50,11014
+1470,"City of Lincoln Center",20,11017
+1471,"Lincoln Electric System",32,11018
+1472,"Little River Electric Coop Inc",47,11019
+1473,"Lincoln County Power Dist No 1",33,11021
+1474,"Lincoln Electric Coop, Inc",30,11022
+1475,"Lincolnton City of",38,11035
+1476,"City of Lindsborg",20,11040
+1477,"Linn County Rural E C A",19,11053
+1478,"City of Linton",18,11055
+1479,"City of Lindsay",41,11058
+1480,"Litchfield Public Utilities",27,11064
+1481,"Village of Little Valley",37,11083
+1482,"Town of Littleton",25,11085
+1483,"City of Livermore",19,11093
+1484,"City of Livingston",50,11097
+1485,"Town of Lingle",58,11099
+1486,"City of Llano",50,11103
+1487,"Lockhart Power Co",47,11118
+1488,"City of Lockhart",50,11119
+1489,"Lockwood Water & Light Company",29,11121
+1490,"City of Lodgepole",32,11122
+1491,"City of Lodi",6,11124
+1492,"City of Lodi",57,11125
+1493,"Lodi Village of",40,11126
+1494,"City of Logan",51,11135
+1495,"City of Long Grove",19,11141
+1496,"City of Logansport",18,11142
+1497,"City of Lompoc",6,11148
+1498,"Long Island Power Authority",37,11171
+1499,"City of Longmont",7,11187
+1500,"Town of Littleton",34,11196
+1501,"Lorain-Medina R E C, Inc",40,11200
+1502,"Logan County Coop Power & Light",40,11203
+1503,"Los Alamos County",36,11204
+1504,"Town of Lucama",38,11205
+1505,"City of Mulberry",20,11206
+1506,"City of Muscotah",20,11207
+1507,"Los Angeles Department of Water & Power",6,11208
+1508,"Lost River Electric Coop Inc",16,11211
+1509,"Loudon Utilities Board",49,11222
+1510,"Town of Louisburg",38,11228
+1511,"Entergy Louisiana Inc",22,11241
+1512,"Louisville Electric System",28,11247
+1513,"Louisville Gas & Electric Co",21,11249
+1514,"Loup Valleys Rural P P D",32,11250
+1515,"Loup River Public Power Dist",32,11251
+1516,"City of Loveland",7,11256
+1517,"City of Lowell",26,11268
+1518,"Lower Yellowstone R E A, Inc",30,11272
+1519,"Lower Yellowstone R E A, Inc",39,11272
+1520,"Lower Valley Energy Inc",16,11273
+1521,"Lower Valley Energy Inc",58,11273
+1522,"Lumbee River Elec Member Corp",38,11291
+1523,"City of Lubbock",50,11292
+1524,"Village of Lucas",40,11296
+1525,"Lyon Rural Electric Coop",19,11298
+1526,"City of Lucas",20,11299
+1527,"Village of Ludlow",52,11305
+1528,"City of Luray",20,11306
+1529,"City of Luling",50,11316
+1530,"Lumberton City of",38,11318
+1531,"Town of Lusk",58,11330
+1532,"City of Luverne",27,11332
+1533,"City of Luverne",1,11333
+1534,"Lyon-Coffey Electric Coop, Inc",20,11334
+1535,"Lyon-Lincoln Electric Coop Inc",27,11345
+1536,"Village of Lyman",32,11346
+1537,"Lynches River Elec Coop, Inc",47,11355
+1538,"Lyndonville Village of",52,11359
+1539,"Town of MacClesfield",38,11360
+1540,"Lyntegar Electric Coop, Inc",50,11364
+1541,"City of Lyons",32,11372
+1542,"Town of Lyons",7,11376
+1543,"City of Mabel",27,11424
+1544,"City of Macon",28,11458
+1545,"City of Macon",29,11460
+1546,"Macon Electric Coop",29,11463
+1547,"City of Maddock",39,11470
+1548,"City of Madison",48,11475
+1549,"Borough of Madison",35,11476
+1550,"Madison Town of",23,11477
+1551,"Madison Gas & Electric Co",57,11479
+1552,"Madison City of",32,11481
+1553,"City of Madison",27,11482
+1554,"Madisonville Municipal Utils",21,11488
+1555,"Magic Valley Electric Coop Inc",50,11501
+1556,"Maiden Town of",38,11515
+1557,"Magnolia Electric Power Assn",28,11519
+1558,"Maine Public Service Co",23,11522
+1559,"City of Malden",29,11540
+1560,"City of Manitou",41,11541
+1561,"City of Manassas",54,11560
+1562,"City of Mangum",41,11566
+1563,"Town of Manilla",19,11568
+1564,"Manitowoc Public Utilities",57,11571
+1565,"Mankato City of",20,11572
+1566,"Town of Mannford",41,11578
+1567,"City of Manning",19,11581
+1568,"City of Mansfield",29,11585
+1569,"Town of Mansfield",25,11586
+1570,"City of Mansfield",13,11587
+1571,"City of Manti",51,11588
+1572,"Harney Electric Coop, Inc",33,11589
+1573,"Harney Electric Coop, Inc",42,11589
+1574,"City of Mapleton",19,11609
+1575,"Maquoketa City of",19,11611
+1576,"Village of Marathon",37,11618
+1577,"City of Marblehead",25,11624
+1578,"City of Marceline",29,11626
+1579,"Marias River Electric Coop Inc",30,11643
+1580,"City of Marietta",13,11646
+1581,"City of Marion",20,11658
+1582,"City of Marlow",41,11691
+1583,"Marlboro Electric Coop, Inc",47,11693
+1584,"City of Marquette",26,11701
+1585,"City of Marshall",26,11713
+1586,"Marshall-De Kalb Electric Coop",1,11714
+1587,"City of Marshall",27,11731
+1588,"City of Marshall",29,11732
+1589,"City of Marshall",17,11736
+1590,"Village of Marshallville",40,11739
+1591,"City of Marshfield",57,11740
+1592,"Marshall County Rural E M C",18,11767
+1593,"City of Martinsville",54,11770
+1594,"Consumers Energy",19,11788
+1595,"Maryville Utilities",49,11789
+1596,"City of Mascoutah",17,11790
+1597,"City of Mason",50,11793
+1598,"Massachusetts Electric Co",25,11804
+1599,"Town of Massena",37,11811
+1600,"Matanuska Electric Assn Inc",2,11824
+1601,"Maui Electric Co Ltd",15,11843
+1602,"Matinicus Plantation Elec Co",23,11844
+1603,"City of Mayfield Plant Board",21,11871
+1604,"Village of Mayville",37,11892
+1605,"Village of Mazomanie",57,11895
+1606,"McLeod Cooperative Power Assn",27,11910
+1607,"City of McCleary",55,11965
+1608,"McCone Electric Coop Inc",30,11989
+1609,"Town of McCormick",47,12006
+1610,"McDonough Power Coop",17,12070
+1611,"McKenzie Electric Coop Inc",30,12087
+1612,"McKenzie Electric Coop Inc",39,12087
+1613,"McLean Electric Coop, Inc",39,12090
+1614,"City of McGregor",19,12114
+1615,"McGrath Light & Power Co",2,12119
+1616,"McLeansboro City of",17,12167
+1617,"McMinnville Electric System",49,12186
+1618,"McMinnville City of",42,12187
+1619,"McMullen Valley Water C&D Dist",4,12191
+1620,"Montana-Dakota Utilities Co",30,12199
+1621,"Montana-Dakota Utilities Co",39,12199
+1622,"Montana-Dakota Utilities Co",48,12199
+1623,"Montana-Dakota Utilities Co",58,12199
+1624,"McPherson City of",20,12208
+1625,"Meeker Coop Light & Power Assn",27,12227
+1626,"City of Meade",20,12242
+1627,"Meade County Rural E C C",21,12243
+1628,"Mecklenburg Electric Coop, Inc",38,12260
+1629,"Mecklenburg Electric Coop, Inc",54,12260
+1630,"City of Medford",57,12265
+1631,"Medina Electric Coop, Inc",50,12268
+1632,"Melrose Public Utilities",27,12286
+1633,"Meadow Town Corporation",51,12289
+1634,"City of Meadville",29,12292
+1635,"Memphis City of",49,12293
+1636,"City of Memphis",29,12294
+1637,"Town of Merrimac",25,12296
+1638,"City of Menasha",57,12298
+1639,"Nodak Electric Coop Inc",39,12301
+1640,"City of Mendon",40,12302
+1641,"Merced Irrigation District",6,12312
+1642,"Meriwether Lewis Electric Coop",49,12330
+1643,"Merrillan Village of",57,12336
+1644,"MidAmerican Energy Co",19,12341
+1645,"MidAmerican Energy Co",17,12341
+1646,"MidAmerican Energy Co",48,12341
+1647,"City of Mesa",4,12351
+1648,"Midwest Energy Cooperative",18,12377
+1649,"Midwest Energy Cooperative",26,12377
+1650,"Midwest Energy Cooperative",40,12377
+1651,"Metlakatla Power & Light",2,12385
+1652,"City of Metropolis",17,12388
+1653,"Metropolitan Edison Co",44,12390
+1654,"Menard Electric Coop",17,12395
+1655,"Miami-Cass County Rural E M C",18,12406
+1656,"City of Miami",41,12408
+1657,"Midstate Electric Coop, Inc",42,12439
+1658,"Midland Power Coop",19,12450
+1659,"Mid-South Electric Coop Assn",50,12452
+1660,"Mid-Carolina Electric Coop Inc",47,12462
+1661,"Mid-Yellowstone Elec Coop, Inc",30,12463
+1662,"Middle Tennessee E M C",49,12470
+1663,"Middle Georgia El Member Corp",13,12472
+1664,"Town of Middleborough",25,12473
+1665,"Middletown Borough of",44,12474
+1666,"Town of Middletown",18,12476
+1667,"Town of Middleton",25,12477
+1668,"Town of Middletown",9,12478
+1669,"Middle Kuskokwim Elec Coop Inc",2,12485
+1670,"Midwest Electric, Inc",40,12515
+1671,"Borough of Mifflinburg",44,12523
+1672,"Midwest Energy Inc",20,12524
+1673,"Milan City of",29,12531
+1674,"City of Milan",49,12532
+1675,"Village of Milan",40,12533
+1676,"Midwest Electric Member Corp",32,12539
+1677,"City of Milford",9,12540
+1678,"City of Milford",19,12541
+1679,"Mille Lacs Energy Cooperative",27,12546
+1680,"City of Miller",48,12580
+1681,"Borough of Milltown",35,12608
+1682,"City of Minidoka",16,12609
+1683,"City of Milton-Freewater",42,12615
+1684,"City of Milton",55,12616
+1685,"City of Minden",22,12625
+1686,"Minden City of",32,12626
+1687,"City of Mindenmines",29,12627
+1688,"Maquoketa Valley Rrl Elec Coop",19,12642
+1689,"Minnesota Power Inc",27,12647
+1690,"Minnesota Valley Electric Coop",27,12651
+1691,"Village of Minster",40,12660
+1692,"City of Mishawaka",18,12674
+1693,"Mississippi County Electric Coop",5,12681
+1694,"Entergy Mississippi Inc",28,12685
+1695,"Mississippi Power Co",28,12686
+1696,"Missoula Electric Coop, Inc",16,12692
+1697,"Missoula Electric Coop, Inc",30,12692
+1698,"KCP&L Greater Missouri Operations",29,12698
+1699,"Missouri Rural Electric Coop",29,12700
+1700,"Mitchell Electric Member Corp",13,12706
+1701,"Mitchell City of",32,12717
+1702,"Modern Electric Water Company",55,12744
+1703,"Modesto Irrigation District",6,12745
+1704,"Mohawk Municipal Comm",37,12759
+1705,"City of Monett",29,12782
+1706,"City of Monmouth",42,12789
+1707,"Monongahela Power Co",40,12796
+1708,"Monongahela Power Co",56,12796
+1709,"City of Monroe",51,12797
+1710,"City of Monroe",13,12800
+1711,"City of Monroe",38,12801
+1712,"City of Monroe City",29,12802
+1713,"Monroe County Elec Coop, Inc",17,12803
+1714,"Monroeville Village of",40,12811
+1715,"Mont Alto Borough",44,12817
+1716,"NorthWestern Corporation",30,12825
+1717,"City of Montezuma",20,12838
+1718,"City of Montezuma",19,12839
+1719,"Montezuma Town of",18,12840
+1720,"City of Monticello",13,12851
+1721,"Morgan County Rural Elec Assn",7,12860
+1722,"Montpelier Village of",40,12861
+1723,"Moon Lake Electric Assn Inc",7,12866
+1724,"Moon Lake Electric Assn Inc",51,12866
+1725,"Moore Haven City of",12,12876
+1726,"City of Mooreland",41,12892
+1727,"City of Moorhead",27,12894
+1728,"City of Morrill",20,12896
+1729,"Moose Lake Water & Light Comm",27,12897
+1730,"Mor-Gran-Sou Electric Coop Inc",39,12899
+1731,"City of Mora",27,12900
+1732,"Mora-San Miguel Elec Coop, Inc",36,12901
+1733,"City of Moran",20,12909
+1734,"Moreau-Grand Electric Coop Inc",48,12915
+1735,"Morenci Water and Electric Co",4,12919
+1736,"Morgan City City of",22,12927
+1737,"City of Morgan City",51,12928
+1738,"South Central Indiana REMC",18,12929
+1739,"City of Morganton",38,12944
+1740,"Village of Morrill",32,12952
+1741,"City of Morristown",49,12988
+1742,"Village of Morrisville",52,12989
+1743,"Consolidated Electric Coop Inc",40,12990
+1744,"City of Moulton",50,13025
+1745,"Moultrie City of",13,13026
+1746,"Mountain Electric Coop, Inc",38,13027
+1747,"Mountain Electric Coop, Inc",49,13027
+1748,"City of Moundridge",20,13029
+1749,"Mt Carmel Public Utility Co",17,13032
+1750,"City of Mount Dora",12,13033
+1751,"Mount Hope City of",20,13035
+1752,"Mt Horeb Village of",57,13036
+1753,"City of Mt Pleasant",51,13037
+1754,"City of Mt Pleasant",19,13038
+1755,"City of Mt Pleasant",49,13039
+1756,"City of Mount Vernon",29,13040
+1757,"City of Mountain Iron",27,13044
+1758,"City of Mountain Lake",27,13048
+1759,"Mountain Parks Electric, Inc",7,13050
+1760,"City of Mountain View",29,13057
+1761,"Mountain View Elec Assn, Inc",7,13058
+1762,"Mt Wheeler Power, Inc",33,13073
+1763,"Mt Wheeler Power, Inc",51,13073
+1764,"Village of Mullen",32,13090
+1765,"City of Mulvane",20,13095
+1766,"City of Murfreesboro",49,13119
+1767,"City of Murray",51,13137
+1768,"City of Murray",21,13138
+1769,"Board of Water Electric & Communications",19,13143
+1770,"City of Muscle Shoals",1,13144
+1771,"Village of Muscoda",57,13145
+1772,"City of Needles",6,13149
+1773,"Northern Plains Electric Coop",39,13196
+1774,"Naknek Electric Assn, Inc",2,13201
+1775,"New Enterprise R E C, Inc",44,13205
+1776,"Nantucket Electric Co",25,13206
+1777,"Naperville City of",17,13208
+1778,"City of Napoleon",40,13209
+1779,"Napakiak Ircinraq Power Co",2,13211
+1780,"The Narragansett Electric Co",25,13214
+1781,"The Narragansett Electric Co",46,13214
+1782,"Nashville Electric Service",49,13216
+1783,"City of Nashwauk",27,13219
+1784,"Natchez Trace Elec Power Assn",28,13227
+1785,"City of Natchitoches",22,13228
+1786,"City of Neligh",32,13233
+1787,"New Hampton Village Precinct",34,13286
+1788,"Norris Electric Coop",17,13292
+1789,"Navajo Tribal Utility Authority",4,13314
+1790,"Navajo Tribal Utility Authority",36,13314
+1791,"Navajo Tribal Utility Authority",51,13314
+1792,"Navopache Electric Coop, Inc",4,13318
+1793,"Navopache Electric Coop, Inc",36,13318
+1794,"Navarro County Elec Coop, Inc",50,13332
+1795,"City of Nebraska City",32,13334
+1796,"Nebraska Public Power District",32,13337
+1797,"Nebraska Public Power District",48,13337
+1798,"City of Negaunee",26,13352
+1799,"City of Nelson",32,13375
+1800,"City of Neodesha",20,13380
+1801,"City of Neola",19,13382
+1802,"Nemaha-Marshall E C A, Inc",20,13386
+1803,"Nespelem Valley Elec Coop, Inc",55,13387
+1804,"Nephi City Corporation",51,13388
+1805,"Nevada Power Co",33,13407
+1806,"City of New Albany",28,13412
+1807,"City of New Bern",38,13416
+1808,"City of New Braunfels",50,13418
+1809,"Village of New Bremen",40,13420
+1810,"Town of New Carlisle",18,13423
+1811,"New Castle Municipal Serv Comm",9,13424
+1812,"City of Newbern",49,13437
+1813,"Village of New Glarus",57,13438
+1814,"New Hampshire Elec Coop Inc",34,13441
+1815,"City of New Hampton",19,13444
+1816,"City of New Holstein",57,13448
+1817,"Village of New Knoxville",40,13464
+1818,"City of Nielsville",27,13465
+1819,"City of New Lisbon",57,13466
+1820,"New London Electric&Water Util",57,13467
+1821,"New London Municipal Utilities",19,13468
+1822,"City of New Madrid",29,13470
+1823,"New Martinsville City of",56,13471
+1824,"Nelson Lagoon Elec Coop Inc",2,13477
+1825,"Entergy New Orleans Inc",22,13478
+1826,"New Prague Utilities Comm",27,13480
+1827,"City of New Richmond",57,13481
+1828,"New River Light & Power Co",38,13482
+1829,"City of New Roads",22,13483
+1830,"New Smyrna Beach City of",12,13485
+1831,"New Ulm Public Utilities Comm",27,13488
+1832,"Borough of New Wilmington",44,13489
+1833,"City of Newfolden",27,13495
+1834,"New York State Elec & Gas Corp",37,13511
+1835,"Newark City of",9,13519
+1836,"New-Mac Electric Coop, Inc",29,13520
+1837,"City of Newberry",12,13521
+1838,"City of Newberry",47,13523
+1839,"Newberry Electric Coop, Inc",47,13524
+1840,"Newberry Water & Light Board",26,13525
+1841,"City of Newburg",29,13527
+1842,"City of Newkirk",41,13530
+1843,"Newnan Wtr, Sewer & Light Comm",13,13547
+1844,"City of Newport",49,13550
+1845,"City of Newton",17,13560
+1846,"Newton City of",38,13561
+1847,"City of Newton Falls",40,13563
+1848,"Newton County Rural E M C",18,13566
+1849,"Ninnescah Rural E C A Inc",20,13570
+1850,"Niagara Mohawk Power Corp.",37,13573
+1851,"City of Nicholasville",21,13577
+1852,"City of Niles",40,13602
+1853,"Newton City of",50,13603
+1854,"City of Niles",26,13604
+1855,"Niobrara Valley El Member Corp",32,13610
+1856,"Northern Virginia Elec Coop",54,13640
+1857,"Nome Joint Utility Systems",2,13642
+1858,"City of Norcross",13,13646
+1859,"Noble County R E M C",18,13647
+1860,"Nolin Rural Electric Coop Corp",21,13651
+1861,"Norris Public Power District",32,13664
+1862,"North Alabama Electric Coop",1,13669
+1863,"Nishnabotna Valley R E C",19,13675
+1864,"North Arkansas Elec Coop, Inc",5,13676
+1865,"Town of North Attleborough",25,13679
+1866,"North Branch Water & Light Comm",27,13681
+1867,"Nobles Cooperative Electric",19,13684
+1868,"Nobles Cooperative Electric",27,13684
+1869,"Niobrara Electric Assn, Inc",32,13685
+1870,"Niobrara Electric Assn, Inc",48,13685
+1871,"Niobrara Electric Assn, Inc",58,13685
+1872,"North Carolina Eastern M P A",38,13687
+1873,"North Central MO Elec Coop Inc",29,13690
+1874,"North Central Elec Coop, Inc",40,13693
+1875,"North Central Elec Coop, Inc",39,13694
+1876,"North Central Power Co Inc",57,13697
+1877,"North Central Public Pwr Dist",32,13698
+1878,"North Itasca Electric Coop Inc",27,13700
+1879,"North Western Elec Coop, Inc",40,13704
+1880,"North Georgia Elec Member Corp",13,13716
+1881,"City of North Little Rock",5,13718
+1882,"City of North Platte",32,13725
+1883,"City of North St Paul",27,13730
+1884,"North Star Electric Coop, Inc",27,13731
+1885,"Northeast Oklahoma Electric Coop, Inc",41,13734
+1886,"Northcentral Mississippi E P A",28,13735
+1887,"Northeast Nebraska P P D",32,13739
+1888,"NorVal Electric Cooperative, Inc",30,13749
+1889,"Northern Electric Coop, Inc",48,13750
+1890,"Northern Indiana Pub Serv Co",18,13756
+1891,"North Plains Electric Coop Inc",50,13757
+1892,"Northern Lights, Inc",16,13758
+1893,"Northern Lights, Inc",30,13758
+1894,"Northern Lights, Inc",55,13758
+1895,"Northern Neck Elec Coop, Inc",54,13762
+1896,"Northern Rio Arriba E Coop Inc",36,13777
+1897,"Northern States Power Co - Wisconsin",26,13780
+1898,"Northern States Power Co - Wisconsin",57,13780
+1899,"Northern States Power Co - Minnesota",27,13781
+1900,"Northern States Power Co - Minnesota",39,13781
+1901,"Northern States Power Co - Minnesota",48,13781
+1902,"City of New Ross",18,13782
+1903,"Northeast Louisiana Power Coop Inc.",22,13783
+1904,"Northern Wasco County PUD",42,13788
+1905,"Village of Northfield",52,13789
+1906,"Prairie Land Electric Coop Inc",20,13799
+1907,"Northwest Rural Pub Pwr Dist",32,13805
+1908,"Northwestern Electric Coop Inc",41,13807
+1909,"NorthWestern Energy",48,13809
+1910,"Northwestern Wisconsin Elec Co",27,13815
+1911,"Northwestern Wisconsin Elec Co",57,13815
+1912,"City of Northwood",39,13816
+1913,"City of Norton",20,13819
+1914,"Norwalk Third Taxing District",8,13825
+1915,"City of Norway",26,13826
+1916,"Nueces Electric Coop, Inc",50,13830
+1917,"City of Norwich",8,13831
+1918,"Northfork Electric Coop, Inc",41,13838
+1919,"City of Norwood",25,13839
+1920,"Oahe Electric Coop Inc",48,13853
+1921,"Nushagak Electric Coop, Inc",2,13870
+1922,"Town of Oak City",38,13931
+1923,"Village of Oak Harbor",40,13932
+1924,"City of Oak Ridge",49,13933
+1925,"Ocmulgee Electric Member Corp",13,13934
+1926,"Oakdale Electric Coop",57,13936
+1927,"City of Oberlin",20,13948
+1928,"City of Oberlin",40,13949
+1929,"Village of Obetz",40,13950
+1930,"City of Ocala",12,13955
+1931,"Ocotillo Water Conserv. Dist.",4,13961
+1932,"Oconee Electric Member Corp",13,13962
+1933,"Oconomowoc Utilities",57,13963
+1934,"Oconto Electric Cooperative",57,13964
+1935,"Oconto Falls Water & Light Comm",57,13965
+1936,"City of Olustee",41,13966
+1937,"City of Odessa",29,13971
+1938,"City of Ogden",19,13990
+1939,"Oglesby City of",17,13993
+1940,"Village of Ohio City",40,13997
+1941,"Ohio Edison Co",40,13998
+1942,"Ohio Power Co",40,14006
+1943,"Ohop Mutual Light Company, Inc",55,14012
+1944,"Town of Oak City",51,14022
+1945,"Town of Oak Creek",7,14054
+1946,"PUD No 1 of Okanogan County",55,14055
+1947,"Okeene Public Works Authority",41,14057
+1948,"Oklahoma Electric Coop Inc",41,14062
+1949,"Oklahoma Gas & Electric Co",5,14063
+1950,"Oklahoma Gas & Electric Co",41,14063
+1951,"Okanogan County Elec Coop, Inc",55,14074
+1952,"City of Okolona",28,14078
+1953,"Olive Hill City of",21,14103
+1954,"City of Olivia",27,14107
+1955,"Oregon Trail El Cons Coop, Inc",42,14109
+1956,"Borough of Olyphant",44,14124
+1957,"Oneida-Madison Elec Coop, Inc",37,14125
+1958,"Omaha Public Power District",19,14127
+1959,"Omaha Public Power District",32,14127
+1960,"City of Onawa",19,14132
+1961,"City of Onida",48,14138
+1962,"City of Opelika",1,14146
+1963,"Opp City of",1,14151
+1964,"Orange & Rockland Utils Inc",37,14154
+1965,"Ontonagon County R E A",26,14156
+1966,"City of Orange City",19,14159
+1967,"Orange County Rural E M C",18,14160
+1968,"City of Orangeburg",47,14164
+1969,"City of Orient",19,14166
+1970,"Orcas Power & Light Coop",55,14170
+1971,"City of Ord",32,14172
+1972,"Tri-County Electric Coop, Inc",47,14175
+1973,"City of Orlando",41,14176
+1974,"P K M Electric Coop, Inc",27,14178
+1975,"Osage Valley Elec Coop Assn",29,14192
+1976,"City of Orrville",40,14194
+1977,"City of Ortonville",27,14196
+1978,"Price Municipal Corporation",51,14198
+1979,"City of Osage City",20,14199
+1980,"City of Osage",19,14201
+1981,"Osceola Electric Coop, Inc",19,14202
+1982,"Osawatomie City of",20,14203
+1983,"City of Osborne",20,14214
+1984,"City of Osceola",5,14216
+1985,"Otero County Electric Coop Inc",36,14224
+1986,"Ottawa City of",20,14229
+1987,"Otter Tail Power Co",27,14232
+1988,"Otter Tail Power Co",39,14232
+1989,"Otter Tail Power Co",48,14232
+1990,"City of Ouzinkie",2,14234
+1991,"Ouachita Electric Coop Corp",5,14238
+1992,"Overton Power District No 5",33,14245
+1993,"City of Owatonna",27,14246
+1994,"Owen Electric Coop Inc",21,14251
+1995,"Orleans Village of",52,14261
+1996,"Otsego Electric Coop, Inc",37,14267
+1997,"City of Owensboro",18,14268
+1998,"City of Owensboro",21,14268
+1999,"City of Owensville",29,14272
+2000,"City of Oxford",28,14275
+2001,"City of Oxford",20,14276
+2002,"Village of Oxford",32,14277
+2003,"Ozark Border Electric Coop",29,14285
+2004,"Ozark Electric Coop Inc",29,14288
+2005,"Ozarks Electric Coop Corp",5,14289
+2006,"Ozarks Electric Coop Corp",41,14289
+2007,"Public Utility District No 2",55,14324
+2008,"Pacific Gas & Electric Co",6,14328
+2009,PacifiCorp,6,14354
+2010,PacifiCorp,16,14354
+2011,PacifiCorp,42,14354
+2012,PacifiCorp,51,14354
+2013,PacifiCorp,55,14354
+2014,PacifiCorp,58,14354
+2015,"City of Paducah",21,14371
+2016,"Page Electric Utility",4,14373
+2017,"City of Painesville",40,14381
+2018,"City of Palmetto",13,14396
+2019,"Palmetto Electric Coop Inc",47,14398
+2020,"City of Palmyra",29,14400
+2021,"City of Palo Alto",6,14401
+2022,"Panola-Harrison Elec Coop, Inc",22,14424
+2023,"Panola-Harrison Elec Coop, Inc",50,14424
+2024,"Panhandle Rural El Member Assn",32,14426
+2025,"City of Panora",19,14433
+2026,"Town of Paoli",18,14435
+2027,"Town of Paragonah",51,14443
+2028,"Paragould Light & Water Comm",5,14446
+2029,"Village of Pardeeville",57,14451
+2030,"City of Paris",49,14455
+2031,"Paris City of",29,14456
+2032,"City of Paris",21,14459
+2033,"City of Paris",5,14460
+2034,"People's Cooperative Services",27,14468
+2035,"Parke County Rural E M C",18,14471
+2036,"Borough of Park Ridge",35,14472
+2037,"City of Paton",19,14473
+2038,"City of Park River",39,14474
+2039,"City of Parker",48,14489
+2040,"Park Electric Coop Inc",30,14500
+2041,"Parkland Light & Water Company",55,14505
+2042,"Parowan City Corporation",51,14512
+2043,"City of Pasadena",6,14534
+2044,"Pascoag Utility District",46,14537
+2045,"Tohono O'Odham Utility Auth",4,14543
+2046,"Pee Dee Electric Coop, Inc",47,14557
+2047,"Pearl River Valley El Pwr Assn",28,14563
+2048,"City of Paullina",19,14577
+2049,"Village of Paw Paw",26,14581
+2050,"City of Pawhuska",41,14582
+2051,"City of Pawnee",41,14583
+2052,"Town of Paxton",25,14585
+2053,"Pataula Electric Member Corp",13,14588
+2054,"Paulding-Putman Elec Coop, Inc",18,14599
+2055,"Paulding-Putman Elec Coop, Inc",40,14599
+2056,"Payson City Corporation",51,14600
+2057,"Pea River Electric Coop",1,14602
+2058,"City of Peabody",25,14605
+2059,"Peace River Electric Coop, Inc",12,14606
+2060,"Orlando Utilities Comm",12,14610
+2061,"PUD No 2 of Grant County",55,14624
+2062,"Pedernales Electric Coop, Inc",50,14626
+2063,"Pedro Bay Village Council",2,14633
+2064,"Pella City of",19,14645
+2065,"Borough of Pemberton",35,14648
+2066,"Planters Electric Member Corp",13,14649
+2067,"Village of Pemberville",40,14650
+2068,"PUD No 1 of Pend Oreille Cnty",55,14653
+2069,"City of Pender",32,14656
+2070,"Pendleton Town of",18,14659
+2071,"Peninsula Light Company",55,14668
+2072,"Village of Penn Yan",37,14700
+2073,"Pennsylvania Electric Co",37,14711
+2074,"Pennsylvania Electric Co",44,14711
+2075,"Pemiscot-Dunklin Elec Coop Inc",29,14712
+2076,"PPL Electric Utilities Corp",44,14715
+2077,"Pennsylvania Power Co",44,14716
+2078,"Pee Dee Electric Member Corp",38,14717
+2079,"Pennyrile Rural Electric Coop",21,14724
+2080,"PUD No 1 of Asotin County",55,14771
+2081,"People's Electric Cooperative",41,14775
+2082,"Borough of Perkasie",44,14792
+2083,"City of Perry",29,14806
+2084,"City of Perry",41,14829
+2085,"Native Village of Perryville",2,14832
+2086,"Peru City of",18,14839
+2087,"City of Peru",17,14840
+2088,"City of Peterson",27,14841
+2089,"City of Petersburg",2,14856
+2090,"Pitt & Greene Elec Member Corp",38,14857
+2091,"Petit Jean Electric Coop Corp",5,14864
+2092,"City of Petoskey",26,14867
+2093,"PECO Energy Co",44,14940
+2094,"Philadelphia Village of",37,14945
+2095,"City of Philadelphia",28,14947
+2096,"Philippi Municipal Electric",56,14954
+2097,"Pickwick Electric Coop",49,15016
+2098,"City of Piedmont",1,15022
+2099,"Piedmont Electric Member Corp",38,15023
+2100,"Pierce-Pepin Coop Services",57,15034
+2101,"City of Pierce",32,15039
+2102,"Pierre City of",48,15040
+2103,"City of Pierz",27,15041
+2104,"Piggott City of",5,15043
+2105,"Pike County Light & Power Co",44,15045
+2106,"Town of Pikeville",38,15046
+2107,"Electrical Dist No2 Pinal Cnty",4,15048
+2108,"Electrical Dist No4 Pinal Cnty",4,15049
+2109,"Electrical Dist No5 Pinal Cnty",4,15050
+2110,"City of Pine Bluffs",58,15051
+2111,"Pioneer Rural Elec Coop, Inc",40,15054
+2112,"Town of Pinetops",38,15058
+2113,"Town of Pineville",38,15062
+2114,"Pioneer Village of",40,15072
+2115,"Pioneer Electric Coop, Inc",20,15073
+2116,"City of Pioche",33,15075
+2117,"Pioneer Power and Light Co",57,15086
+2118,"City of Piqua",40,15095
+2119,"Borough of Pitcairn",44,15104
+2120,"Town of Pittsboro",18,15116
+2121,"City of Plainview",32,15132
+2122,"City of Plankinton",48,15134
+2123,"Plaquemine City of",22,15137
+2124,"Platte-Clay Electric Coop, Inc",29,15138
+2125,"Plateau Electric Cooperative",49,15141
+2126,"City of Plattsburgh",37,15145
+2127,"City of Plymouth",57,15159
+2128,"Pointe Coupee Elec Member Corp",22,15175
+2129,"City of Pocahontas",19,15180
+2130,"Polk County Rural Pub Pwr Dist",32,15188
+2131,"City of Pomona",20,15201
+2132,"City of Ponca City",41,15202
+2133,"Village of Plymouth",40,15203
+2134,"Pontotoc Electric Power Assn",28,15211
+2135,"City of Poplar Bluff",29,15229
+2136,"Port Angeles City of",55,15231
+2137,"City of Portland",26,15246
+2138,"Portland General Electric Co",42,15248
+2139,"Poudre Valley R E A, Inc",7,15257
+2140,"The Potomac Edison Co",24,15263
+2141,"The Potomac Edison Co",54,15263
+2142,"The Potomac Edison Co",56,15263
+2143,"Potomac Electric Power Co",10,15270
+2144,"Potomac Electric Power Co",24,15270
+2145,"Prairie Energy Coop",19,15291
+2146,"Powell Valley Electric Coop",49,15293
+2147,"Powell Valley Electric Coop",54,15293
+2148,"City of Powell",58,15294
+2149,"City of Plummer",16,15297
+2150,"Plumas-Sierra Rural Elec Coop",6,15308
+2151,"Plumas-Sierra Rural Elec Coop",33,15308
+2152,"Prague Public Works Authority",41,15311
+2153,"Village of Prairie Du Sac",57,15312
+2154,"City of Pratt",20,15321
+2155,"Public Utility District No 1",55,15327
+2156,"Prentiss County Elec Pwr Assn",28,15334
+2157,"City of Prescott",20,15336
+2158,"City of Prescott",5,15337
+2159,"Presque Isle Elec & Gas Coop",26,15340
+2160,"Polk-Burnett Electric Coop",57,15344
+2161,"Village of Polk",32,15346
+2162,"Preston Public Utilities Comm",27,15348
+2163,"City of Preston",19,15349
+2164,"Village of Prague",32,15352
+2165,"Price Electric Coop Inc",57,15356
+2166,"Town of Princeton",25,15371
+2167,"City of Primghar",19,15377
+2168,"City of Princeton",57,15385
+2169,"City of Princeton",21,15386
+2170,"Princeton Public Utils Comm",27,15387
+2171,"City of Princeton",17,15388
+2172,"Prince George Electric Coop",54,15410
+2173,"PUD No 3 of Mason County",55,15419
+2174,"Prospect Corporation",40,15432
+2175,"Town of Prosperity",47,15433
+2176,"City of Providence",21,15443
+2177,"Provo City Corp",51,15444
+2178,"Proctor Public Utilities Comm",27,15460
+2179,"City of Pryor",41,15462
+2180,"Public Service Co of Colorado",7,15466
+2181,"Duke Energy Indiana Inc",18,15470
+2182,"Public Service Co of NH",34,15472
+2183,"Public Service Co of NM",36,15473
+2184,"Public Service Co of Oklahoma",41,15474
+2185,"Public Service Elec & Gas Co",35,15477
+2186,"Puerto Rico Electric Pwr Authority",45,15497
+2187,"Puget Sound Energy Inc",55,15500
+2188,"City of Pulaski",49,15507
+2189,"Purcell City of",41,15515
+2190,"Borough of Quakertown",44,15541
+2191,"Quincy City of",12,15566
+2192,"City of Quitman",13,15573
+2193,"City of Radford",54,15619
+2194,"Radiant Electric Coop, Inc",20,15621
+2195,"City of Randall",27,15665
+2196,"Randolph Electric Member Corp",38,15671
+2197,"Ralls County Electric Coop",29,15672
+2198,"City of Randolph",32,15674
+2199,"Village of Rantoul",17,15686
+2200,"Raton Public Service Company",36,15698
+2201,"Rayle Electric Membership Corp",13,15700
+2202,"Town of Readsboro",52,15718
+2203,"City of Rayne",22,15728
+2204,"Red River Valley Rrl Elec Assn",41,15746
+2205,"Reading Town of",25,15748
+2206,"Redwood Electric Coop",27,15750
+2207,"City of Readlyn",19,15751
+2208,"Red Bud City of",17,15772
+2209,"City of Red Cloud",32,15773
+2210,"Reedy Creek Improvement Dist",12,15776
+2211,"Red Springs Town of",38,15778
+2212,"City of Redding",6,15783
+2213,"Redwood Falls Public Util Comm",27,15793
+2214,"Reedsburg Utility Comm",57,15804
+2215,"Rich Mountain Elec Coop, Inc",5,15811
+2216,"Rich Mountain Elec Coop, Inc",41,15811
+2217,"Renville-Sibley Coop Pwr Assn",27,15845
+2218,"City of Remsen",19,15846
+2219,"City of Rensselaer",18,15860
+2220,"City of Renwick",19,15862
+2221,"Village of Republic",40,15865
+2222,"City of Pond Creek",41,15923
+2223,"Rice Lake Utilities",57,15938
+2224,"City of Rich Hill",29,15943
+2225,"City of Richland Center",57,15978
+2226,"City of Richland",55,15979
+2227,"City of Richland",29,15981
+2228,"Town of Richlands",54,15982
+2229,"Richland Electric Coop",57,15983
+2230,"City of Richmond",18,15989
+2231,"Village of Richmondville",37,15991
+2232,"Reynolds Village of",32,16022
+2233,"Rio Grande Electric Coop, Inc",36,16057
+2234,"Rio Grande Electric Coop, Inc",50,16057
+2235,"Riverland Energy Cooperative",57,16060
+2236,"Village of Ripley",40,16062
+2237,"Rita Blanca Electric Coop, Inc",50,16063
+2238,"Rising Sun City of",18,16068
+2239,"City of River Falls",57,16082
+2240,"City of Riverside",6,16088
+2241,"Village of Riverton",17,16092
+2242,"Roanoke Electric Member Corp",38,16101
+2243,"City of Riverdale",39,16105
+2244,"City of Robersonville",38,16113
+2245,"City of Robinson",20,16135
+2246,"City of Robertsdale",1,16140
+2247,"Navasota Valley Elec Coop, Inc",50,16146
+2248,"Roosevelt Public Power Dist",32,16164
+2249,"City of Robstown",50,16175
+2250,"Rochelle Municipal Utilities",17,16179
+2251,"Rochester Public Utilities",27,16181
+2252,"Rochester Gas & Electric Corp",37,16183
+2253,"City of Rock Hill",47,16195
+2254,"Rock Energy Cooperative",17,16196
+2255,"Rock Energy Cooperative",57,16196
+2256,"City of Rock Falls",17,16198
+2257,"Rock Rapids Municipal Utility",19,16206
+2258,"City of Rockford",19,16211
+2259,"Rockland Electric Co",35,16213
+2260,"Village of Rockville Centre",37,16217
+2261,"Town of Rockville",18,16219
+2262,"City of Rockwood",49,16223
+2263,"City of Rocky Mount",38,16226
+2264,"City of Rolla",29,16259
+2265,"Rolling Hills Electric Coop",20,16267
+2266,"Roodhouse City of",17,16269
+2267,"Roosevelt Irrigation District",4,16273
+2268,"Roseau Electric Coop, Inc",27,16284
+2269,"City of Roseau",27,16285
+2270,"Rosebud Electric Coop Inc",48,16286
+2271,"City of Roseville",6,16295
+2272,"Village of Rouses Point",37,16325
+2273,"Runestone Electric Assn",27,16368
+2274,"Borough of Royalton",44,16375
+2275,"Rowley Town of",25,16377
+2276,"Rural Electric Coop, Inc",41,16382
+2277,"Rupert City of",16,16416
+2278,"Rural Electric Conven Coop",17,16420
+2279,"City of Rushford",27,16427
+2280,"City of Russell",25,16438
+2281,"City of Russell",20,16440
+2282,"City of Rushmore",27,16451
+2283,"City of Russellville",1,16458
+2284,"Russellville City of",21,16459
+2285,"Rusk County Electric Coop, Inc",50,16461
+2286,"Town of Ruston",55,16462
+2287,"City of Ruston",22,16463
+2288,"Town of Ryan",41,16487
+2289,"Rutherford Elec Member Corp",38,16496
+2290,"Sac-Osage Electric Coop Inc",29,16511
+2291,"City of Sabetha",20,16518
+2292,"City of Sabula",19,16528
+2293,"Sacramento Municipal Util Dist",6,16534
+2294,"City of Safford",4,16538
+2295,"City of Salamanca",37,16549
+2296,"Salem Electric",42,16555
+2297,"Salem City Corporation",51,16557
+2298,"City of Salem",54,16558
+2299,"City of Salem",29,16559
+2300,"City of Salisbury",29,16560
+2301,"City of Sallisaw",41,16561
+2302,"Salmon River Electric Coop Inc",16,16565
+2303,"Salt River Project",4,16572
+2304,"Salt River Electric Coop Corp",21,16587
+2305,"San Luis Valley R E C, Inc",7,16603
+2306,"San Antonio City of",50,16604
+2307,"City of San Augustine",50,16605
+2308,"Santee Electric Coop, Inc",47,16606
+2309,"San Diego Gas & Electric Co",6,16609
+2310,"Scribner City of",32,16610
+2311,"Access Energy Coop",19,16611
+2312,"San Francisco City & County of",6,16612
+2313,"Sam Houston Electric Coop Inc",50,16613
+2314,"San Isabel Electric Assn, Inc",7,16616
+2315,"San Miguel Power Assn, Inc",7,16622
+2316,"San Patricio Electric Coop Inc",50,16627
+2317,"Sanborn City of",19,16628
+2318,"Sand Mountain Electric Coop",1,16629
+2319,"City of Sandersville",13,16637
+2320,"San Bernard Electric Coop, Inc",50,16638
+2321,"City of Sanger",50,16647
+2322,"City of Santa Clara",51,16648
+2323,"Sangre De Cristo Elec Assn Inc",7,16649
+2324,"City of Santa Clara",6,16655
+2325,"Sargent City of",32,16667
+2326,"Satilla Rural Elec Member Corporation",13,16674
+2327,"City of Sauk Centre",27,16679
+2328,"Village of Sauk City",57,16680
+2329,"City of Seward",20,16699
+2330,"Scenic Rivers Energy Coop",17,16740
+2331,"Scenic Rivers Energy Coop",57,16740
+2332,"Three Rivers Electric Coop",29,16751
+2333,"Sheridan Electric Coop, Inc",30,16759
+2334,"Sheridan Electric Coop, Inc",39,16759
+2335,"City of Schulenburg",50,16765
+2336,"City of Schuyler",32,16778
+2337,"Borough of Schuylkill Haven",44,16780
+2338,"Scotland Neck Town of",38,16788
+2339,"SEMO Electric Cooperative",29,16805
+2340,"Sam Rayburn Municipal Pwr Agny",50,16821
+2341,"City of Scottsboro",1,16829
+2342,"City of Scottsburg",18,16830
+2343,"City of Scranton",20,16834
+2344,"Village of Shickley",32,16845
+2345,"SE-MA-NO Electric Coop",29,16851
+2346,"City of Seaford",9,16852
+2347,"St Clair Borough of",44,16853
+2348,"Heartland Rural Elec Coop, Inc",20,16854
+2349,"Seaside Heights City of",35,16864
+2350,"Sawnee Electric Membership Corporation",13,16865
+2351,"Seattle City of",55,16868
+2352,"City of Sebewaing",26,16873
+2353,"City of Savonburg",20,16876
+2354,"Seguin City of",50,16900
+2355,"Town of Selma",38,16914
+2356,"Sedgwick Cnty El Coop Assn Inc",20,16920
+2357,"City of Seneca",47,16921
+2358,"City of Seneca",20,16922
+2359,"Sequachee Valley Electric Coop",49,16930
+2360,"Sergeant Bluff City of",19,16932
+2361,"Sevier County Electric System",49,16949
+2362,"Seville Board of Public Affairs",40,16951
+2363,"City of Seward",32,16953
+2364,"Seward County Rrl Pub Pwr Dist",32,16954
+2365,"Seward City of",2,16955
+2366,"Seymour City of",29,16959
+2367,"City of Seymour",50,16961
+2368,"Shakopee Public Utilities Comm",27,16971
+2369,"City of Sharon Springs",20,16988
+2370,"City of Stanton",19,16992
+2371,"Town of Sharpsburg",38,17004
+2372,"Sharyland Utilities LP",50,17008
+2373,"Shawano Municipal Utilities",57,17011
+2374,"City of Sheboygan Falls",57,17028
+2375,"Sheffield Utilities",1,17033
+2376,"City of Shelbina",29,17035
+2377,"City of Shelby",38,17037
+2378,"RushShelby Energy",18,17038
+2379,"Shelby Electric Coop, Inc",17,17040
+2380,"City of Shelby",40,17043
+2381,"Shelby Energy Co-op, Inc",21,17044
+2382,"City of Sharon",39,17045
+2383,"City of Shelby",19,17046
+2384,"City of Shelbyville",49,17047
+2385,"Shenandoah Valley Elec Coop",54,17066
+2386,"Shenandoah Valley Elec Coop",56,17066
+2387,"City of Shelly",27,17074
+2388,"Village of Sherburne",37,17079
+2389,"City of Sherrill",37,17085
+2390,"Village of Shiloh",40,17098
+2391,"City of Shiner",50,17101
+2392,"Town of Shrewsbury",25,17127
+2393,"City of Shullsburg",57,17130
+2394,"City of Sibley",19,17141
+2395,"City of Sidney",32,17149
+2396,"Sierra Pacific Power Co",6,17166
+2397,"Sierra Pacific Power Co",33,17166
+2398,"City of Sikeston",29,17177
+2399,"City of Siloam Springs",5,17184
+2400,"City of Siloam Springs",41,17184
+2401,"Village of Silver Springs",37,17186
+2402,"Singing River Elec Pwr Assn",1,17252
+2403,"Singing River Elec Pwr Assn",28,17252
+2404,"North West Rural Electric Coop",19,17260
+2405,"Slope Electric Coop Inc",39,17261
+2406,"City of Sioux Center",19,17264
+2407,"City of Sioux Falls",48,17265
+2408,"Sioux Valley SW Elec Coop",19,17267
+2409,"Sioux Valley SW Elec Coop",27,17267
+2410,"Sioux Valley SW Elec Coop",48,17267
+2411,"Sitka City & Borough of",2,17271
+2412,"PUD No 1 of Skamania Co",55,17279
+2413,"Village of Skaneateles",37,17280
+2414,"Skiatook Town of",41,17286
+2415,"Slash Pine Elec Member Corp",13,17290
+2416,"City of Slater",29,17312
+2417,"Sleepy Eye Public Utility Comm",27,17320
+2418,"Slinger Utilities",57,17324
+2419,"Borough of Smethport",44,17337
+2420,"Town of Smithfield",38,17451
+2421,"City of Smithville",49,17452
+2422,"Smithville City of",50,17453
+2423,"Town of Smyrna",9,17457
+2424,"Snohomish County PUD No 1",55,17470
+2425,"Socorro Electric Coop, Inc",36,17492
+2426,"City of Soda Springs",16,17493
+2427,"City of Snyder",32,17497
+2428,"Village of Solvay",37,17512
+2429,"South Alabama Elec Coop, Inc",1,17534
+2430,"South Carolina Electric&Gas Co",47,17539
+2431,"South Central Ark El Coop, Inc",5,17540
+2432,"South Carolina Pub Serv Auth",47,17543
+2433,"South Central Public Pwr Dist",32,17548
+2434,"South Central Electric Assn",27,17550
+2435,"Town of South Coffeyville",41,17553
+2436,"Town of South Hadley",25,17560
+2437,"South Plains Electric Coop Inc",50,17561
+2438,"City of South Haven",26,17562
+2439,"South Kentucky Rural  Electric Coop Corp",21,17564
+2440,"South Kentucky Rural  Electric Coop Corp",49,17564
+2441,"South Louisiana Elec Coop Assn",22,17565
+2442,"City of South Norwalk",8,17569
+2443,"Borough of South River",35,17571
+2444,"South River Elec Member Corp",38,17572
+2445,"South Side Electric, Inc",16,17576
+2446,"City of South Sioux City",32,17577
+2447,"Southeastern IL Elec Coop, Inc",17,17585
+2448,"South Vienna Corporation",40,17588
+2449,"Town of South Whitley",18,17589
+2450,"Southeast Colorado Power Assn",7,17592
+2451,"Southeast Electric Coop, Inc",30,17593
+2452,"Southeast Electric Coop, Inc",48,17593
+2453,"Southeast Electric Coop, Inc",58,17593
+2454,"Southeastern Indiana R E M C",18,17599
+2455,"Southeastern Electric Coop Inc",41,17603
+2456,"Southern California Edison Co",6,17609
+2457,"Bear Valley Electric Service",6,17612
+2458,"Southern Illinois Elec Coop",17,17631
+2459,"Southern Indiana Gas & Elec Co",18,17633
+2460,"Southern Maryland Elec Coop Inc",24,17637
+2461,"Southern Public Power District",32,17642
+2462,"Southern Iowa Elec Coop, Inc",19,17643
+2463,"Southern Pine Elec Coop, Inc",1,17646
+2464,"Southern Pine Elec Power Assn",28,17647
+2465,"City of Southport",38,17668
+2466,"Southwest Arkansas E C C",5,17671
+2467,"Southwest Arkansas E C C",41,17671
+2468,"Southwest Arkansas E C C",50,17671
+2469,"Southwest Rural Elec Assn Inc",41,17681
+2470,"Southwest Rural Elec Assn Inc",50,17681
+2471,"Southwest Mississippi E P A",28,17683
+2472,"Southwest Louisiana E M C",22,17684
+2473,"Southwest Public Power Dist",32,17692
+2474,"Southwest Texas Elec Coop, Inc",50,17693
+2475,"Southwest Tennessee E M C",49,17694
+2476,"Southwestern Electric Coop Inc",17,17697
+2477,"Southwestern Electric Power Co",5,17698
+2478,"Southwestern Electric Power Co",22,17698
+2479,"Southwestern Electric Power Co",50,17698
+2480,"Southwestern Electric Coop Inc",7,17715
+2481,"Southwestern Electric Coop Inc",36,17715
+2482,"Southwestern Electric Coop Inc",41,17715
+2483,"Southwestern Electric Coop Inc",50,17715
+2484,"Southwestern Public Service Co",36,17718
+2485,"Southwestern Public Service Co",50,17718
+2486,"Village of Spalding",32,17727
+2487,"Spanish Fork City Corporation",51,17732
+2488,"City of Sparta",49,17740
+2489,"City of Summerfield",20,17754
+2490,"Spencer City of",19,17783
+2491,"City of Spencer",32,17787
+2492,"Village of Spencerport",37,17789
+2493,"Town of Spiceland",18,17790
+2494,"Town of Spiro",41,17802
+2495,"Spooner City of",57,17811
+2496,"City of Spring Grove",27,17823
+2497,"Spring Valley Pub Utils Comm",27,17824
+2498,"Springer Electric Coop, Inc",36,17826
+2499,"Springer Town of",36,17827
+2500,"City of Springfield",17,17828
+2501,"City of Springfield",49,17829
+2502,"Snapping Shoals El Member Corp",13,17832
+2503,"City Utilities of Springfield",29,17833
+2504,"City of Springfield",7,17834
+2505,"Springfield Public Utils Comm",27,17836
+2506,"Spoon River Electric Coop, Inc",17,17838
+2507,"City of Springfield",42,17839
+2508,"Spring City Corporation",51,17844
+2509,"City of Springville",51,17845
+2510,"Village of Springville",37,17846
+2511,"City of St Charles",17,17860
+2512,"City of St Charles",27,17862
+2513,"City of St Clairsville",40,17865
+2514,"St Croix Electric Coop",57,17868
+2515,"City of St Francis",20,17872
+2516,"City of St George",51,17874
+2517,"City of St James",27,17876
+2518,"City of St James",29,17877
+2519,"St John City of",20,17879
+2520,"City of St Louis",26,17886
+2521,"City of St Martinville",22,17889
+2522,"City of St Marys",40,17891
+2523,"City of St Marys",20,17894
+2524,"City of Shasta Lake",6,17896
+2525,"City of Saint Paul",2,17898
+2526,"City of St Paul",32,17899
+2527,"City of Saint Peter",27,17900
+2528,"City of St Robert",29,17918
+2529,"City of Stafford",20,17924
+2530,"City of Stanberry",29,17946
+2531,"Stanton County Public Pwr Dist",32,17979
+2532,"Stantonsburg Town of",38,17981
+2533,"City of Staples",27,17983
+2534,"City of Starke",12,18004
+2535,"City of Starkville",28,18006
+2536,"City of State Center",19,18014
+2537,"Stearns Cooperative Elec Assn",27,18019
+2538,"City of Statesville",38,18022
+2539,"City of Steelville",29,18045
+2540,"Steele-Waseca Cooperative Electric",27,18047
+2541,"Town of Steilacoom",55,18051
+2542,"City of Stephen",27,18063
+2543,"City of Stephenson",26,18074
+2544,"South Central Power Company",40,18085
+2545,"City of Sterling",20,18086
+2546,"Town of Sterling",25,18087
+2547,"Steuben County Rural E M C",18,18100
+2548,"Steuben Rural Elec Coop, Inc",37,18102
+2549,"Stillwater Utilities Authority",41,18125
+2550,"City of Stilwell",41,18126
+2551,"City of Stratton",32,18129
+2552,"City of Stockton",20,18137
+2553,"Story City City of",19,18177
+2554,"Stoughton City of",57,18181
+2555,"Swisher Electric Coop, Inc",50,18199
+2556,"Village of Stratford",57,18200
+2557,"City of Stratford",19,18201
+2558,"Tallapoosa River Elec Coop Inc",1,18203
+2559,"City of Strawberry Point",19,18204
+2560,"Strawberry Electric Serv Dist",51,18206
+2561,"City of Stromsburg",32,18217
+2562,"City of Stroud",41,18224
+2563,"City of Stuart",32,18230
+2564,"Stuart City of",19,18231
+2565,"Sturgeon Bay City of",57,18249
+2566,"Town of Straughn",18,18250
+2567,"City of Sturgis",26,18252
+2568,"Surprise Valley Electrification Corp.",6,18260
+2569,"Surprise Valley Electrification Corp.",33,18260
+2570,"Surprise Valley Electrification Corp.",42,18260
+2571,"City of Sullivan",29,18273
+2572,"City of Sullivan",17,18277
+2573,"Sulphur Springs Valley E C Inc",4,18280
+2574,"City of Sumas",55,18282
+2575,"Borough of Summerhill",44,18284
+2576,"City of Sumner",19,18301
+2577,"Sumter Electric Coop, Inc",12,18304
+2578,"Sumter Electric Member Corp",13,18305
+2579,"Sun Prairie Water & Light Comm",57,18312
+2580,"Sumner-Cowley Elec Coop, Inc",20,18316
+2581,"City of Superior",32,18330
+2582,"Superior Water, Light and Power Co",57,18336
+2583,"Surry-Yadkin Elec Member Corp",38,18339
+2584,"City of Sutton",32,18354
+2585,"Suwannee Valley Elec Coop Inc",12,18360
+2586,"Swans Island Electric Coop Inc",23,18368
+2587,"Village of Swanton",52,18371
+2588,"Taylor Electric Coop",57,18383
+2589,"City of Sweetwater",49,18384
+2590,"Village of Sycamore",40,18393
+2591,"Sylacauga Utilities Board",1,18395
+2592,"City of Sylvania",13,18397
+2593,"Sun River Electric Coop, Inc",30,18401
+2594,"City of Sylvester",13,18403
+2595,"City of Syracuse",32,18408
+2596,"Village of Talmage",32,18428
+2597,"Tacoma City of",55,18429
+2598,"Tahlequah Public Works Auth",41,18433
+2599,"City of Tallahassee",12,18445
+2600,"T I P Rural Electric Coop",19,18446
+2601,"Tallahatchie Valley E P A",28,18447
+2602,"Tanner Electric Coop",55,18448
+2603,"Talquin Electric Coop, Inc",12,18449
+2604,"Tampa Electric Co",12,18454
+2605,"Borough of Tarentum",44,18456
+2606,"Town of Tarboro",38,18466
+2607,"City of Tarrant",1,18472
+2608,"Tanana Power Co Inc",2,18474
+2609,"Tatitlek Electric Utility",2,18480
+2610,"City of Taunton",25,18488
+2611,"Taylor County Rural E C C",21,18498
+2612,"Three Notch Elec Member Corp",13,18499
+2613,"Tecumseh Utility Authority",41,18524
+2614,"City of Tecumseh",32,18525
+2615,"Tell City City of",18,18538
+2616,"City of Tenakee Springs",2,18541
+2617,"Town of Templeton",25,18546
+2618,"Tennessee Valley Electric Coop",49,18643
+2619,"Town of Thatcher",4,18805
+2620,"Thayer City of",29,18806
+2621,"Village of Theresa",37,18813
+2622,"City of Thief River Falls",27,18820
+2623,"City of Thomaston",13,18847
+2624,"City of Thomasville",13,18848
+2625,"City of Thorntown",18,18887
+2626,"Thumb Electric Coop of Mich",26,18895
+2627,"Thurmont Municipal Light Co",24,18901
+2628,"Tillamook Peoples Utility Dist",42,18917
+2629,"Timpson City of",50,18933
+2630,"Tipmont Rural Elec Member Corp",18,18940
+2631,"City of Tipp City",40,18941
+2632,"Tipton Municipal Electric Util",18,18942
+2633,"Tippah Electric Power Assn",28,18943
+2634,"Village of Tontogany",40,18944
+2635,"City of Toronto",20,18945
+2636,"City of Tipton",19,18947
+2637,"Tishomingo County E P A",28,18951
+2638,"City of Trenton",32,18954
+2639,"Tri-County Electric Coop, Inc",17,18955
+2640,"Tri-County Elec Member Corp",13,18956
+2641,"Tri-County Elec Member Corp",38,18957
+2642,"City of Troy",20,18959
+2643,"Twin County Electric Pwr Assn",28,18961
+2644,"Twin Valley Electric Coop Inc",20,18962
+2645,"Inside Passage Elec Coop, Inc",2,18963
+2646,"Trinity Valley Elec Coop Inc",50,18976
+2647,"The Toledo Edison Co",40,18997
+2648,"Tombigbee Electric Power Assn",28,19007
+2649,"Tonopah Irrigation District",4,19016
+2650,"Tongue River Electric Coop Inc",30,19022
+2651,"City of Tonkawa",41,19025
+2652,"Tombigbee Electric Coop, Inc",1,19027
+2653,"City of Torrington",58,19032
+2654,"Traverse Electric Coop, Inc",27,19060
+2655,"Traverse Electric Coop, Inc",39,19060
+2656,"Traverse Electric Coop, Inc",48,19060
+2657,"City of Traer",19,19062
+2658,"Tideland Electric Member Corp",38,19108
+2659,"Village of Trempealeau",57,19114
+2660,"City of Traverse City",26,19125
+2661,"Trinity Public Utilities Dist",6,19131
+2662,"City of Trenton",49,19149
+2663,"Trenton Municipal Utilities",29,19150
+2664,"Tri-State Electric Member Corp",13,19154
+2665,"Tri-State Electric Member Corp",38,19154
+2666,"Tri-State Electric Member Corp",49,19154
+2667,"Powder River Energy Corporation",30,19156
+2668,"Powder River Energy Corporation",58,19156
+2669,"Tri-County Electric Coop",19,19157
+2670,"Tri-County Electric Coop",27,19157
+2671,"Tri-County Electric Coop Assn",29,19158
+2672,"Tri-County Electric Coop, Inc",50,19159
+2673,"Tri-County Electric Coop, Inc",7,19160
+2674,"Tri-County Electric Coop, Inc",20,19160
+2675,"Tri-County Electric Coop, Inc",36,19160
+2676,"Tri-County Electric Coop, Inc",41,19160
+2677,"Tri-County Electric Coop, Inc",12,19161
+2678,"Tri-County Elec Member Corp",21,19162
+2679,"Tri-County Elec Member Corp",49,19162
+2680,"Tricounty Rural Elec Coop, Inc",40,19176
+2681,"Trico Electric Cooperative Inc",4,19189
+2682,"City of Trinidad",7,19204
+2683,"Diverse Power Incorporated",1,19219
+2684,"Diverse Power Incorporated",13,19219
+2685,"City of Troy",1,19225
+2686,"City of Troy",18,19227
+2687,"Truckee Donner P U D",6,19229
+2688,"City of Troy",30,19236
+2689,"Truman Public Utilities Comm",27,19237
+2690,"City of Truth or Consequences",36,19246
+2691,"City of Tulia",50,19264
+2692,"Tullahoma Board-Public Utils",49,19266
+2693,"Tuntutuliak Comm Services Assn",2,19267
+2694,"Tupelo City of",28,19273
+2695,"Village of Tupper Lake",37,19274
+2696,"TDX North Slope Generating Co",2,19277
+2697,"Turlock Irrigation District",6,19281
+2698,"Southeastern Electric Coop Inc",48,19293
+2699,"City of Tuscumbia",1,19307
+2700,"City of Tuskegee",1,19308
+2701,"City of Two Harbors",27,19321
+2702,"Two Rivers Water & Light",57,19324
+2703,"Umatilla Electric Coop Assn",42,19325
+2704,"City of Tyler",27,19332
+2705,"City of Tyndall",48,19333
+2706,"City of Udall",20,19344
+2707,"UGI Utilities, Inc",44,19390
+2708,"Tri-County Electric Coop",26,19396
+2709,"City of Ukiah",6,19397
+2710,"City of Union City",49,19430
+2711,"City of Union",47,19431
+2712,"Village of Union City",26,19432
+2713,"Union Electric Membership Corp",38,19435
+2714,"Union Electric Co",29,19436
+2715,"Western Iowa Power Coop",19,19437
+2716,"United Rural Elec Member Corp",18,19443
+2717,"Southern Indiana R E C, Inc",18,19445
+2718,"Duke Energy Kentucky, Inc.",21,19446
+2719,"City of Unalaska",2,19454
+2720,"City of Unionville",29,19474
+2721,"United Electric Coop Service Inc",50,19490
+2722,"Union County Electric Coop Inc",48,19493
+2723,"United Illuminating Co",8,19497
+2724,"United Power, Inc",7,19499
+2725,"Union Rural Electric Coop, Inc",40,19501
+2726,"United Electric Co-op, Inc",16,19502
+2727,"Black Hills Power Inc",30,19545
+2728,"Black Hills Power Inc",48,19545
+2729,"Black Hills Power Inc",58,19545
+2730,"Hawaiian Electric Co Inc",15,19547
+2731,"Homer Electric Assn Inc",2,19558
+2732,"Upper Cumberland E M C",49,19574
+2733,"Upper Peninsula Power Co",26,19578
+2734,"Upshur Rural Elec Coop Corp",50,19579
+2735,"Upson Elec Member Corp",13,19581
+2736,"USBIA-Mission Valley Power",30,19603
+2737,"USBIA-San Carlos Project",4,19604
+2738,"Utilities Dist-Western IN REMC",18,19667
+2739,"City of Valentine",32,19677
+2740,"City of Valley City",39,19687
+2741,"Valley Electric Member Corp",22,19688
+2742,"Van Buren Light & Power Dist",23,19702
+2743,"City of Vanceburg",21,19716
+2744,"City of Yale",41,19719
+2745,"City of Vandalia",29,19722
+2746,"UNS Electric, Inc",4,19728
+2747,"Town of Veedersburg",18,19771
+2748,"Vera Irrigation District #15",55,19784
+2749,"Verdigris Valley Elec Coop Inc",41,19785
+2750,"City of Vermillion",48,19788
+2751,"Verendrye Electric Coop Inc",39,19790
+2752,"Vermont Electric Cooperative, Inc.",52,19791
+2753,"Omya Inc",52,19794
+2754,"City of Vernon",6,19798
+2755,"City of Vero Beach",12,19804
+2756,"Village of Versailles",40,19805
+2757,"Victoria Electric Coop, Inc",50,19806
+2758,"Vernon Electric Coop",57,19813
+2759,"Victory Electric Coop Assn Inc",20,19820
+2760,"Town of Vidalia",22,19828
+2761,"Valley Electric Assn, Inc",6,19840
+2762,"Valley Electric Assn, Inc",33,19840
+2763,"Villisca City of",19,19843
+2764,"Vineland City of",35,19856
+2765,"Vinton City of",19,19865
+2766,"Town of Vinton",22,19866
+2767,"Village of Viola",57,19867
+2768,"Vinton Public Power Auth",22,19869
+2769,"Virginia Electric & Power Co",38,19876
+2770,"Virginia Electric & Power Co",54,19876
+2771,"Virgin Islands Wtr&Pwr Auth",53,19879
+2772,"Virginia Tech Electric Service",54,19882
+2773,"City of Virginia",27,19883
+2774,"Wabash County Rural E M C",18,19887
+2775,"City of Volga",48,19896
+2776,"Volunteer Electric Coop",49,19898
+2777,"City of Wadena",27,19947
+2778,"City of Wadsworth",40,19951
+2779,"City of Waelder",50,19952
+2780,"Wahoo City of",32,19968
+2781,"Town of Wake Forest",38,19974
+2782,"City of Wakefield",26,19975
+2783,"Town of Wakefield",54,19978
+2784,"Town of Wakefield",25,19979
+2785,"City of Wakefield",32,19980
+2786,"Wake Electric Membership Corp",38,19981
+2787,"Town of Walkerton",18,20021
+2788,"City of Wall Lake",19,20025
+2789,"Wallingford Town of",8,20038
+2790,"Walters Public Works Authority",41,20061
+2791,"Village of Walthill",32,20063
+2792,"Walton Electric Member Corp",13,20065
+2793,"City of Wamego",20,20069
+2794,"Borough of Wampum",44,20070
+2795,"Town of Walstonburg",38,20071
+2796,"City of Wapakoneta",40,20077
+2797,"City of Warren",27,20110
+2798,"Warren County Rural E M C",17,20111
+2799,"Warren County Rural E M C",18,20111
+2800,"Town of Warren",18,20122
+2801,"Warren Rural Elec Coop Corp",21,20130
+2802,"City of Warroad",27,20134
+2803,"City of Washington",51,20135
+2804,"City of Waseca",27,20136
+2805,"Wasco Electric Coop, Inc",42,20138
+2806,"Washington City of",18,20139
+2807,"City of Washington",13,20140
+2808,"Washington City of",20,20141
+2809,"City of Washington",38,20142
+2810,"Washington Elec Member Corp",13,20146
+2811,"Washington Electric Coop, Inc",40,20150
+2812,"Washington Electric Coop Inc",52,20151
+2813,"Washington Island El Coop, Inc",57,20153
+2814,"Wagoner Public Works Authority",41,20163
+2815,"Avista Corp",16,20169
+2816,"Avista Corp",30,20169
+2817,"Avista Corp",55,20169
+2818,"City of Water Valley",28,20176
+2819,"Waterloo City of",17,20180
+2820,"Waterloo Light & Water Comm",57,20182
+2821,"Watertown Municipal Utilities",48,20187
+2822,"City of Waterville",20,20189
+2823,"City of Wathena",20,20192
+2824,"Village of Watkins Glen",37,20193
+2825,"City of Watonga",41,20196
+2826,"Watsontown Borough of",44,20206
+2827,"City of Wauchula",12,20209
+2828,"Village of Waunakee",57,20211
+2829,"Village of Wauneta",32,20212
+2830,"Waupun Utilities",57,20213
+2831,"Waverly Municipal Elec Utility",19,20214
+2832,"Whitewater Valley Rural EMC",18,20216
+2833,"City of Wayne",32,20219
+2834,"Wayne-White Counties Elec Coop",17,20222
+2835,"Village of Waynesfield",40,20223
+2836,"City of Waynesville",29,20224
+2837,"Town of Waynesville",38,20225
+2838,"City of Waynetown",18,20226
+2839,"City of Waynoka",41,20227
+2840,"Weakley County Mun Elec Sys",49,20228
+2841,"Weatherford Mun Utility System",50,20230
+2842,"Borough of Weatherly",44,20232
+2843,"City of Webster City",19,20259
+2844,"City of Weiser",16,20297
+2845,"Wellesley Town of",25,20310
+2846,"Village of Wellington",40,20313
+2847,"City of Wellington",20,20315
+2848,"Webster Electric Coop",29,20318
+2849,"West Boylston Town of",25,20326
+2850,"City of Weimar",50,20331
+2851,"Wells Rural Electric Co",33,20332
+2852,"Wells Rural Electric Co",51,20332
+2853,"Wellsborough Electric Co",44,20334
+2854,"Village of Wellsville",37,20337
+2855,"Town of Welsh",22,20343
+2856,"City of Wessington Springs",48,20359
+2857,"West Central Electric Coop Inc",29,20363
+2858,"City of West Bend",19,20364
+2859,"West Central Electric Coop Inc",48,20368
+2860,"West Florida El Coop Assn, Inc",12,20371
+2861,"West Kentucky Rural E C C",21,20377
+2862,"Town of Westfield",19,20379
+2863,"City of West Liberty",19,20380
+2864,"City of West Memphis",5,20382
+2865,"West Oregon Electric Coop Inc",42,20385
+2866,"West Penn Power Co",44,20387
+2867,"City of West Plains",29,20392
+2868,"City of West Point",13,20393
+2869,"City of West Point",28,20394
+2870,"West Point Utility System",19,20396
+2871,"City of West Point",32,20397
+2872,"West River Electric Assn Inc",48,20401
+2873,"AEP Texas North Company",50,20404
+2874,"Mountrail-Williams Elec Coop",30,20413
+2875,"Mountrail-Williams Elec Coop",39,20413
+2876,"Whetstone Valley Elec Coop Inc",48,20422
+2877,"City of Westbrook",27,20430
+2878,"City of Westby",57,20434
+2879,"Western Massachusetts Elec Co",25,20455
+2880,"Twin Valleys Public Power Dist",32,20456
+2881,"City of Whalan",27,20466
+2882,"Village of Wharton",40,20471
+2883,"Wharton County Elec Coop, Inc",50,20472
+2884,"Western Coop Electric Assn Inc",20,20476
+2885,"City of Westerville",40,20477
+2886,"Village of Westfield",37,20480
+2887,"City of Westfield",25,20481
+2888,"City of Westminster",47,20490
+2889,"City of Wetumka",41,20502
+2890,"Wheatland Rural Elec Assn, Inc",58,20506
+2891,"Wheat Belt Public Power Dist",32,20509
+2892,"Wheatland Electric Coop, Inc",7,20510
+2893,"Wheatland Electric Coop, Inc",20,20510
+2894,"Town of Wheatland",58,20512
+2895,"Wheeling Power Co",56,20521
+2896,"City of Whigham",13,20534
+2897,"City of White Mountain",2,20535
+2898,"White River Valley El Coop Inc",29,20574
+2899,"White River Electric Assn, Inc",7,20576
+2900,"Whitehall Electric Utility",57,20583
+2901,"City of Whitesboro",50,20588
+2902,"Northeastern Rural E M C",18,20603
+2903,"City of Whittemore",19,20604
+2904,"Town of Wickenburg",4,20618
+2905,"City of Wilber",32,20632
+2906,"Wild Rice Electric Coop, Inc",27,20639
+2907,"Village of Wilcox",32,20641
+2908,"Town of Williamsport",24,20729
+2909,"City of Williamsport",18,20730
+2910,"Williamstown Utility Comm",21,20731
+2911,"City of Williston",12,20735
+2912,"Willmar Municipal Utilities",27,20737
+2913,"City of Willow Springs",29,20739
+2914,"City of Wilson",38,20785
+2915,"City of Wilton",19,20789
+2916,"Town of Winamac",18,20792
+2917,"City of Winchester",49,20793
+2918,"City of Windom",27,20806
+2919,"Town of Windsor",38,20811
+2920,"City of Winfield",20,20813
+2921,"Winner Municipal Utility",48,20823
+2922,"Winnetka Village of",17,20824
+2923,"Town of Winnsboro",47,20826
+2924,"City of Winona",29,20827
+2925,"Winterset City of",19,20835
+2926,"City of Winterville",38,20836
+2927,"Winthrop City of",27,20837
+2928,"Wiregrass Electric Coop, Inc",1,20841
+2929,"Wisconsin Dells Electric Util",57,20844
+2930,"City of Woolstock",19,20846
+2931,"Wisconsin Electric Power Co",26,20847
+2932,"Wisconsin Electric Power Co",57,20847
+2933,"City of Blue Hill",32,20848
+2934,"Wisconsin Power & Light Co",57,20856
+2935,"WPPI Energy",19,20858
+2936,"WPPI Energy",26,20858
+2937,"WPPI Energy",57,20858
+2938,"Wisconsin Public Service Corp",26,20860
+2939,"Wisconsin Public Service Corp",57,20860
+2940,"Wisconsin Rapids W W & L Comm",57,20862
+2941,"City of Wisner",32,20880
+2942,"Withlacoochee River Elec Coop",12,20885
+2943,"Wolverine Pwr Supply Coop, Inc",26,20910
+2944,"Town of Wolfeboro",34,20913
+2945,"Wonewoc Electric & Water Util",57,20924
+2946,"Wood County Electric Coop, Inc",50,20927
+2947,"City of Wood River",32,20945
+2948,"Wise Electric Coop Inc",50,20948
+2949,"City of Woodbine",19,20949
+2950,"Village of Winside",32,20950
+2951,"Woodbury County Rural E C A",19,20951
+2952,"Woodruff Electric Coop Corp",5,20963
+2953,"City of Woodsfield",40,20977
+2954,"Village of Woodville",40,20979
+2955,"Precinct of Woodsville",34,20980
+2956,"Wright-Hennepin Coop Elec Assn",27,20996
+2957,"Yellowstone Valley Elec Co-op Inc.",30,20997
+2958,"York Electric Coop Inc",47,21002
+2959,"City of Worthington",27,21013
+2960,"City of Wrangell",2,21015
+2961,"City of Wray",7,21021
+2962,"Wyandotte Municipal Serv Comm",26,21048
+2963,"City of Wymore",32,21056
+2964,"City of Wynnewood",41,21066
+2965,"Y-W Electric Assn Inc",7,21075
+2966,"Y-W Electric Assn Inc",32,21075
+2967,"Wyrulec Company",32,21079
+2968,"Wyrulec Company",58,21079
+2969,"Yampa Valley Electric Assn Inc",7,21081
+2970,"Yampa Valley Electric Assn Inc",58,21081
+2971,"Public Serv Comm of Yazoo City",28,21095
+2972,"Village of Yellow Springs",40,21101
+2973,"City of Yoakum",50,21108
+2974,"Perennial Public Power Dist",32,21111
+2975,"Yazoo Valley Elec Power Assn",28,21114
+2976,"City of Yuma",7,21143
+2977,"City of Zeeland",26,21158
+2978,"Borough of Zelienople",44,21160
+2979,"Electrical Dist No7 Maricopa",4,21239
+2980,"Southside Electric Coop, Inc",54,21244
+2981,"Fergus Electric Coop, Inc",30,21513
+2982,"Flowell Electric Assn, Inc",51,21514
+2983,"City of Laurens",47,21526
+2984,"City of Minneapolis",20,21533
+2985,"Mohave Electric Cooperative, Inc",4,21538
+2986,"Washington-St Tammany E C, Inc",22,21567
+2987,"Washington-St Tammany E C, Inc",28,21567
+2988,"EnergyUnited Elec Member Corp",38,21632
+2989,"Willwood Light & Power Company",58,21664
+2990,"Kentucky Power Co",21,22053
+2991,"PUD No 1 of Mason County",55,22355
+2992,"Westar Energy Inc",20,22500
+2993,"United Electric Coop, Inc",19,22646
+2994,"United Electric Coop, Inc",29,22646
+2995,"Roosevelt County Elec Coop Inc",36,22690
+2996,"Raft River Rural Elec Coop Inc",16,22814
+2997,"Raft River Rural Elec Coop Inc",33,22814
+2998,"Raft River Rural Elec Coop Inc",51,22814
+2999,"Delta Electric Power Assn",28,22815
+3000,"Clark County Rural E M C",18,22822
+3001,"Sierra Electric Coop, Inc",36,23326
+3002,"Vigilante Electric Coop, Inc",16,23586
+3003,"Vigilante Electric Coop, Inc",30,23586
+3004,"Bluestem Electric Coop Inc",20,23826
+3005,"Tucson Electric Power Co",4,24211
+3006,"City of Akutan",2,24486
+3007,"City of Escanaba",26,24558
+3008,"Unitil Energy Systems",34,24590
+3009,"Boone County Rural EMC",18,24753
+3010,"Village of Bradshaw",32,24791
+3011,"Brunswick Electric Member Corp",38,24889
+3012,"Cass County Electric Coop Inc",39,24949
+3013,"Wellton-Mohawk Irr & Drain Dist",4,25060
+3014,"Dakota Electric Association",27,25177
+3015,"Western Indiana Energy REMC",18,25295
+3016,"Ak-Chin Electric Utility Authority",4,25866
+3017,"Town of Langford",48,26120
+3018,"Little Ocmulgee El Member Corp",13,26218
+3019,"City of Manokotak",2,26317
+3020,"Granite State Electric Co",34,26510
+3021,"North Slope Borough Power & Light",2,26616
+3022,"Paxson Inn & Lodge",2,26754
+3023,"Pella Cooperative Elec Assn",19,26765
+3024,"City of Radium",20,26894
+3025,"Ravalli County Elec Coop, Inc",30,26916
+3026,"Red Lake Electric Coop, Inc",27,26934
+3027,"Red River Valley Coop Pwr Assn",27,26939
+3028,"City of Round Lake",27,27026
+3029,"High West Energy, Inc",7,27058
+3030,"High West Energy, Inc",32,27058
+3031,"High West Energy, Inc",58,27058
+3032,"City of Ripley",49,27222
+3033,"Southwest Electric Coop, Inc",29,27238
+3034,"City of Stanhope",19,27269
+3035,"Town of Stowe",52,27316
+3036,"Taylor Electric Coop Inc",50,27369
+3037,"Todd-Wadena Electric Coop",27,27422
+3038,"City of Vermillion",20,27545
+3039,"White County Rural E M C",18,27599
+3040,"Clatskanie Peoples Util Dist",42,28541
+3041,"Kerrville Public Utility Board",50,28604
+3042,"City of San Marcos",50,28978
+3043,"City of San Saba",50,28981
+3044,"City of Wells",27,29295
+3045,"Western Illinois Elec Coop",17,29296
+3046,"Pelican Utility",2,29297
+3047,"City of Madelia",27,29305
+3048,"Yakutat Power Inc",2,30150
+3049,"Pioneer Electric Coop, Inc",1,30517
+3050,"Electrical Dist No3 Pinal Cnty",4,30518
+3051,"City of Winnfield",22,30856
+3052,"Midvale Irrigation District",58,31516
+3053,"Okefenoke Rural El Member Corp",12,31833
+3054,"Okefenoke Rural El Member Corp",13,31833
+3055,"Mid-Ohio Energy Coop, Inc",40,36189
+3056,"Great Lakes Energy Coop",26,38084
+3057,"Westfield Electric Co",57,40036
+3058,"Texas-New Mexico Power Co",50,40051
+3059,"Clarke-Washington E M C",1,40127
+3060,"Dixie Escalante R E A, Inc",4,40165
+3061,"Dixie Escalante R E A, Inc",51,40165
+3062,"Chickasaw Electric Coop, Inc",49,40166
+3063,"Somerset Rural Elec Coop, Inc",24,40167
+3064,"Somerset Rural Elec Coop, Inc",44,40167
+3065,"Ark Valley Elec Coop Assn, Inc",20,40208
+3066,"Colquitt Electric Membership Corp",13,40212
+3067,"Cordova Electric Coop, Inc",2,40215
+3068,"United Electric Coop, Inc",44,40219
+3069,"Adams Electric Cooperative Inc",44,40220
+3070,"Bedford Rural Elec Coop, Inc",44,40221
+3071,"Valley Rural Electric Coop Inc",44,40222
+3072,"Warren Electric Coop Inc",44,40223
+3073,"Central Electric Coop, Inc",44,40224
+3074,"Rappahannock Electric Coop",54,40228
+3075,"Deseret Generation & Tran Coop",51,40230
+3076,"Forked Deer Electric Coop, Inc",49,40236
+3077,"Claverack Rural Elec Coop Inc",44,40289
+3078,"Tri-County Rural Elec Coop Inc",44,40290
+3079,"Sullivan County R E C, Inc",44,40291
+3080,"REA Energy Coop Inc",44,40292
+3081,"Northwestern Rural E C A, Inc",40,40293
+3082,"Northwestern Rural E C A, Inc",44,40293
+3083,"Sussex Rural Electric Coop Inc",35,40299
+3084,"Sussex Rural Electric Coop Inc",37,40299
+3085,"North East Mississippi E P A",28,40302
+3086,"Monroe County Elec Power Assn",28,40303
+3087,"Minnesota Valley Coop L&P Assn",27,40304
+3088,"Hickman-Fulton Counties RECC",21,40305
+3089,"Hickman-Fulton Counties RECC",49,40305
+3090,"Prairie Power, Inc",17,40307
+3091,"Maricopa County M W C Dist #1",4,40355
+3092,"Village of Holbrook",32,40356
+3093,"Electrical Dist No6 Pinal Cnty",4,40357
+3094,"City of Courtland",1,40364
+3095,"Village of Ladd",17,40367
+3096,"Oxford City of",13,40369
+3097,"City of Rockport",29,40382
+3098,"City of Rockport",32,40382
+3099,"City of Osceola",29,40383
+3100,"City of Buffalo",19,40390
+3101,"Guam Power Authority",14,40428
+3102,"American Samoa Power Authority",3,40429
+3103,"City of Enterprise",51,40433
+3104,"City of White",48,40435
+3105,"Emerald People's Utility Dist",42,40437
+3106,"Columbia River Peoples Ut Dist",42,40438
+3107,"City of Stanton",39,40440
+3108,"Murphy Town of",49,40441
+3109,"PUD No 1 of Whatcom County",55,40456
+3110,"Penoyer Valley Electric Coop",33,40497
+3111,"Unalakleet Valley Elec Coop",2,40548
+3112,"Grand Island City of",32,40606
+3113,"Oncor Electric Delivery Company LLC",50,44372
+3114,"Elec District No. 5 Maricopa C",4,49808
+3115,"Mohegan Tribal Utility Auth",8,49826
+3116,"Southwest Iowa Rural Elec Coop",19,49986
+3117,"City of Berea Municipal Utility",21,49998
+3118,"NSTAR Electric Company",25,54913
+3119,"Moreno Valley, City of",6,55787
+3120,"Entergy Gulf States Louisiana LLC",22,55936
+3121,"Entergy Texas Inc.",50,55937
+3122,"Roughrider Electric Cooperative",39,55959
+3123,"Heart of Texas Electric Coop",50,55982
+3124,"Black Hills/Colorado Elec.Utility Co. LP",7,56146
+3125,"Rancho Cucamonga Municipal Utility",6,56224
+3126,"UP Power Marketing, LLC",26,56496
+3127,"TDX Manley Generating LLC",2,56503
+3128,"City of Williams - AZ",4,56535
+3129,"Riverside Electric Cooperative",16,56536
+3130,"Ameren Illinois Company",17,56697
+3131,"Gold Country Energy",2,56739
+3132,"Boston Edison Co.",25,1998
+3133,"Unitil Energy Systems, Inc.",25,4148
+3134,"Commonwealth Electric Co.",25,4089
+3135,"Cambridge Electric Light Co.",25,2886
+3136,"Citizens Communications-Vermont Electric Divi",34,0
+3137,Hydro-Quebec,34,9149
+3138,"New England Power Co.",34,13433
+3139,"New Brunswick Power Corp.",23,13361
+3140,"Rochester Electric Light & Power Co.",52,16182
+3141,"1st Rochdale Cooperative Group, Ltd.",8,21156
+3142,"New York Power Authority",37,15296
+3143,"Elkhorn Public Service Co.",56,5779
+3144,"United Light & Power Co.",56,19498
+3145,"War Light & Power Co.",56,20078
+3146,"Elk Power Co.",56,5731
+3147,"Kimball Light & Water Co.",56,10262
+3148,"Ohio Valley Electric Corp.",56,14015
+3149,"Union Power Co.",56,19461
+3150,"Harkers Island Electric Membership Corp.",38,8116
+3151,"Tennessee Valley Authority",38,18642
+3152,"Savannah Electric & Power Co.",47,16687
+3153,"Lebanon Electric & Gas Systems",49,10831
+3154,"Somerville Light, Gas & Water",49,17520
+3155,"Harrison County Rural Electric Coop Corp.",21,8289
+3156,"Central Illinois Public Services Co.",21,3253
+3157,"Illinois Power Co.",21,9208
+3158,"Monticello Electric Plant Board",21,12853
+3159,"American Municipal Power-Ohio, Inc.",40,40577
+3160,"Boonville Municipal Utilities",18,1971
+3161,"Edison Sault Electric Co.",26,5659
+3162,"Interstate Power & Light Co.",19,9162
+3163,"Rideta Electric Coop, Inc.",19,16023
+3164,"Sac County Rural Electric Coop",19,16529
+3165,"Tennant, City of",19,18554
+3166,"South Beloit Water, Gas & Electric Co.",57,17535
+3167,"Head of Lakes Electric Coop",57,8347
+3168,"Darwin, Village of",27,4793
+3169,"Manitoba Hydro-Electric Board",27,26315
+3170,"McCook Electric Coop, Inc.",48,12030
+3171,"Montana Dakota Utilities Co.",48,12819
+3172,"Oliver-Mercer Electric Coop, Inc.",39,14088
+3173,"West Plains Electric Coop, Inc.",39,20395
+3174,"Valley Electric Coop, Inc.",30,27490
+3175,"Energy Northwest, Inc.",30,5188
+3176,"British Columbia Hydro & Power Authority",30,2254
+3177,"Central Illinois Light Co.",17,3252
+3178,"Oakley Municipal Power Plant",20,13941
+3179,"Panama, Village of",32,14237
+3180,"Clarkson Electric Dept.",32,3703
+3181,"Entergy Gulf States, Inc.",22,7806
+3182,"Elizabeth Gas & Electric",22,6069
+3183,"Braman Electric Dept.",41,2268
+3184,"FEC Electric Coop, Inc.",50,39006
+3185,"TXU SESCO Co.",50,17699
+3186,"Garrison Electric & Gas Dept.",50,25495
+3187,"Belfalls Electric Coop, Inc.",50,1513
+3188,"McLennan County Electric Coop, Inc.",50,12155
+3189,"Newcorp Resources Electric Coop, Inc.",50,13428
+3190,"Kimble Electric Coop, Inc.",50,10238
+3191,"DeWitt Electric Coop, Inc.",50,5139
+3192,"Atlanta Power Co., Inc.",16,967
+3193,"Kanab City Power Dept.",51,9975
+3194,"Electrical District No. 1 of Pinal County",4,40362
+3195,"Buckeye Irrigation District",4,2469
+3196,"Harquahala Valley Power District",4,8139
+3197,"Panaca Power & Light Co.",33,14415
+3198,"Farmers Mutual Power Association",33,6257
+3199,"Tuolumne County Public Power Agency",6,19174
+3200,"Kauai Island Utility Coop",15,49795
+3201,"Fircrest Public Light Utility",55,5567
+3202,"Cashmere Light Dept.",55,3155
+3203,"Kotlik Electric Dept.",2,9898
+3204,"Andreanof Electric Corp.",2,653
+3205,"Central Electric Inc.",2,6111
+3206,"Manley Utility Co., Inc.",2,11591
+3207,"Teller Power Co.",2,18521
+3208,"Arctic Utilities, Inc.",2,409
+3209,"Thorne Bay, City of",2,18877
+5001,"Access Energy Cooperative",19,0
+5002,"Adams Electric Cooperative",44,0
+5004,"Adams-Columbia Electric Cooperative",57,0
+5006,"Alabama Power Co.",1,0
+5009,"Alaska Energy Authority",2,0
+5013,"Alexandria Light and Power ",27,0
+5015,"Algoma Utilities",57,0
+5019,"Alliant Energy",19,0
+5024,"Anaheim Public Utilities",6,0
+5030,"Arizona Public Service (APS)",4,0
+5032,"Arkansas Department Of Environmental Quality",5,0
+5035,"Athens Utilities Board",49,0
+5036,"Atlantic City Electric",35,0
+5039,"Austin Public Utilities ",27,0
+5040,"Avista Corp.",16,0
+5042,"Baltimore Gas & Electric Co.",24,0
+5046,"Barron Electric Cooperative ",57,0
+5048,"Columbia Gas of Massachusetts",25,0
+5053,"Benton Public Utility District",55,0
+5055,"Berkeley Planning and Development Department",6,0
+5061,"Blue Earth Light and Water",27,0
+5062,"Blue Ridge Electric Cooperative ",47,0
+5068,"Boscobel Utilities",57,0
+5076,"Building Owners and Managers Association  (BOMA)",7,0
+5078,"Burbank Water and Power",6,0
+5080,"Burlington Electric Department",52,0
+5081,"Butler County Rural Electric Cooperative",19,0
+5085,"California Center for Sustainable Energy",6,0
+5086,"California Energy Commission",6,0
+5089,"California Public Utilities Commission",6,0
+5091,"Caney Fork Electric Cooperative",49,0
+5093,"Cape Light Compact",23,0
+5097,"Cartersville Electric System ",13,0
+5101,"Cedarburg Light & Water Utility ",57,0
+5103,"Central Electric Cooperative, Inc. (OR)",42,0
+5104,"Central Hudson Gas and Electric Corporation",37,0
+5106,"Central Louisiana Electric Company (CLECO)",22,0
+5107,"Central Maine Power Company",23,0
+5109,"Central Wisconsin Electric Cooperative",57,0
+5110,"Chariton Valley Electric Cooperative, Inc.",19,0
+5112,"Chattanooga Electric Power Board ",49,0
+5119,"Chippewa Valley Electric Cooperative",57,0
+5122,"City of Ashland Conservation Programs",42,0
+5123,"City of Boulder",7,0
+5132,"City of Palo Alto Utilities",6,0
+5135,"City of San Jose",6,0
+5140,"City Water, Light & Power",17,0
+5143,"Clark County Rural Electric Membership Corporation (REMC)",18,0
+5145,"Clark Public Utilities",55,0
+5148,"Clatskanie People's Utility District",42,0
+5153,"Co-Mo Electric Cooperative ",29,0
+5154,"Coast Electric Power Association ",28,0
+5157,"College Station Utilities",50,0
+5158,"Colorado Springs Utilities",7,0
+5160,"Columbia Power and Water Systems",49,0
+5161,"Columbia River PUD",42,0
+5162,"Columbia Water & Light ",29,0
+5164,"Commonwealth Edison Co.",17,0
+5167,"Concord Municipal Light Plant",25,0
+5169,"Consolidated Edison Co. Of New York Inc.",37,0
+5170,"Consolidated Electric Cooperative, Inc.",29,0
+5173,"Cookeville Electric Department",49,0
+5177,"County Board of Arlington",54,0
+5178,"PUD No. 1 of Cowlitz County",55,0
+5193,"Denton Municipal Electric",50,0
+5208,"East-Central Iowa Rural Electric Cooperative",19,0
+5211,"Efficiency Maine",23,0
+5212,"Efficiency Vermont",52,0
+5213,"Elk River Municipal Utilities",27,0
+5218,"Energy Trust of Oregon",42,0
+5221,"Entergy Arkansas, Inc.",5,0
+5222,"Entergy Louisiana, LLC",22,0
+5223,"Entergy Texas, Inc.",50,0
+5225,"Eugene Water & Electric Board ",42,0
+5229,"Farmers' Electric Cooperative (MO)",29,0
+5230,"Federated Rural Electric",27,0
+5236,"Florida Keys Electric Cooperative Association",12,0
+5238,"Florida Public Utilities Company",12,0
+5240,"Focus on Energy ",57,0
+5241,"Fort Collins Utilities Light & Power",7,0
+5242,"Fort Morgan Light and Power",7,0
+5249,"Garland Power & Light",50,0
+5251,"Georgia Power",13,0
+5252,"Gibson Electric Membership Corporation",49,0
+5254,"Glendale Water & Power",6,0
+5267,"Greenville Utilities",38,0
+5268,"Griffin Electric Department",13,0
+5270,"Groton Utilities",8,0
+5272,"Grundy Electric Cooperative, Inc.",29,0
+5275,"Gulf Power Company",12,0
+5276,"Gunnison County Electric Association, Inc.",7,0
+5293,"Heartland Consumers Power District",48,0
+5299,"Holy Cross Energy",7,0
+5300,"Holyoke Gas & Electric Department",25,0
+5306,"Idaho Power",16,0
+5310,"Independence Municipal Light Plant",19,0
+5319,"Iowa Lakes Electric Cooperative",19,0
+5324,"JEA (Jacksonville Electric Authority)",12,0
+5327,"Johnson City Power Board",49,0
+5330,"Juneau Utilities",57,0
+5335,"Kaukauna Utilities",57,0
+5339,"Kenergy Corp.",21,0
+5340,"Kentucky Pollution Prevention Center",21,0
+5342,"Kentucky Utilities",21,0
+5347,"Kit Carson Electric Cooperative",36,0
+5348,"Kiwash Electric Cooperative, Inc.",41,0
+5351,"La Plata Electric Association, Inc.",7,0
+5352,"Laclede Gas Company",29,0
+5358,"Lakeland Electric",12,0
+5359,"Lakeview Light and Power",55,0
+5361,"Lane-Scott Electric Cooperative",20,0
+5365,"Lee County Electric Cooperative, Inc. ",12,0
+5366,"Lewis County Public Utility District",55,0
+5380,"Loveland Water & Power",7,0
+5381,"Lower Valley Energy",16,0
+5391,"Madison Gas & Electric ",57,0
+5392,"Maquoketa Valley Electric Cooperative",19,0
+5397,"Mason County Public Utility District 3",55,0
+5407,"Menasha Utilities",57,0
+5413,"MidAmerican Energy",17,0
+5415,"Midstate Electric Cooperative, Inc.",42,0
+5417,"Midwest Energy, Inc.",20,0
+5424,"Minnesota Energy Resources",27,0
+5426,"Minnesota Power ",27,0
+5427,"Minnesota Valley Electric Cooperative ",27,0
+5429,"Missoula Electric Cooperative, Inc.",30,0
+5439,"Montana-Dakota Utilities Co.",30,0
+5446,"Morgan County Rural Electric Association",7,0
+5447,"Morristown Utility Systems",49,0
+5454,"National Grid",25,0
+5466,"New Braunfels Utilities",50,0
+5468,"New Glarus Utilities",57,0
+5469,"New Holstein Utilities",57,0
+5470,"New Jersey Board of Public Utilities",35,0
+5471,"New Jersey Natural Gas",35,0
+5472,"New Jersey's Clean Energy Program",35,0
+5474,"New Mexico Finance Authority",36,0
+5476,"New Prague Utilities Commission ",27,0
+5477,"New Richmond Utilities",57,0
+5478,"New Ulm Public Utilities ",27,0
+5480,"New York Industrial Retention Network",37,0
+5482,"New York State Electric and Gas",37,0
+5483,"New Hampshire Business Resource Center",34,0
+5494,"North Carolina Waste Reduction Partners",38,0
+5504,"Northern Virginia Electric Cooperative ",54,0
+5505,"Northern Wasco County Public Utility District",42,0
+5507,"Northwest Public Power Association",55,0
+5509,"Northwestern Electric Cooperative, Inc.",40,0
+5510,"Northwestern Energy",30,0
+5511,"Northwestern Rural Electric Cooperative Association, Inc.",44,0
+5517,"Oberlin Municipal Light & Power System",40,0
+5522,"Ohio Department of Development",40,0
+5525,"Oklahoma Gas & Electric Co. (OG&E)",5,0
+5534,"Orcas Power and Light Cooperative",55,0
+5536,"Orlando Utilities Commission",12,0
+5537,"Otter Tail Power Company ",27,0
+5538,"Owatonna Public Utilities ",27,0
+5542,"PUD No. 2 of Pacific County",55,0
+5543,"Pacific Gas and Electric Company (PG&E)",6,0
+5544,"Pacific Power",6,0
+5547,"Parke County R.E.M.C.",18,0
+5548,"Pasadena Water and Power",6,0
+5550,"PECO Energy Co.",44,0
+5552,"Pedernales Electric Cooperative ",50,0
+5557,"Pennyrile Rural Electric Cooperative ",21,0
+5562,PEPCO,10,0
+5563,"Perennial Public Power District",32,0
+5566,"Pickwick Electric Cooperative",49,0
+5567,"Piedmont Electric Membership Corporation",38,0
+5568,"Pierce Pepin Cooperative Services",57,0
+5572,"Plymouth Utilities",57,0
+5576,"Portland General Electric",42,0
+5579,"Prairie Energy Cooperative",19,0
+5580,"Preston Public Utilities ",27,0
+5582,"Princeton Public Utilities Commission",27,0
+5583,"Progress Energy - Florida",12,0
+5587,"Puget Sound Energy",55,0
+5592,"Reading Municipal Light Department",25,0
+5597,"Reedsburg Utility Commission",57,0
+5602,"Riverside Public Utilities",6,0
+5603,"Roanoke Electric Cooperative",38,0
+5604,"Rochester Gas & Electric",37,0
+5606,"Rocky Mountain Power",16,0
+5607,"Rolling Hills Electric Cooperative, Inc.",20,0
+5609,"Roseville Electric",6,0
+5611,"Rural Electric Cooperative, Inc. (REC)",41,0
+5619,"Salt River Project (SRP)",4,0
+5620,"San Diego Gas & Electric",6,0
+5622,"San Diego Retrocommissioning Program",6,0
+5623,"San Francisco Department of the Environment",6,0
+5625,"Sangre De Cristo Electric Association, Inc.",7,0
+5629,"Scenic Rivers Energy Cooperative",57,0
+5630,"Seattle City Light",55,0
+5633,"Sequachee Valley Electric Cooperative",49,0
+5638,"Silicon Valley Power",6,0
+5640,"Snohomish County Public Utility District No. 1",55,0
+5647,"South Central Indiana Rural Electric Membership Corporation",18,0
+5653,"Southern California Edison",6,0
+5654,"Southern California Gas Company",6,0
+5657,"Southwest Electric Cooperative ",29,0
+5661,"Spring Valley Public Utilities ",27,0
+5662,"Springfield Utility Board",42,0
+5676,"Stoughton Utilities",57,0
+5677,"Sturgeon Bay Utilities",57,0
+5679,"Sulphur Springs Valley Electric Cooperative, Inc.",4,0
+5681,"Sun Prairie Utilities",57,0
+5683,"Tacoma Public Utilities",55,0
+5684,"Tampa Electric Company",12,0
+5689,"Tennessee Valley Authority",21,0
+5690,"Tennessee Valley Electric Cooperative",49,0
+5695,"Three Rivers Electric Cooperative ",29,0
+5696,"Tideland Electric Membership Cooperative (EMC)",38,0
+5697,"Tillamook People's Utility District",42,0
+5700,"Todd-Wadena Electric Cooperative",27,0
+5703,"Trenton Light & Water Dept.",49,0
+5709,"Trico Electric Cooperative, Inc.",4,0
+5711,"Tucson Electric Power",4,0
+5717,"Union Rural Electric Cooperative, Inc.",40,0
+5718,"UniSource Energy Services",4,0
+5719,"United Illuminating Company",8,0
+5721,"Unitil ",23,0
+5723,"University of Arkansas",5,0
+5728,Vectren,18,0
+5733,"Vermont Gas Systems, Inc.",52,0
+5734,"Vernon Electric Cooperative",57,0
+5737,"Warren Rural Electric Cooperative Corporation",21,0
+5738,"Waseca Utilities ",27,0
+5742,"Waunakee Utilities",57,0
+5751,"Western Iowa Power Cooperative",19,0
+5752,"Western Massachusetts Electric Co.",25,0
+5753,"Wheatland Rural Electric Association",58,0
+5759,"Wisconsin Public Power",26,0
+5764,"Wyoming Business Council",58,0
+5765,"Xcel Energy ",7,0
+5767,"Yellowstone Valley Electric Cooperative, Inc.",30,0
+5769,"California Association of Building Energy Consultants ",6,0
+5772,"Klickitat Public Utility District",55,0
+5776,"Sacramento Municipal Utility District",6,0
+5785,"4-County Electric Power Association",28,0
+5790,"Alaska Building Science Network",2,0
+5792,"Alaska Housing Finance Corporation",2,0
+5800,"American Trainco",11,0
+5802,"Anza Electric Cooperative, Inc.",6,0
+5806,"Association of Energy Engineers",11,0
+5807,"Association of Energy Services Professionals",11,0
+5808,"Atmos energy",21,0
+5810,"Baldwin Electric Membership Corp.",1,0
+5816,BetterBricks,16,0
+5817,"Big Bend Electric Cooperative",55,0
+5818,"Black Hills Energy",7,0
+5820,"Blue Grass Energy",21,0
+5821,"Blue Ridge Electric Membership Corp.",38,0
+5822,"BlueStar Energy",49,0
+5828,"Calhoun County Electric Cooperative Association",19,0
+5835,"Center for Energy and Environment",27,0
+5836,"Central Electric Power Association",28,0
+5837,"Central Lincoln People's Utility District",42,0
+5844,"City of Albemarle Public Utilities Department",38,0
+5846,"City of Ames Electric Department",19,0
+5848,"Bandon Electric Dept.",42,0
+5851,"City of Ellensburg Electric Utility",55,0
+5855,"City of Milton-Freewater Electric Department",42,0
+5859,"Rock Hill Utilities",47,0
+5860,"Rocky Mount Public Utilities",38,0
+5863,"Wilson Energy Department",38,0
+5864,"City Water, Light & Power",17,0
+5867,"Clay Electric Cooperative, Inc. (FL)",12,0
+5893,"East Mississippi Electric Power Association",28,0
+5896,"El Paso Electric",36,0
+5897,"Emerald People's Utility District",42,0
+5898,"Empire District Electric Company",5,0
+5899,"Seventhwave (formerly Energy Center of Wisconsin)",57,0
+5902,"Energy Resources Center, University of Illinois at Chicago",17,0
+5904,"Energy Star",11,0
+5906,EnergyUnited,38,0
+5907,EnerNOC,8,0
+5908,"Entergy Mississippi, Inc.",28,0
+5909,E-Source,11,0
+5910,"Estes Park Light and Power",7,0
+5913,"Fall River Rural Electric Cooperative",16,0
+5917,"Florida Power & Light Company",12,0
+5918,"Florida Solar Energy Center",12,0
+5919,"Forest Grove Light and Power",42,0
+5927,"Glacier Electric Cooperative, Inc.",30,0
+5929,"Raccoon Valley Electric Cooperative",19,0
+5934,"Grant County Public Utility District",55,0
+5944,"Hawaii Department of Business, Economic Development and Tourism",15,0
+5946,"Healdsburg Electric Department",6,0
+5951,"Hill County Electric Cooperative, Inc.",30,0
+5952,"Homer Electric Association, Inc.",2,0
+5956,"Illinois Solar Energy Association",17,0
+5960,"Intermountain Gas Company",16,0
+5964,"ISO New England Inc.",25,0
+5966,"Jackson Energy Authority",49,0
+5967,"Jo-Carroll Energy",17,0
+5970,"Kansas City Power and Light",20,0
+5982,"Lamar Light and Power",7,0
+5989,"Longmont Power & Communications",7,0
+5991,"Los Angeles Department of Water and Power",6,0
+5992,"Louisville Gas and Electric",21,0
+5997,"Maryland Energy Administration",24,0
+5999,"Massachusetts Division of Energy Resources",25,0
+6001,"Massachusetts Executive Office of Energy and Environmental Affairs",25,0
+6002,"Massachusetts Office of Technical Assistance and Technology",25,0
+6006,"McMinnville Water & Light",42,0
+6010,"Mission Valley Power",30,0
+6019,"National Center for Hydrogen Technology, University of North Dakota",39,0
+6020,"National Corn-to-Ethanol Research Center",17,0
+6025,"New Hampshire Office of Energy and Planning",34,0
+6026,"New Hampshire Public Utilities Commission",34,0
+6033,"Northern Rio Arriba Electric Cooperative, Inc.",36,0
+6035,"Northwest Energy Education Institute",16,0
+6036,"Northeast Energy Efficiency Council",23,0
+6038,"Norwich Public Utilities",8,0
+6040,"NV Energy",33,0
+6048,"Ozarks Electric Cooperative",5,0
+6053,"Park Electric Cooperative, Inc.",30,0
+6056,"Peninsula Light Co.",55,0
+6063,"Plumas-Sierra Rural Electric Cooperative",6,0
+6064,PNM,36,0
+6067,"Portland Energy Conservation, Incorporated",42,0
+6070,"PPL Electric Utilities",44,0
+6071,"PPL Energy Services",44,0
+6073,"Progress Energy - Carolinas",38,0
+6089,"Santa Energy",8,0
+6093,"Sioux Center Municipal Utilities",19,0
+6096,"Socorro Electric Cooperative",36,0
+6099,"South Alabama Electric Cooperative",1,0
+6101,"Association of South Carolina Energy Managers",47,0
+6106,"South Louisiana Electric Cooperative Association",22,0
+6108,"Southeast Colorado Power Association",7,0
+6110,"Southern Maryland Electric Cooperative",24,0
+6112,"Southface Energy Institute",13,0
+6113,"Southwest Energy Efficiency Project",51,0
+6114,"Southwest Gas Corp., Arizona Div.",4,0
+6120,"Midwest Energy Efficiency Alliance",17,0
+6131,"Tanner Electric Cooperative",55,0
+6135,"Tennessee Valley Authority (TVA) Economic Development",49,0
+6141,"Touchstone Energy Cooperatives",5,0
+6142,"Apex Public Works & Utilities Department",38,0
+6147,"Tupelo Water and Light Department",28,0
+6148,"TXU Energy",50,0
+6150,"U.S. Department of Energy",11,0
+6153,"U.S. Environmental Protection Agency",11,0
+6155,"Umatilla Electric Cooperative",42,0
+6156,"Union County Electric Cooperative",48,0
+6159,"Upper Peninsula Power Company",26,0
+6169,"Washington State University Energy Program",55,0
+6170,"West Oregon Electric Cooperative, Inc.",42,0
+6173,"West Virginia University",56,0
+6182,"American Public Power Association",11,0
+6185,"Clean Energy Coalition",26,0
+6188,"DTE Energy",26,0
+6189,"Edison Electric Institute",11,0
+6191,"Energy Sciences",26,0
+6192,"Energy Solutions Center",11,0
+6196,"Lake Superior State University",26,0
+6197,"Lawrence Technological University",26,0
+6198,"Michigan Department of Energy, Labor, & Economic Growth",26,0
+6199,"Michigan Department of Environmental Quality",26,0
+6200,"Michigan Manufacturers Association",26,0
+6201,"Michigan Manufacturing Technology Center",26,0
+6206,"Non-Ferrous Founders' Society",11,0
+6209,"Original Equipment Suppliers Association",11,0
+6211,"Pump Systems Matter",35,0
+6214,"Southeast Michigan Sustainable Business Forum",26,0
+6216,"U.S. Department of Agriculture",11,0
+6217,"U.S. Department of the Treasury",11,0
+6223,"Wayne State University",26,0
+6227,"Alabama Industrial Development Training",1,0
+6228,"Arkansas Economic Development Commission (AEDC) Energy Office",5,0
+6236,"Municipal Gas Authority of Georgia",13,0
+6237,"Central Georgia Electric Membership Corp.",13,0
+6241,"Nicor Gas",17,0
+6242,"North Shore Gas",17,0
+6243,"Peoples Gas",17,0
+6245,"Indianapolis Power & Light Company",18,0
+6246,"Indiana Department of Environmental Management",18,0
+6248,"Indiana Manufacturers Association",18,0
+6249,"Indiana Small Business Development Center",18,0
+6252,"Alton Municipal Electric",19,0
+6257,"Paullina Municipal Utilities",19,0
+6261,"Kansas Gas Service",20,0
+6263,"Westar Energy",20,0
+6268,"Clark Energy Cooperative",21,0
+6269,"Meade County Rural Electric Cooperative Corporation",21,0
+6270,"Mountain Association for Community Economic Development",21,0
+6276,"SEMCO Energy",26,0
+6279,"Thumb Electric Cooperative",26,0
+6280,"Arrowhead Electric Cooperative, Inc.",27,0
+6281,"Minnesota Valley Cooperative Light & Power Association",27,0
+6287,"Mississippi Development Authority Energy Division",28,0
+6289,"Mississippi Enterprise for Technology",28,0
+6290,"Mississippi Manufacturers Association",28,0
+6291,"Mississippi State University",28,0
+6292,"North Mississippi Industrial Development Association (NMIDA)",28,0
+6294,"White River Valley Electric Cooperative",29,0
+6306,"Southern Connecticut Gas",8,0
+6310,"PSNC Energy",38,0
+6314,"Center for Energy Research and Technology",38,0
+6315,"North Carolina Solar Center",38,0
+6317,"Public Service Electric and Gas Company",35,0
+6318,"New York State Energy Research and Development Authority",37,0
+6319,"Jamestown Board of Public Utilities",37,0
+6325,"Pennsylvania Department of Community and Economic Development",44,0
+6333,"Cuyahoga County Department of Development",40,0
+6334,"Oklahoma State University",41,0
+6336,"Oklahoma Department of Career and Technical Education",41,0
+6337,"South Carolina Electric and Gas",47,0
+6345,"Fort Pierre Municipal Utilities",48,0
+6353,"Wisconsin Public Service",57,0
+6354,"Black River Falls Municipal Utilities",57,0
+6355,"Columbus Water and Light",57,0
+6359,"Southside Electric Cooperative",54,0
+6364,"Texas State Energy Conservation Office",50,0
+6365,"Lower Colorado River Authority",50,0
+6366,"Texas Renewable Energy Industries Association",50,0
+6367,"Berkeley Office of Energy and Sustainable Development",6,0
+6370,"Berkshire Gas Co.",25,0
+6374,"Washington State Department of Ecology",55,0
+6377,"Montana Manufacturing Extension Center",30,0
+6380,"Minnesota Technical Assistance Program",27,0
+6381,"University of Minnesota",27,0
+6384,"Northwest Energy Efficiency Alliance",16,0
+6390,"Duke Energy Indiana, Inc.",18,0
+6392,"Duke Energy Ohio, Inc.",40,0
+6403,"Copper Valley Electric Association, Inc.",2,0
+6409,"Glencoe Municipal Electric Plant",27,0
+6412,"Tullahoma Utilities Board",49,0
+6415,"Flint Electric Membership Corp.",13,0
+6462,"Pulaski Electric & Gas Systems",49,0
+6472,"St. Charles Electric Utility",17,0
+6552,"Blaine City Light Dept.",55,0
+6571,"Lake Mills Light & Water Dept.",57,0
+6573,"Diverse Power",13,0
+6620,"Carroll Electric Membership Corp.",13,0
+6629,"Blachly-Lane County Coop Electric Association",42,0
+6635,"Evansville Water & Light Dept.",57,0
+6660,"Broad River Electric Coop, Inc.",47,0
+6663,"Tri-County Electric Cooperative (MO)",29,0
+6682,"Mid-Ohio Energy Coop, Inc.",40,0
+6684,"Waverly Light & Power",19,0
+6726,"Tri-County Electric Cooperative (MN)",27,0
+6745,"Grand Rapids Public Utility Commission",27,0
+6774,"Cumberland Electric Membership Corp.",49,0
+6809,"East Grand Forks Water & Light",27,0
+6816,"Pontotoc Electric Power Association",28,0
+6818,"Wright-Hennepin Coop Electric Association",27,0
+6854,"Beartooth Electric Coop, Inc.",30,0
+6886,"Energy Northwest, Inc.",55,0
+6911,"PUD No. 1 of Skamania County",55,0
+6912,"Richmond Power & Light",18,0
+6933,"Yampa Valley Electric Association, Inc.",7,0
+6957,"Ohio Edison",40,0
+6972,"Cavalier Rural Electric Coop, Inc.",39,0
+6982,Met-Ed,11,0
+7038,"Sun River Electric Coop, Inc.",30,0
+7077,"Edmond Electric Dept.",41,0
+7096,"Taunton Municipal Lighting Plant",25,0
+7105,"Washington City Power",51,0
+7108,"Memphis Light, Gas & Water Division",49,0
+7122,"Withlacoochee River Electric Coop, Inc.",12,0
+7144,"Mayfield Electric & Water Systems",21,0
+7148,"Oak Ridge Electric Dept., City of",49,0
+7162,"Nolin Rural Electric Coop Corp.",21,0
+7164,"Otero County Electric Coop, Inc.",36,0
+7175,"Rockwood Electric & Gas Utility",49,0
+7209,"Southern Illinois Electric Coop",17,0
+7221,"Rayle Electric Membership Corp.",13,0
+7242,"Danville Electric & Gas",54,0
+7268,"Fergus Electric Coop, Inc.",30,0
+7274,"Okefenoke R.E.M.C.",13,0
+7304,"Corn Belt Energy Corp.",17,0
+7311,"Coweta-Fayette Electric Membership Corp.",13,0
+7314,"Hudson Light & Power Dept.",25,0
+7337,"Southwestern Electric Cooperative, Inc. (IL)",17,0
+7345,"Woodruff Electric Coop Corp.",5,0
+7386,"Hustisford Electric Utility",57,0
+7394,"Clinton Utilities Board",49,0
+7443,"South Jersey Gas Co.",35,0
+7462,"Centralia Light Dept.",55,0
+7479,"Seward Electric Dept.",32,0
+7483,"Clayton Electric Dept.",38,0
+7505,"Murfreesboro Electric Dept.",49,0
+7532,"Lenoir City Utilities Board",49,0
+7546,"Central Electric Membership Corp.",38,0
+7548,"Randolph Electric Membership Corp.",38,0
+7551,"Wyrulec Co.",58,0
+7594,"San Luis Valley Rural Electric Cooperative",7,0
+7595,"Shelby Energy Coop, Inc.",21,0
+7608,"Gaz Métropolitain & Co., LP",11,0
+7630,"Waterloo Water & Light Commission",57,0
+7637,"UGI Penn Natural Gas, Inc.",44,0
+7648,"Rowley Municipal Lighting Plant",25,0
+7668,"Cuivre River Electric Coop, Inc.",29,0
+7679,"Wolfeboro Municipal Electric Dept.",34,0
+7709,"Chicopee Electric Light Dept.",25,0
+7716,"Ipswich Municipal Light Dept.",25,0
+7738,"New-Mac Electric Coop, Inc.",29,0
+7747,"Gulf Coast Electric Coop, Inc.",12,0
+7770,"Big Sandy Rural Electric Coop Corp.",21,0
+7784,"Sand Mountain Electric Cooperative",1,0
+7813,"Jackson Electric Membership Corp.",13,0
+7817,"Maryville Utilities Board",49,0
+7838,"Westfield Gas & Electric Light Dept.",25,0
+7840,"Woodville Electric Light System",40,0
+7860,"Los Alamos County Utilities",36,0
+7874,"Navopache Electric Coop, Inc.",4,0
+7887,"Lorain-Medina Rural Electric Coop, Inc.",40,0
+7934,"Central Valley Electric Coop, Inc.",36,0
+7963,"Carroll Electric Coop, Inc.",5,0
+8004,"Ripley Power & Light Co.",49,0
+8018,"Pioneer Rural Electric Coop, Inc.",40,0
+8023,"Hartford Electric Utility",57,0
+8060,"Duquesne Light Co.",44,0
+8095,"Palo Alto Utilities Dept.",6,0
+8131,"Southwest Gas Corp., Nevada Div.",33,0
+8151,"North Georgia Electric Membership Corp.",13,0
+8164,"Concord Board of Light & Water",38,0
+8233,"Cumberland Valley RECC",21,0
+8242,"Choctawhatchee Electric Coop, Inc.",12,0
+8263,"Coos-Curry Electric Coop, Inc.",42,0
+8266,"Westby Electric & Water Utilities",57,0
+8275,"Bridger Valley Electric Association, Inc.",58,0
+8294,"North Platte Municipal Light & Power",32,0
+8312,"Mountain Electric Coop, Inc.",49,0
+8338,"Jemez Mountains Electric Coop, Inc.",36,0
+8359,"Crawfordsville Electric Light & Power",18,0
+8372,"Entergy New Orleans, Inc.",22,0
+8388,"Tyler Municipal Light & Power Dept.",27,0
+8407,"New Mexico Gas Co.",36,0
+8408,"Prairie Land Electric Coop, Inc.",20,0
+8419,"Singing River Electric Power Association",28,0
+8421,"Wharton County Electric Coop, Inc.",50,0
+8423,"Jackson Purchase Energy Corp.",21,0
+8430,"Wasco Electric Cooperative",42,0
+8438,"Kankakee Valley R.E.M.C.",18,0
+8443,"Wiregrass Electric Coop, Inc.",1,0
+8448,"National Fuel Gas Distribution Corp.",37,0
+8512,"Midwest Electric, Inc.",40,0
+8538,"Parkland Light & Water Co.",55,0
+8543,"Middle Tennessee Electric Membership Corp.",49,0
+8554,"Gothenburg Public Works Division",32,0
+8562,"Holmes-Wayne Electric Coop, Inc.",40,0
+8564,"Upson County Electric Membership Corp.",13,0
+8571,"Bountiful City Light & Power",51,0
+8590,"Hurricane City Power",51,0
+8595,"Pella Municipal Power & Light Dept.",19,0
+8608,"Rio Grande Electric Coop, Inc.",50,0
+8614,"Keys Energy Services",12,0
+8634,"Southwest Gas Corp., California Div.",6,0
+8666,"UGI Utilities, Inc.",44,0
+8672,"Fairfield Electric Coop, Inc.",47,0
+8705,"Ravalli County Electric Coop, Inc.",30,0
+8731,"Mississippi County Electric Coop, Inc.",5,0
+8739,"Inter-County Rural Electric Coop Corp.",21,0
+8767,"Northeast Nebraska Public Power District",32,0
+8786,"Columbia Rural Electric Association, Inc.",55,0
+8843,"PUD No. 1 of Douglas County",55,0
+8850,"Traverse City Light & Power",26,0
+8854,"Hopkinsville Electric System",21,0
+8882,"Alameda Municipal Power",6,0
+8897,"Cuba City Light & Water Utility",57,0
+8900,"Alaska Energy Efficiency Partnership",2,0
+8901,"Green Energy DC",10,0
+8903,"Garfield Clean Energy Initiative",7,0
+8906,"Delaware Municipal Electric Corporation",9,0
+8913,"The Community Foundation",13,0
+8919,"Oklahoma Municipal Power Authority",41,0
+8920,"Mid South Synergy",50,0
+8929,"Columbus Electric Coop, Inc.",4,0
+8952,"Rhode Island Economic Development Corporation",46,0
+8983,"Farmers Rural Electric Cooperative Corporation (KY)",21,0
+8984,"Dominion East Ohio",40,0
+8985,"Dominion Hope - West Virginia",56,0
+9013,"Dominion Virginia/North Carolina Power",38,0
+9014,"Emera Maine",23,0
+9015,"FirstEnergy Corporation",35,0
+9016,"Mass Save",25,0
+9017,"Efficiency Works",7,0
+9018,"Lighting Design Lab",55,0
+9019,"Duke Energy Florida",12,0
+9020,"First Energy",24,0
+9021,"Central Minnesota Municipal Power Agency",27,0
+9022,"Retired Engineer Technical Assistance Foundation (RETAF)",26,0
+9024,"Electric Cooperatives of Arkansas",5,0
+9026,"Missouri River Energy Services",19,0
+9027,"Minnkota Power Cooperative",27,0
+9030,CLEARresult,11,0

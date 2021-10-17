@@ -1,0 +1,17 @@
+id,name,energy_category_id
+1,"Solar Technologies",1
+2,"Geothermal Technologies",1
+3,Wind,1
+4,Biomass,1
+5,Hydroelectric,1
+6,"Fuel Cells",1
+7,Other,1
+8,"Ocean Technologies",1
+9,Appliances,2
+10,HVAC,2
+11,Lighting,2
+12,"Industrial Equipment",2
+13,Other,2
+14,"Building Envelope",2
+15,Battery,3
+16,Other,3

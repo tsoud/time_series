@@ -1,0 +1,33 @@
+id,name,fieldname,is_selectable,parent_id
+1,Commercial,Commercial,1,27
+2,Construction,Construction,1,33
+3,Industrial,Industrial,1,27
+4,"Investor-Owned Utility",IOU,1,32
+5,"Local Government",Local,1,28
+6,Nonprofit,Nonprofit,1,28
+8,"Municipal Utilities",Municipal_Utilities,1,32
+9,Residential,Residential,1,29
+10,"Cooperative Utilities",Cooperative_Utilities,1,32
+11,Schools,Schools,1,28
+14,"State Government",State_Sector,1,28
+15,"Federal Government",Fed_Govt,1,28
+16,Installers/Contractors,Installers_Contractors,1,33
+17,"Tribal Government",Tribal_Govt,1,31
+20,"Retail Supplier",Retail_Suppliers,1,32
+21,Agricultural,Agricultural,1,27
+22,"Multifamily Residential",Multifamily_Residential,1,29
+23,"Low Income Residential",Low_Income_Residential,1,29
+24,Institutional,Institutional,1,28
+25,Integrators,Integrators,1,33
+26,Non-Residential,,0,
+27,Business,,0,26
+28,"Public Sector",,0,26
+29,Residential,,0,
+30,Other,,0,
+31,"Tribal Government",,0,30
+32,Utility,,0,30
+33,"Builders and Installers",,0,30
+34,"Appliance Manufacturers",,1,27
+35,"Senior citizens",,1,29
+36,"Senior citizens",,1,29
+37,"Senior citizens",,1,29

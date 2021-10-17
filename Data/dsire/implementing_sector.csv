@@ -1,0 +1,12 @@
+id,name,active
+1,State,1
+2,Local,1
+3,Utility,1
+4,Federal,1
+5,"Private Organization",0
+6,"Private Organization",0
+7,Non-Profit,1
+9,a,0
+10,test,0
+11,"37 USCS Â§ 3710",0
+12,Other,1

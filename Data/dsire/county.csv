@@ -1,0 +1,3373 @@
+id,name,state_id
+1,"Suffolk County",37
+2,Adjuntas,45
+3,,45
+4,Aguadilla,45
+5,Maricao,45
+6,Arecibo,45
+7,Barceloneta,45
+8,Patillas,45
+9,CanÃƒÂ³vanas,45
+10,"Santa Isabel",45
+11,Aibonito,45
+12,,53
+13,"San Juan",45
+14,"Toa Baja",45
+15,"Toa Alta",45
+16,BayamÃƒÂ³n,45
+17,CataÃƒÂ±o,45
+18,Guaynabo,45
+19,"Trujillo Alto",45
+20,Carolina,45
+21,"Hampden County",25
+22,"Hampshire County",25
+23,"Worcester County",25
+24,"Berkshire County",25
+25,"Franklin County",25
+26,"Middlesex County",25
+27,"Essex County",25
+28,"Plymouth County",25
+29,"Norfolk County",25
+30,"Bristol County",25
+31,"Suffolk County",25
+32,"Barnstable County",25
+33,"Dukes County",25
+34,"Nantucket County",25
+35,"Newport County",46
+36,"Providence County",46
+37,"Washington County",46
+38,"Bristol County",46
+39,"Kent County",46
+40,"Hillsborough County",34
+41,"Rockingham County",34
+42,"Merrimack County",34
+43,"Grafton County",34
+44,"Belknap County",34
+45,"Carroll County",34
+46,"Sullivan County",34
+47,"Cheshire County",34
+48,"Coos County",34
+49,"CoÃƒÂ¶s County",34
+50,"Strafford County",34
+51,"York County",23
+52,"Cumberland County",23
+53,"Sagadahoc County",23
+54,"Oxford County",23
+55,"Androscoggin County",23
+56,"Franklin County",23
+57,"Kennebec County",23
+58,"Lincoln County",23
+59,"Waldo County",23
+60,"Penobscot County",23
+61,"Piscataquis County",23
+62,"Hancock County",23
+63,"Washington County",23
+64,"Aroostook County",23
+65,"Somerset County",23
+66,"Knox County",23
+67,"Windsor County",52
+68,"Orange County",52
+69,"Caledonia County",52
+70,"Windham County",52
+71,"Bennington County",52
+72,"Chittenden County",52
+73,"Grand Isle County",52
+74,"Franklin County",52
+75,"Lamoille County",52
+76,"Addison County",52
+77,"Washington County",52
+78,"Rutland County",52
+79,"Orleans County",52
+80,"Essex County",52
+81,"Hartford County",8
+82,"Litchfield County",8
+83,"Tolland County",8
+84,"Windham County",8
+85,"New London County",8
+86,"New Haven County",8
+87,"Fairfield County",8
+88,"Middlesex County",8
+89,"Middlesex County",35
+90,"Hudson County",35
+91,"Essex County",35
+92,"Morris County",35
+93,"Bergen County",35
+94,"Passaic County",35
+95,"Union County",35
+96,"Somerset County",35
+97,"Sussex County",35
+98,"Monmouth County",35
+99,"Warren County",35
+100,"Hunterdon County",35
+101,"Salem County",35
+102,"Camden County",35
+103,"Ocean County",35
+104,"Burlington County",35
+105,"Gloucester County",35
+106,"Atlantic County",35
+107,"Cape May County",35
+108,"Cumberland County",35
+109,"Mercer County",35
+110,"New York County",37
+111,,37
+112,"Richmond County",37
+113,"Bronx County",37
+114,"Westchester County",37
+115,"Putnam County",37
+116,"Rockland County",37
+117,"Orange County",37
+118,"Nassau County",37
+119,"Queens County",37
+120,"Kings County",37
+121,"Albany County",37
+122,"Schenectady County",37
+123,"Montgomery County",37
+124,"Greene County",37
+125,"Columbia County",37
+126,"Rensselaer County",37
+127,"Saratoga County",37
+128,"Fulton County",37
+129,"Schoharie County",37
+130,"Washington County",37
+131,"Otsego County",37
+132,"Hamilton County",37
+133,"Delaware County",37
+134,"Ulster County",37
+135,"Dutchess County",37
+136,"Sullivan County",37
+137,"Warren County",37
+138,"Essex County",37
+139,"Clinton County",37
+140,"Franklin County",37
+141,"St Lawrence County",37
+142,"Onondaga County",37
+143,"Cayuga County",37
+144,"Oswego County",37
+145,"Madison County",37
+146,"Cortland County",37
+147,"Oneida County",37
+148,"Tompkins County",37
+149,"Seneca County",37
+150,"Chenango County",37
+151,"Wayne County",37
+152,"Lewis County",37
+153,"Herkimer County",37
+154,"Jefferson County",37
+155,"St. Lawrence County",37
+156,"Tioga County",37
+157,"Broome County",37
+158,"Erie County",37
+159,"Genesee County",37
+160,"Niagara County",37
+161,"Wyoming County",37
+162,"Allegany County",37
+163,"Cattaraugus County",37
+164,"Chautauqua County",37
+165,"Orleans County",37
+166,"Monroe County",37
+167,"Livingston County",37
+168,"Yates County",37
+169,"Ontario County",37
+170,"Steuben County",37
+171,"Schuyler County",37
+172,"Chemung County",37
+173,"Beaver County",44
+174,"Washington County",44
+175,"Allegheny County",44
+176,"Westmoreland County",44
+177,,44
+178,"Greene County",44
+179,"Fayette County",44
+180,"Somerset County",44
+181,"Monongalia County",44
+182,"Bedford County",44
+183,"Fulton County",44
+184,"Armstrong County",44
+185,"Indiana County",44
+186,"Jefferson County",44
+187,"Cambria County",44
+188,"Clearfield County",44
+189,"Elk County",44
+190,"Forest County",44
+191,"Cameron County",44
+192,"Butler County",44
+193,"Clarion County",44
+194,"Lawrence County",44
+195,"Crawford County",44
+196,"Mercer County",44
+197,"Mahoning County",44
+198,"Venango County",44
+199,"Warren County",44
+200,"McKean County",44
+201,"Erie County",44
+202,"Blair County",44
+203,"Huntingdon County",44
+204,"Centre County",44
+205,"Potter County",44
+206,"Clinton County",44
+207,"Tioga County",44
+208,"Bradford County",44
+209,"Cumberland County",44
+210,"Lebanon County",44
+211,"Mifflin County",44
+212,"Dauphin County",44
+213,"Perry County",44
+214,"Juniata County",44
+215,"Northumberland County",44
+216,"York County",44
+217,"Lancaster County",44
+218,"Franklin County",44
+219,"Adams County",44
+220,"Lycoming County",44
+221,"Sullivan County",44
+222,"Union County",44
+223,"Snyder County",44
+224,"Columbia County",44
+225,"Montour County",44
+226,"Schuylkill County",44
+227,"Lehigh County",44
+228,"Northampton County",44
+229,"Berks County",44
+230,"Carbon County",44
+231,"Bucks County",44
+232,"Montgomery County",44
+233,"Monroe County",44
+234,"Luzerne County",44
+235,"Pike County",44
+236,"Lackawanna County",44
+237,"Wayne County",44
+238,"Susquehanna County",44
+239,"Wyoming County",44
+240,"Delaware County",44
+241,"Philadelphia County",44
+242,"Chester County",44
+243,"New Castle County",9
+244,"Kent County",9
+245,"Sussex County",9
+246,"District of Columbia",10
+247,"Loudoun County",54
+248,"Rappahannock County",54
+249,"Manassas City",54
+250,"Prince William County",54
+251,"Manassas Park City",54
+252,"Fauquier County",54
+253,"Fairfax County",54
+254,"Clarke County",54
+255,,10
+256,"Howard County",24
+257,"Charles County",24
+258,"St Mary's County",24
+259,"Prince George's County",24
+260,"Calvert County",24
+261,"St. Mary's County",24
+262,"Anne Arundel County",24
+263,"Montgomery County",24
+264,"Harford County",24
+265,"Baltimore County",24
+266,"Carroll County",24
+267,"Baltimore City",24
+268,"Allegany County",24
+269,"Garrett County",24
+270,"Mineral County",24
+271,"Talbot County",24
+272,"Queen Anne's County",24
+273,"Caroline County",24
+274,"Kent County",24
+275,"Dorchester County",24
+276,"Frederick County",24
+277,"Washington County",24
+278,"Wicomico County",24
+279,"Somerset County",24
+280,"Worcester County",24
+281,"Cecil County",24
+282,"Fairfax City",54
+283,"Falls Church City",54
+284,"Arlington County",54
+285,"Alexandria City",54
+286,,54
+287,"Fredericksburg City",54
+288,"Stafford County",54
+289,"Spotsylvania County",54
+290,"Caroline County",54
+291,"Northumberland County",54
+292,"Orange County",54
+293,"Essex County",54
+294,"Westmoreland County",54
+295,"King George County",54
+296,"Richmond County",54
+297,"Lancaster County",54
+298,"Winchester City",54
+299,"Frederick County",54
+300,"Warren County",54
+301,"Shenandoah County",54
+302,"Page County",54
+303,"Culpeper County",54
+304,"Madison County",54
+305,"Harrisonburg City",54
+306,"Rockingham County",54
+307,"Augusta County",54
+308,"Albemarle County",54
+309,"Charlottesville City",54
+310,"Nelson County",54
+311,"Greene County",54
+312,"Louisa County",54
+313,"Fluvanna County",54
+314,"Waynesboro City",54
+315,"Gloucester County",54
+316,"Amelia County",54
+317,"Buckingham County",54
+318,"Hanover County",54
+319,"King William County",54
+320,"New Kent County",54
+321,"Powhatan County",54
+322,"Mathews County",54
+323,"King and Queen County",54
+324,"Cumberland County",54
+325,"Charles City County",54
+326,"Middlesex County",54
+327,"Goochland County",54
+328,"Henrico County",54
+329,"James City County",54
+330,"James City",54
+331,"Chesterfield County",54
+332,"Charles City",54
+333,"Richmond City",54
+334,"Williamsburg City",54
+335,"Accomack County",54
+336,"Isle of Wight County",54
+337,"Northampton County",54
+338,"Chesapeake City",54
+339,"Suffolk City",54
+340,"Virginia Beach City",54
+341,"Norfolk City",54
+342,"Newport News City",54
+343,"Hampton City",54
+344,"Poquoson City",54
+345,"York County",54
+346,"Portsmouth City",54
+347,"Prince George County",54
+348,"Petersburg City",54
+349,"Brunswick County",54
+350,"Nottoway County",54
+351,"Southampton County",54
+352,"Dinwiddie County",54
+353,"Colonial Heights City",54
+354,"Surry County",54
+355,"Emporia City",54
+356,"Franklin City",54
+357,"Hopewell City",54
+358,"Greensville County",54
+359,"Sussex County",54
+360,"Prince Edward County",54
+361,"Mecklenburg County",54
+362,"Charlotte County",54
+363,"Appomattox County",54
+364,"Lunenburg County",54
+365,"Roanoke City",54
+366,"Roanoke County",54
+367,"Patrick County",54
+368,"Henry County",54
+369,"Pulaski County",54
+370,"Montgomery County",54
+371,"Botetourt County",54
+372,"Franklin County",54
+373,"Pittsylvania County",54
+374,"Floyd County",54
+375,"Giles County",54
+376,"Bedford County",54
+377,"Martinsville City",54
+378,"Craig County",54
+379,"Radford City",54
+380,"Salem City",54
+381,"Bristol City",54
+382,"Washington County",54
+383,"Wise County",54
+384,"Dickenson County",54
+385,"Lee County",54
+386,"Russell County",54
+387,"Buchanan County",54
+388,"Scott County",54
+389,"Norton City",54
+390,"Grayson County",54
+391,"Smyth County",54
+392,"Carroll County",54
+393,"Wythe County",54
+394,"Bland County",54
+395,"Tazewell County",54
+396,"Galax City",54
+397,"Staunton City",54
+398,"Bath County",54
+399,"Highland County",54
+400,"Rockbridge County",54
+401,"Buena Vista City",54
+402,"Alleghany County",54
+403,"Lynchburg City",54
+404,"Campbell County",54
+405,"Halifax County",54
+406,"Amherst County",54
+407,"Bedford City",54
+408,"Danville City",54
+409,"McDowell County",54
+410,"Mercer County",56
+411,"Wyoming County",56
+412,"McDowell County",56
+413,"Mingo County",56
+414,"Greenbrier County",56
+415,"Monroe County",56
+416,"Pocahontas County",56
+417,"Summers County",56
+418,"Fayette County",56
+419,"Lincoln County",56
+420,"Roane County",56
+421,"Raleigh County",56
+422,"Boone County",56
+423,"Putnam County",56
+424,"Kanawha County",56
+425,"Clay County",56
+426,"Logan County",56
+427,"Nicholas County",56
+428,"Mason County",56
+429,"Jackson County",56
+430,"Calhoun County",56
+431,"Gilmer County",56
+432,"Berkeley County",56
+433,"Washington County",56
+434,"Morgan County",56
+435,"Jefferson County",56
+436,"Hampshire County",56
+437,"Cabell County",56
+438,"Wayne County",56
+439,"Martin County",56
+440,"Ohio County",56
+441,"Brooke County",56
+442,"Marshall County",56
+443,"Hancock County",56
+444,"Wood County",56
+445,"Pleasants County",56
+446,"Ritchie County",56
+447,"Wirt County",56
+448,"Tyler County",56
+449,"Wetzel County",56
+450,"Upshur County",56
+451,"Webster County",56
+452,"Randolph County",56
+453,"Barbour County",56
+454,"Tucker County",56
+455,"Harrison County",56
+456,"Lewis County",56
+457,"Braxton County",56
+458,"Doddridge County",56
+459,"Taylor County",56
+460,"Preston County",56
+461,"Monongalia County",56
+462,"Marion County",56
+463,"Grant County",56
+464,"Mineral County",56
+465,"Hardy County",56
+466,"Pendleton County",56
+467,"Davie County",38
+468,"Surry County",38
+469,"Forsyth County",38
+470,"Yadkin County",38
+471,"Rowan County",38
+472,"Stokes County",38
+473,"Rockingham County",38
+474,"Alamance County",38
+475,"Randolph County",38
+476,"Chatham County",38
+477,"Montgomery County",38
+478,"Caswell County",38
+479,"Guilford County",38
+480,"Orange County",38
+481,"Lee County",38
+482,"Davidson County",38
+483,"Moore County",38
+484,"Person County",38
+485,"Harnett County",38
+486,"Wake County",38
+487,"Durham County",38
+488,"Johnston County",38
+489,"Granville County",38
+490,"Franklin County",38
+491,"Wayne County",38
+492,"Vance County",38
+493,"Warren County",38
+494,"Nash County",38
+495,"Edgecombe County",38
+496,"Bertie County",38
+497,"Beaufort County",38
+498,"Pitt County",38
+499,"Wilson County",38
+500,"Hertford County",38
+501,"Northampton County",38
+502,"Halifax County",38
+503,"Hyde County",38
+504,"Martin County",38
+505,"Greene County",38
+506,"Pasquotank County",38
+507,"Dare County",38
+508,"Currituck County",38
+509,"Perquimans County",38
+510,"Camden County",38
+511,"Tyrrell County",38
+512,"Gates County",38
+513,"Washington County",38
+514,"Chowan County",38
+515,"Stanly County",38
+516,"Gaston County",38
+517,"Anson County",38
+518,"Iredell County",38
+519,"Cleveland County",38
+520,"Rutherford County",38
+521,"Cabarrus County",38
+522,"Mecklenburg County",38
+523,"Lincoln County",38
+524,"Union County",38
+525,"Cumberland County",38
+526,"Sampson County",38
+527,"Robeson County",38
+528,"Bladen County",38
+529,"Duplin County",38
+530,"Richmond County",38
+531,"Scotland County",38
+532,"Hoke County",38
+533,"New Hanover County",38
+534,"Brunswick County",38
+535,"Pender County",38
+536,"Columbus County",38
+537,"Onslow County",38
+538,"Lenoir County",38
+539,"Pamlico County",38
+540,"Carteret County",38
+541,"Craven County",38
+542,"Jones County",38
+543,"Catawba County",38
+544,"Avery County",38
+545,"Watauga County",38
+546,"Wilkes County",38
+547,"Burke County",38
+548,"Ashe County",38
+549,"Alleghany County",38
+550,"Caldwell County",38
+551,"Alexander County",38
+552,,38
+553,"Buncombe County",38
+554,"Graham County",38
+555,"Mitchell County",38
+556,"Jackson County",38
+557,"Transylvania County",38
+558,"Henderson County",38
+559,"Swain County",38
+560,"Yancey County",38
+561,"Haywood County",38
+562,"Polk County",38
+563,"Macon County",38
+564,"McDowell County",38
+565,"Madison County",38
+566,"Cherokee County",38
+567,"Clay County",38
+568,"Clarendon County",47
+569,"Richland County",47
+570,"Bamberg County",47
+571,"Lexington County",47
+572,"Kershaw County",47
+573,"Lee County",47
+574,"Chester County",47
+575,"Fairfield County",47
+576,"Orangeburg County",47
+577,"Calhoun County",47
+578,"Union County",47
+579,"Newberry County",47
+580,"Sumter County",47
+581,"Williamsburg County",47
+582,"Lancaster County",47
+583,"Darlington County",47
+584,"Colleton County",47
+585,"Chesterfield County",47
+586,"Aiken County",47
+587,"Florence County",47
+588,"Saluda County",47
+589,"Spartanburg County",47
+590,"Laurens County",47
+591,"Cherokee County",47
+592,"Greenville County",47
+593,"Charleston County",47
+594,"Berkeley County",47
+595,"Dorchester County",47
+596,"Georgetown County",47
+597,"Horry County",47
+598,"Marlboro County",47
+599,"Marion County",47
+600,"Dillon County",47
+601,"Abbeville County",47
+602,"Anderson County",47
+603,"Pickens County",47
+604,"Oconee County",47
+605,"Greenwood County",47
+606,"York County",47
+607,"Allendale County",47
+608,"Barnwell County",47
+609,"McCormick County",47
+610,"Edgefield County",47
+611,"Beaufort County",47
+612,"Hampton County",47
+613,"Jasper County",47
+614,"Dekalb County",13
+615,"Gwinnett County",13
+616,"Fulton County",13
+617,"Cobb County",13
+618,"Barrow County",13
+619,"Rockdale County",13
+620,"Newton County",13
+621,"Walton County",13
+622,"Forsyth County",13
+623,"Jasper County",13
+624,"Cherokee County",13
+625,"Bartow County",13
+626,"Polk County",13
+627,"Floyd County",13
+628,"Carroll County",13
+629,"Haralson County",13
+630,"Douglas County",13
+631,"Paulding County",13
+632,"Cleburne County",13
+633,"Gordon County",13
+634,"Pickens County",13
+635,"Lamar County",13
+636,"Fayette County",13
+637,"Pike County",13
+638,"Spalding County",13
+639,"Butts County",13
+640,"Heard County",13
+641,"Meriwether County",13
+642,"Coweta County",13
+643,"Henry County",13
+644,"Troup County",13
+645,"Clayton County",13
+646,"Upson County",13
+647,"Emanuel County",13
+648,"Montgomery County",13
+649,"Wheeler County",13
+650,"Jefferson County",13
+651,"Evans County",13
+652,"Bulloch County",13
+653,"Tattnall County",13
+654,"Screven County",13
+655,"Jenkins County",13
+656,"Burke County",13
+657,"Toombs County",13
+658,"Candler County",13
+659,"Laurens County",13
+660,"Treutlen County",13
+661,"Hall County",13
+662,"Habersham County",13
+663,"Banks County",13
+664,"Union County",13
+665,"Fannin County",13
+666,"Hart County",13
+667,"Jackson County",13
+668,"Franklin County",13
+669,"Gilmer County",13
+670,"Rabun County",13
+671,"White County",13
+672,"Lumpkin County",13
+673,"Dawson County",13
+674,"Stephens County",13
+675,"Towns County",13
+676,"Clarke County",13
+677,"Oglethorpe County",13
+678,"Oconee County",13
+679,"Morgan County",13
+680,"Elbert County",13
+681,"Madison County",13
+682,"Taliaferro County",13
+683,"Greene County",13
+684,,13
+685,"Wilkes County",13
+686,"Murray County",13
+687,"Walker County",13
+688,"Whitfield County",13
+689,"Catoosa County",13
+690,"Chattooga County",13
+691,"Dade County",13
+692,"Columbia County",13
+693,"Richmond County",13
+694,"McDuffie County",13
+695,"Warren County",13
+696,"Glascock County",13
+697,"Lincoln County",13
+698,"Wilcox County",13
+699,"Wilkinson County",13
+700,"Monroe County",13
+701,"Houston County",13
+702,"Taylor County",13
+703,"Dooly County",13
+704,"Peach County",13
+705,"Crisp County",13
+706,"Dodge County",13
+707,"Bleckley County",13
+708,"Twiggs County",13
+709,"Washington County",13
+710,"Putnam County",13
+711,"Jones County",13
+712,"Baldwin County",13
+713,"Pulaski County",13
+714,"Telfair County",13
+715,"Macon County",13
+716,"Johnson County",13
+717,"Crawford County",13
+718,"Bibb County",13
+719,"Marion County",13
+720,"Hancock County",13
+721,"Liberty County",13
+722,"Effingham County",13
+723,"McIntosh County",13
+724,"Bryan County",13
+725,"Long County",13
+726,"Chatham County",13
+727,"Ware County",13
+728,"Bacon County",13
+729,"Coffee County",13
+730,"Appling County",13
+731,"Pierce County",13
+732,"Glynn County",13
+733,"Jeff Davis County",13
+734,"Charlton County",13
+735,"Brantley County",13
+736,"Wayne County",13
+737,"Camden County",13
+738,"Lowndes County",13
+739,"Cook County",13
+740,"Berrien County",13
+741,"Clinch County",13
+742,"Atkinson County",13
+743,"Brooks County",13
+744,"Thomas County",13
+745,"Lanier County",13
+746,"Echols County",13
+747,"Dougherty County",13
+748,"Sumter County",13
+749,"Turner County",13
+750,"Mitchell County",13
+751,"Colquitt County",13
+752,"Tift County",13
+753,"Ben Hill County",13
+754,"Irwin County",13
+755,"Lee County",13
+756,"Worth County",13
+757,"Talbot County",13
+758,"Harris County",13
+759,"Chattahoochee County",13
+760,"Schley County",13
+761,"Stewart County",13
+762,"Muscogee County",13
+763,"Webster County",13
+764,"Clay County",12
+765,"St. Johns County",12
+766,"Putnam County",12
+767,"Suwannee County",12
+768,"Nassau County",12
+769,"Lafayette County",12
+770,"Columbia County",12
+771,"Union County",12
+772,"St Johns County",12
+773,"Baker County",12
+774,"Bradford County",12
+775,"Hamilton County",12
+776,"Madison County",12
+777,"Duval County",12
+778,"Lake County",12
+779,"Volusia County",12
+780,"Flagler County",12
+781,"Marion County",12
+782,"Sumter County",12
+783,"Leon County",12
+784,"Franklin County",12
+785,"Liberty County",12
+786,"Gadsden County",12
+787,"Wakulla County",12
+788,"Jefferson County",12
+789,"Taylor County",12
+790,"Bay County",12
+791,"Jackson County",12
+792,"Calhoun County",12
+793,"Walton County",12
+794,"Holmes County",12
+795,"Washington County",12
+796,"Gulf County",12
+797,"Escambia County",12
+798,"Santa Rosa County",12
+799,"Okaloosa County",12
+800,"Alachua County",12
+801,"Gilchrist County",12
+802,"Levy County",12
+803,"Dixie County",12
+804,"Seminole County",12
+805,"Orange County",12
+806,"Brevard County",12
+807,"Indian River County",12
+808,"Monroe County",12
+809,"Miami-Dade County",12
+810,"Broward County",12
+811,,12
+812,"Palm Beach County",12
+813,"Hendry County",12
+814,"Martin County",12
+815,"Glades County",12
+816,"Hillsborough County",12
+817,"Pasco County",12
+818,"Pinellas County",12
+819,"Polk County",12
+820,"Highlands County",12
+821,"Hardee County",12
+822,"Osceola County",12
+823,"Lee County",12
+824,"Charlotte County",12
+825,"Collier County",12
+826,"Manatee County",12
+827,"Sarasota County",12
+828,"Desoto County",12
+829,"Citrus County",12
+830,"Hernando County",12
+831,"St Lucie County",12
+832,"St. Lucie County",12
+833,"Okeechobee County",12
+834,"St Clair County",1
+835,"Jefferson County",1
+836,"Shelby County",1
+837,"Tallapoosa County",1
+838,"Blount County",1
+839,"Talladega County",1
+840,"Marshall County",1
+841,"Cullman County",1
+842,"Bibb County",1
+843,"Walker County",1
+844,"Chilton County",1
+845,"St. Clair County",1
+846,"Coosa County",1
+847,"Clay County",1
+848,"Tuscaloosa County",1
+849,"Hale County",1
+850,"Pickens County",1
+851,"Greene County",1
+852,"Sumter County",1
+853,"Winston County",1
+854,"Fayette County",1
+855,"Marion County",1
+856,"Lamar County",1
+857,"Franklin County",1
+858,"Morgan County",1
+859,"Lauderdale County",1
+860,"Limestone County",1
+861,"Colbert County",1
+862,"Lawrence County",1
+863,"Jackson County",1
+864,"Madison County",1
+865,"Etowah County",1
+866,"Cherokee County",1
+867,"Dekalb County",1
+868,"Autauga County",1
+869,"Pike County",1
+870,"Crenshaw County",1
+871,"Montgomery County",1
+872,"Butler County",1
+873,"Barbour County",1
+874,"Elmore County",1
+875,"Bullock County",1
+876,"Macon County",1
+877,"Lowndes County",1
+878,"Coffee County",1
+879,"Covington County",1
+880,"Calhoun County",1
+881,"Cleburne County",1
+882,"Randolph County",1
+883,"Houston County",1
+884,"Henry County",1
+885,"Dale County",1
+886,"Geneva County",1
+887,"Conecuh County",1
+888,"Monroe County",1
+889,"Escambia County",1
+890,"Wilcox County",1
+891,"Clarke County",1
+892,"Mobile County",1
+893,"Baldwin County",1
+894,"Washington County",1
+895,"Dallas County",1
+896,"Marengo County",1
+897,"Perry County",1
+898,"Lee County",1
+899,"Russell County",1
+900,"Chambers County",1
+901,"Choctaw County",1
+902,"Robertson County",49
+903,"Davidson County",49
+904,"De Kalb County",49
+905,"Williamson County",49
+906,"Cheatham County",49
+907,"Cannon County",49
+908,"Coffee County",49
+909,"Marshall County",49
+910,"Bedford County",49
+911,"Sumner County",49
+912,"Stewart County",49
+913,"Hickman County",49
+914,"Dickson County",49
+915,"Smith County",49
+916,"Rutherford County",49
+917,"Montgomery County",49
+918,"Trousdale County",49
+919,"Houston County",49
+920,"Wilson County",49
+921,"Humphreys County",49
+922,"Macon County",49
+923,"Perry County",49
+924,"Warren County",49
+925,"Lincoln County",49
+926,"Maury County",49
+927,"Grundy County",49
+928,"Hamilton County",49
+929,"McMinn County",49
+930,"Franklin County",49
+931,"Polk County",49
+932,"Bradley County",49
+933,"Monroe County",49
+934,"Rhea County",49
+935,"Meigs County",49
+936,"Sequatchie County",49
+937,"Marion County",49
+938,"Moore County",49
+939,"Bledsoe County",49
+940,"Shelby County",49
+941,"Washington County",49
+942,"Greene County",49
+943,"Sullivan County",49
+944,"Johnson County",49
+945,"Hawkins County",49
+946,"Carter County",49
+947,"Unicoi County",49
+948,"Blount County",49
+949,"Anderson County",49
+950,"Claiborne County",49
+951,"Grainger County",49
+952,"Cocke County",49
+953,"Campbell County",49
+954,"Morgan County",49
+955,"Knox County",49
+956,"Cumberland County",49
+957,"Jefferson County",49
+958,"Scott County",49
+959,"Sevier County",49
+960,"Loudon County",49
+961,"Roane County",49
+962,"Hancock County",49
+963,"Hamblen County",49
+964,"Union County",49
+965,"Crockett County",49
+966,"Tipton County",49
+967,"Dyer County",49
+968,"Hardeman County",49
+969,"Fayette County",49
+970,"Haywood County",49
+971,"Lauderdale County",49
+972,"McNairy County",49
+973,"Lake County",49
+974,"Carroll County",49
+975,"Benton County",49
+976,"Henry County",49
+977,"Weakley County",49
+978,,49
+979,"Obion County",49
+980,"Gibson County",49
+981,"Madison County",49
+982,"Decatur County",49
+983,"Hardin County",49
+984,"Henderson County",49
+985,"Chester County",49
+986,"Wayne County",49
+987,"Giles County",49
+988,"Lawrence County",49
+989,"Lewis County",49
+990,"Putnam County",49
+991,"Fentress County",49
+992,"Overton County",49
+993,"Jackson County",49
+994,"Pickett County",49
+995,"Clay County",49
+996,"White County",49
+997,"Van Buren County",49
+998,"Lafayette County",28
+999,"Tate County",28
+1000,"Benton County",28
+1001,"Panola County",28
+1002,"Quitman County",28
+1003,"Tippah County",28
+1004,"Marshall County",28
+1005,"Coahoma County",28
+1006,"Tunica County",28
+1007,"Union County",28
+1008,"DeSoto County",28
+1009,"Washington County",28
+1010,"Bolivar County",28
+1011,"Sharkey County",28
+1012,"Sunflower County",28
+1013,"Issaquena County",28
+1014,"Humphreys County",28
+1015,"Lee County",28
+1016,"Pontotoc County",28
+1017,"Monroe County",28
+1018,"Prentiss County",28
+1019,"Tishomingo County",28
+1020,"Alcorn County",28
+1021,"Calhoun County",28
+1022,"Itawamba County",28
+1023,"Chickasaw County",28
+1024,"Grenada County",28
+1025,"Carroll County",28
+1026,"Tallahatchie County",28
+1027,"Yalobusha County",28
+1028,"Holmes County",28
+1029,"Montgomery County",28
+1030,"Leflore County",28
+1031,"Webster County",28
+1032,"Yazoo County",28
+1033,"Hinds County",28
+1034,"Rankin County",28
+1035,"Simpson County",28
+1036,"Madison County",28
+1037,"Leake County",28
+1038,"Newton County",28
+1039,"Copiah County",28
+1040,"Attala County",28
+1041,"Jefferson County",28
+1042,"Scott County",28
+1043,"Claiborne County",28
+1044,"Smith County",28
+1045,"Covington County",28
+1046,"Adams County",28
+1047,"Lawrence County",28
+1048,"Warren County",28
+1049,,28
+1050,"Lauderdale County",28
+1051,"Wayne County",28
+1052,"Kemper County",28
+1053,"Clarke County",28
+1054,"Jasper County",28
+1055,"Winston County",28
+1056,"Noxubee County",28
+1057,"Neshoba County",28
+1058,"Greene County",28
+1059,"Forrest County",28
+1060,"Lamar County",28
+1061,"Jefferson Davis County",28
+1062,"Perry County",28
+1063,"Pearl River County",28
+1064,"Marion County",28
+1065,"Jones County",28
+1066,"George County",28
+1067,"Walthall County",28
+1068,"Harrison County",28
+1069,"Hancock County",28
+1070,"Jackson County",28
+1071,"Stone County",28
+1072,"Lincoln County",28
+1073,"Franklin County",28
+1074,"Wilkinson County",28
+1075,"Pike County",28
+1076,"Amite County",28
+1077,"Lowndes County",28
+1078,"Choctaw County",28
+1079,"Clay County",28
+1080,"Oktibbeha County",28
+1081,"Calhoun County",13
+1082,"Decatur County",13
+1083,"Early County",13
+1084,"Clay County",13
+1085,"Terrell County",13
+1086,"Grady County",13
+1087,"Randolph County",13
+1088,"Miller County",13
+1089,"Seminole County",13
+1090,"Quitman County",13
+1091,"Baker County",13
+1092,"Shelby County",21
+1093,"Nelson County",21
+1094,"Trimble County",21
+1095,"Henry County",21
+1096,"Marion County",21
+1097,"Oldham County",21
+1098,"Jefferson County",21
+1099,"Spencer County",21
+1100,"Washington County",21
+1101,"Bullitt County",21
+1102,"Meade County",21
+1103,"Breckinridge County",21
+1104,"Grayson County",21
+1105,"Hardin County",21
+1106,"Mercer County",21
+1107,"Nicholas County",21
+1108,"Powell County",21
+1109,"Rowan County",21
+1110,"Menifee County",21
+1111,"Scott County",21
+1112,"Bath County",21
+1113,"Estill County",21
+1114,"Montgomery County",21
+1115,"Jessamine County",21
+1116,"Anderson County",21
+1117,"Woodford County",21
+1118,"Bourbon County",21
+1119,"Owen County",21
+1120,"Madison County",21
+1121,"Clark County",21
+1122,"Jackson County",21
+1123,"Rockcastle County",21
+1124,"Garrard County",21
+1125,"Lincoln County",21
+1126,"Boyle County",21
+1127,"Casey County",21
+1128,"Fayette County",21
+1129,"Franklin County",21
+1130,"Whitley County",21
+1131,"Laurel County",21
+1132,"Knox County",21
+1133,"Harlan County",21
+1134,"Leslie County",21
+1135,"Bell County",21
+1136,"Letcher County",21
+1137,"Perry County",21
+1138,"Clay County",21
+1139,"Campbell County",21
+1140,"Bracken County",21
+1141,"Harrison County",21
+1142,"Boone County",21
+1143,"Pendleton County",21
+1144,"Carroll County",21
+1145,"Grant County",21
+1146,"Kenton County",21
+1147,"Mason County",21
+1148,"Fleming County",21
+1149,"Gallatin County",21
+1150,"Robertson County",21
+1151,"Boyd County",21
+1152,"Greenup County",21
+1153,"Lawrence County",21
+1154,"Carter County",21
+1155,"Lewis County",21
+1156,"Elliott County",21
+1157,"Martin County",21
+1158,"Johnson County",21
+1159,"Floyd County",21
+1160,"Wolfe County",21
+1161,"Lee County",21
+1162,"Breathitt County",21
+1163,"Owsley County",21
+1164,"Morgan County",21
+1165,"Magoffin County",21
+1166,"Pike County",21
+1167,"Knott County",21
+1168,"McCracken County",21
+1169,"Calloway County",21
+1170,"Carlisle County",21
+1171,"Ballard County",21
+1172,"Marshall County",21
+1173,"Graves County",21
+1174,"Livingston County",21
+1175,"Hickman County",21
+1176,"Crittenden County",21
+1177,"Lyon County",21
+1178,"Fulton County",21
+1179,"Warren County",21
+1180,"Allen County",21
+1181,"Barren County",21
+1182,"Metcalfe County",21
+1183,"Monroe County",21
+1184,"Simpson County",21
+1185,"Edmonson County",21
+1186,"Butler County",21
+1187,"Logan County",21
+1188,"Todd County",21
+1189,"Trigg County",21
+1190,"Christian County",21
+1191,"Daviess County",21
+1192,"Ohio County",21
+1193,"Muhlenberg County",21
+1194,"McLean County",21
+1195,"Henderson County",21
+1196,"Hancock County",21
+1197,"Webster County",21
+1198,"Hopkins County",21
+1199,"Caldwell County",21
+1200,"Union County",21
+1201,"Pulaski County",21
+1202,"Clinton County",21
+1203,"Russell County",21
+1204,"McCreary County",21
+1205,"Wayne County",21
+1206,"Hart County",21
+1207,"Adair County",21
+1208,"Larue County",21
+1209,"Cumberland County",21
+1210,"Taylor County",21
+1211,"Green County",21
+1212,"Licking County",40
+1213,"Franklin County",40
+1214,"Delaware County",40
+1215,"Knox County",40
+1216,"Coshocton County",40
+1217,"Union County",40
+1218,"Champaign County",40
+1219,"Clark County",40
+1220,"Fairfield County",40
+1221,"Perry County",40
+1222,"Ross County",40
+1223,"Pickaway County",40
+1224,"Fayette County",40
+1225,"Hocking County",40
+1226,"Madison County",40
+1227,"Marion County",40
+1228,"Logan County",40
+1229,"Morrow County",40
+1230,"Wyandot County",40
+1231,"Hardin County",40
+1232,"Wood County",40
+1233,"Sandusky County",40
+1234,"Ottawa County",40
+1235,"Lucas County",40
+1236,"Erie County",40
+1237,"Williams County",40
+1238,"Fulton County",40
+1239,"Henry County",40
+1240,"Defiance County",40
+1241,"Muskingum County",40
+1242,"Noble County",40
+1243,"Belmont County",40
+1244,"Monroe County",40
+1245,"Guernsey County",40
+1246,"Morgan County",40
+1247,"Holmes County",40
+1248,"Tuscarawas County",40
+1249,"Jefferson County",40
+1250,"Carroll County",40
+1251,"Harrison County",40
+1252,"Columbiana County",40
+1253,"Lorain County",40
+1254,"Ashtabula County",40
+1255,"Cuyahoga County",40
+1256,"Geauga County",40
+1257,"Lake County",40
+1258,"Summit County",40
+1259,"Portage County",40
+1260,"Medina County",40
+1261,"Wayne County",40
+1262,"Mahoning County",40
+1263,"Trumbull County",40
+1264,"Stark County",40
+1265,"Seneca County",40
+1266,"Hancock County",40
+1267,"Ashland County",40
+1268,"Huron County",40
+1269,"Richland County",40
+1270,"Crawford County",40
+1271,"Hamilton County",40
+1272,"Preble County",40
+1273,"Butler County",40
+1274,"Warren County",40
+1275,"Brown County",40
+1276,"Clermont County",40
+1277,"Adams County",40
+1278,"Clinton County",40
+1279,"Highland County",40
+1280,"Greene County",40
+1281,"Shelby County",40
+1282,"Darke County",40
+1283,"Montgomery County",40
+1284,"Mercer County",40
+1285,"Miami County",40
+1286,"Pike County",40
+1287,"Gallia County",40
+1288,"Lawrence County",40
+1289,"Jackson County",40
+1290,"Vinton County",40
+1291,"Scioto County",40
+1292,"Athens County",40
+1293,"Washington County",40
+1294,"Meigs County",40
+1295,"Allen County",40
+1296,"Paulding County",40
+1297,"Putnam County",40
+1298,"Auglaize County",40
+1299,"Van Wert County",40
+1300,"Madison County",18
+1301,"Hamilton County",18
+1302,"Clinton County",18
+1303,"Hancock County",18
+1304,"Tipton County",18
+1305,"Boone County",18
+1306,"Hendricks County",18
+1307,"Rush County",18
+1308,"Putnam County",18
+1309,"Johnson County",18
+1310,"Marion County",18
+1311,"Shelby County",18
+1312,"Morgan County",18
+1313,"Fayette County",18
+1314,"Henry County",18
+1315,"Porter County",18
+1316,"Lake County",18
+1317,"Jasper County",18
+1318,"La Porte County",18
+1319,"Newton County",18
+1320,"Starke County",18
+1321,"Marshall County",18
+1322,"Kosciusko County",18
+1323,"Elkhart County",18
+1324,"St Joseph County",18
+1325,"St. Joseph County",18
+1326,"Lagrange County",18
+1327,"Noble County",18
+1328,"Huntington County",18
+1329,"Steuben County",18
+1330,"Allen County",18
+1331,"De Kalb County",18
+1332,"Adams County",18
+1333,"Wells County",18
+1334,"Whitley County",18
+1335,"Howard County",18
+1336,"Fulton County",18
+1337,"Miami County",18
+1338,"Carroll County",18
+1339,"Grant County",18
+1340,"Cass County",18
+1341,"Wabash County",18
+1342,"Pulaski County",18
+1343,"Dearborn County",18
+1344,"Union County",18
+1345,"Ripley County",18
+1346,"Franklin County",18
+1347,"Switzerland County",18
+1348,"Ohio County",18
+1349,"Scott County",18
+1350,"Clark County",18
+1351,"Harrison County",18
+1352,"Washington County",18
+1353,"Crawford County",18
+1354,"Floyd County",18
+1355,"Orange County",18
+1356,"Bartholomew County",18
+1357,"Jackson County",18
+1358,"Jennings County",18
+1359,"Jefferson County",18
+1360,"Decatur County",18
+1361,"Delaware County",18
+1362,"Wayne County",18
+1363,"Jay County",18
+1364,"Blackford County",18
+1365,"Randolph County",18
+1366,"Monroe County",18
+1367,"Lawrence County",18
+1368,"Greene County",18
+1369,"Owen County",18
+1370,"Brown County",18
+1371,"Martin County",18
+1372,"Daviess County",18
+1373,"Knox County",18
+1374,"Dubois County",18
+1375,"Perry County",18
+1376,"Spencer County",18
+1377,"Pike County",18
+1378,"Warrick County",18
+1379,"Posey County",18
+1380,"Vanderburgh County",18
+1381,"Gibson County",18
+1382,"Vigo County",18
+1383,"Parke County",18
+1384,"Vermillion County",18
+1385,"Clay County",18
+1386,"Sullivan County",18
+1387,"Tippecanoe County",18
+1388,"Montgomery County",18
+1389,"Warren County",18
+1390,"Fountain County",18
+1391,"Benton County",18
+1392,"White County",18
+1393,"St Clair County",26
+1394,"Lapeer County",26
+1395,"St. Clair County",26
+1396,"Macomb County",26
+1397,"Oakland County",26
+1398,"Wayne County",26
+1399,"Washtenaw County",26
+1400,"Monroe County",26
+1401,"Livingston County",26
+1402,"Sanilac County",26
+1403,"Genesee County",26
+1404,"Huron County",26
+1405,"Shiawassee County",26
+1406,"Saginaw County",26
+1407,"Tuscola County",26
+1408,"Arenac County",26
+1409,"Bay County",26
+1410,"Gladwin County",26
+1411,"Gratiot County",26
+1412,"Clare County",26
+1413,"Midland County",26
+1414,"Oscoda County",26
+1415,"Roscommon County",26
+1416,"Ogemaw County",26
+1417,"Alcona County",26
+1418,"Iosco County",26
+1419,"Isabella County",26
+1420,"Ingham County",26
+1421,"Clinton County",26
+1422,"Ionia County",26
+1423,"Montcalm County",26
+1424,"Eaton County",26
+1425,"Barry County",26
+1426,"Kalamazoo County",26
+1427,"Allegan County",26
+1428,"Calhoun County",26
+1429,"Van Buren County",26
+1430,"Berrien County",26
+1431,"Branch County",26
+1432,"St Joseph County",26
+1433,"Cass County",26
+1434,"Jackson County",26
+1435,"Lenawee County",26
+1436,"Hillsdale County",26
+1437,"Kent County",26
+1438,"Muskegon County",26
+1439,"Lake County",26
+1440,"Mecosta County",26
+1441,"Newaygo County",26
+1442,"Ottawa County",26
+1443,"Mason County",26
+1444,"Oceana County",26
+1445,"Wexford County",26
+1446,"Grand Traverse County",26
+1447,"Antrim County",26
+1448,"Manistee County",26
+1449,"Benzie County",26
+1450,"Leelanau County",26
+1451,"Osceola County",26
+1452,"Missaukee County",26
+1453,"Kalkaska County",26
+1454,"Emmet County",26
+1455,"Cheboygan County",26
+1456,"Alpena County",26
+1457,"Montmorency County",26
+1458,"Chippewa County",26
+1459,"Charlevoix County",26
+1460,"Mackinac County",26
+1461,"Crawford County",26
+1462,"Otsego County",26
+1463,"Presque Isle County",26
+1464,"Dickinson County",26
+1465,"Keweenaw County",26
+1466,"Alger County",26
+1467,"Delta County",26
+1468,"Marquette County",26
+1469,"Menominee County",26
+1470,"Schoolcraft County",26
+1471,"Luce County",26
+1472,"Baraga County",26
+1473,"Iron County",26
+1474,"Houghton County",26
+1475,"Ontonagon County",26
+1476,"Gogebic County",26
+1477,"Warren County",19
+1478,"Guthrie County",19
+1479,"Dallas County",19
+1480,"Marshall County",19
+1481,"Hardin County",19
+1482,"Polk County",19
+1483,"Wayne County",19
+1484,"Story County",19
+1485,"Cass County",19
+1486,"Audubon County",19
+1487,"Mahaska County",19
+1488,"Jasper County",19
+1489,"Boone County",19
+1490,"Hamilton County",19
+1491,"Franklin County",19
+1492,"Marion County",19
+1493,"Lucas County",19
+1494,"Greene County",19
+1495,"Carroll County",19
+1496,"Decatur County",19
+1497,"Wright County",19
+1498,"Madison County",19
+1499,"Ringgold County",19
+1500,"Keokuk County",19
+1501,"Poweshiek County",19
+1502,"Union County",19
+1503,"Monroe County",19
+1504,"Tama County",19
+1505,"Clarke County",19
+1506,"Adair County",19
+1507,"Cerro Gordo County",19
+1508,"Hancock County",19
+1509,"Winnebago County",19
+1510,"Mitchell County",19
+1511,"Worth County",19
+1512,"Floyd County",19
+1513,"Kossuth County",19
+1514,"Howard County",19
+1515,"Webster County",19
+1516,"Buena Vista County",19
+1517,"Emmet County",19
+1518,"Palo Alto County",19
+1519,"Humboldt County",19
+1520,"Sac County",19
+1521,"Calhoun County",19
+1522,"Pocahontas County",19
+1523,"Butler County",19
+1524,"Chickasaw County",19
+1525,"Fayette County",19
+1526,"Buchanan County",19
+1527,"Grundy County",19
+1528,"Black Hawk County",19
+1529,"Bremer County",19
+1530,"Delaware County",19
+1531,"Taylor County",19
+1532,"Adams County",19
+1533,"Montgomery County",19
+1534,,19
+1535,"Plymouth County",19
+1536,"Sioux County",19
+1537,"Woodbury County",19
+1538,"Cherokee County",19
+1539,"Ida County",19
+1540,"Obrien County",19
+1541,"Monona County",19
+1542,"Clay County",19
+1543,"Lyon County",19
+1544,"Osceola County",19
+1545,"Dickinson County",19
+1546,"Crawford County",19
+1547,"Shelby County",19
+1548,"Pottawattamie County",19
+1549,"Harrison County",19
+1550,"Mills County",19
+1551,"Page County",19
+1552,"Fremont County",19
+1553,"Dubuque County",19
+1554,"Jackson County",19
+1555,"Jones County",19
+1556,"Clayton County",19
+1557,"Clinton County",19
+1558,"Winneshiek County",19
+1559,"Allamakee County",19
+1560,"Washington County",19
+1561,"Linn County",19
+1562,"Iowa County",19
+1563,"Benton County",19
+1564,"Cedar County",19
+1565,"Johnson County",19
+1566,"Wapello County",19
+1567,"Jefferson County",19
+1568,"Van Buren County",19
+1569,"Davis County",19
+1570,"Appanoose County",19
+1571,"Des Moines County",19
+1572,"Lee County",19
+1573,"Henry County",19
+1574,"Louisa County",19
+1575,"Muscatine County",19
+1576,"Scott County",19
+1577,"Sheboygan County",57
+1578,"Washington County",57
+1579,"Dodge County",57
+1580,"Ozaukee County",57
+1581,"Waukesha County",57
+1582,"Fond Du Lac County",57
+1583,"Calumet County",57
+1584,"Manitowoc County",57
+1585,"Jefferson County",57
+1586,"Kenosha County",57
+1587,"Racine County",57
+1588,"Milwaukee County",57
+1589,"Walworth County",57
+1590,"Rock County",57
+1591,"Green County",57
+1592,"Iowa County",57
+1593,"Lafayette County",57
+1594,"Dane County",57
+1595,"Richland County",57
+1596,"Grant County",57
+1597,"Columbia County",57
+1598,"Sauk County",57
+1599,"Crawford County",57
+1600,"Adams County",57
+1601,"Marquette County",57
+1602,"Green Lake County",57
+1603,"Juneau County",57
+1604,"Polk County",57
+1605,"St Croix County",57
+1606,"Pierce County",57
+1607,"Barron County",57
+1608,"Oconto County",57
+1609,"Marinette County",57
+1610,"Forest County",57
+1611,"Outagamie County",57
+1612,"Shawano County",57
+1613,"Brown County",57
+1614,"Florence County",57
+1615,"Menominee County",57
+1616,"Kewaunee County",57
+1617,"Door County",57
+1618,"Marathon County",57
+1619,"Wood County",57
+1620,"Portage County",57
+1621,"Langlade County",57
+1622,"Clark County",57
+1623,"Taylor County",57
+1624,"Lincoln County",57
+1625,"Price County",57
+1626,"Oneida County",57
+1627,"Vilas County",57
+1628,"Ashland County",57
+1629,"Iron County",57
+1630,"Rusk County",57
+1631,"La Crosse County",57
+1632,"Buffalo County",57
+1633,"Jackson County",57
+1634,"Trempealeau County",57
+1635,"Monroe County",57
+1636,"Vernon County",57
+1637,"Eau Claire County",57
+1638,"Pepin County",57
+1639,"Chippewa County",57
+1640,"Dunn County",57
+1641,"Washburn County",57
+1642,"Bayfield County",57
+1643,"Douglas County",57
+1644,"Sawyer County",57
+1645,"Burnett County",57
+1646,"Winnebago County",57
+1647,"Waushara County",57
+1648,"Waupaca County",57
+1649,"Washington County",27
+1650,"Chisago County",27
+1651,"Anoka County",27
+1652,"Isanti County",27
+1653,"Pine County",27
+1654,"Goodhue County",27
+1655,"Dakota County",27
+1656,"Rice County",27
+1657,"Scott County",27
+1658,"Wabasha County",27
+1659,"Steele County",27
+1660,"Kanabec County",27
+1661,"Ramsey County",27
+1662,"Hennepin County",27
+1663,"Wright County",27
+1664,"Sibley County",27
+1665,"Sherburne County",27
+1666,"Renville County",27
+1667,"McLeod County",27
+1668,"Carver County",27
+1669,"Stearns County",27
+1670,"Meeker County",27
+1671,"Mille Lacs County",27
+1672,"Lake County",27
+1673,"St Louis County",27
+1674,"Cook County",27
+1675,"Carlton County",27
+1676,"Itasca County",27
+1677,"St. Louis County",27
+1678,"Aitkin County",27
+1679,"Koochiching County",27
+1680,"Olmsted County",27
+1681,"Mower County",27
+1682,"Winona County",27
+1683,"Houston County",27
+1684,"Fillmore County",27
+1685,"Dodge County",27
+1686,"Blue Earth County",27
+1687,"Nicollet County",27
+1688,"Freeborn County",27
+1689,"Faribault County",27
+1690,"Le Sueur County",27
+1691,"Brown County",27
+1692,"Watonwan County",27
+1693,"Martin County",27
+1694,"Waseca County",27
+1695,"Redwood County",27
+1696,"Cottonwood County",27
+1697,"Nobles County",27
+1698,"Jackson County",27
+1699,"Lincoln County",27
+1700,"Murray County",27
+1701,"Lyon County",27
+1702,"Rock County",27
+1703,"Pipestone County",27
+1704,"Kandiyohi County",27
+1705,"Stevens County",27
+1706,"Swift County",27
+1707,"Big Stone County",27
+1708,"Lac Qui Parle County",27
+1709,"Traverse County",27
+1710,"Yellow Medicine County",27
+1711,"Chippewa County",27
+1712,"Grant County",27
+1713,"Douglas County",27
+1714,"Morrison County",27
+1715,"Todd County",27
+1716,"Pope County",27
+1717,"Otter Tail County",27
+1718,"Benton County",27
+1719,"Crow Wing County",27
+1720,"Cass County",27
+1721,"Hubbard County",27
+1722,"Wadena County",27
+1723,"Becker County",27
+1724,"Norman County",27
+1725,"Clay County",27
+1726,"Mahnomen County",27
+1727,"Polk County",27
+1728,"Wilkin County",27
+1729,"Beltrami County",27
+1730,"Clearwater County",27
+1731,"Lake of the Woods County",27
+1732,"Roseau County",27
+1733,"Pennington County",27
+1734,"Marshall County",27
+1735,"Red Lake County",27
+1736,"Kittson County",27
+1737,"Union County",48
+1738,"Brookings County",48
+1739,"Minnehaha County",48
+1740,"Clay County",48
+1741,"McCook County",48
+1742,"Lincoln County",48
+1743,"Turner County",48
+1744,"Lake County",48
+1745,"Moody County",48
+1746,"Hutchinson County",48
+1747,"Yankton County",48
+1748,"Kingsbury County",48
+1749,"Bon Homme County",48
+1750,"Codington County",48
+1751,"Deuel County",48
+1752,"Grant County",48
+1753,"Clark County",48
+1754,"Day County",48
+1755,"Hamlin County",48
+1756,"Roberts County",48
+1757,"Marshall County",48
+1758,"Davison County",48
+1759,"Hanson County",48
+1760,"Jerauld County",48
+1761,"Douglas County",48
+1762,"Sanborn County",48
+1763,"Gregory County",48
+1764,"Miner County",48
+1765,"Beadle County",48
+1766,"Brule County",48
+1767,"Charles Mix County",48
+1768,"Buffalo County",48
+1769,"Hyde County",48
+1770,"Hand County",48
+1771,"Lyman County",48
+1772,"Aurora County",48
+1773,"Brown County",48
+1774,"Walworth County",48
+1775,"Spink County",48
+1776,"Edmunds County",48
+1777,"Faulk County",48
+1778,"McPherson County",48
+1779,"Potter County",48
+1780,"Hughes County",48
+1781,"Sully County",48
+1782,"Jackson County",48
+1783,"Tripp County",48
+1784,"Jones County",48
+1785,"Stanley County",48
+1786,"Bennett County",48
+1787,"Haakon County",48
+1788,"Todd County",48
+1789,"Mellette County",48
+1790,"Perkins County",48
+1791,"Corson County",48
+1792,"Ziebach County",48
+1793,"Dewey County",48
+1794,"Meade County",48
+1795,"Campbell County",48
+1796,"Harding County",48
+1797,"Pennington County",48
+1798,"Shannon County",48
+1799,"Butte County",48
+1800,"Custer County",48
+1801,"Lawrence County",48
+1802,"Fall River County",48
+1803,"Richland County",39
+1804,"Cass County",39
+1805,"Traill County",39
+1806,"Sargent County",39
+1807,"Ransom County",39
+1808,"Barnes County",39
+1809,"Steele County",39
+1810,"Grand Forks County",39
+1811,"Walsh County",39
+1812,"Nelson County",39
+1813,"Pembina County",39
+1814,"Cavalier County",39
+1815,"Ramsey County",39
+1816,"Rolette County",39
+1817,"Pierce County",39
+1818,"Towner County",39
+1819,"Bottineau County",39
+1820,"Wells County",39
+1821,"Benson County",39
+1822,"Eddy County",39
+1823,"Stutsman County",39
+1824,"McIntosh County",39
+1825,"Lamoure County",39
+1826,"Griggs County",39
+1827,"Foster County",39
+1828,"Kidder County",39
+1829,"Sheridan County",39
+1830,"Dickey County",39
+1831,"Logan County",39
+1832,"Burleigh County",39
+1833,"Morton County",39
+1834,"Mercer County",39
+1835,"Emmons County",39
+1836,"Sioux County",39
+1837,"Grant County",39
+1838,"Oliver County",39
+1839,"McLean County",39
+1840,"Stark County",39
+1841,"Slope County",39
+1842,"Golden Valley County",39
+1843,"Bowman County",39
+1844,"Dunn County",39
+1845,"Billings County",39
+1846,"McKenzie County",39
+1847,"Adams County",39
+1848,"Hettinger County",39
+1849,"Ward County",39
+1850,"McHenry County",39
+1851,"Burke County",39
+1852,"Divide County",39
+1853,"Renville County",39
+1854,"Williams County",39
+1855,"Mountrail County",39
+1856,"Stillwater County",30
+1857,"Yellowstone County",30
+1858,"Rosebud County",30
+1859,"Carbon County",30
+1860,"Treasure County",30
+1861,"Sweet Grass County",30
+1862,"Big Horn County",30
+1863,"Park County",30
+1864,"Fergus County",30
+1865,"Wheatland County",30
+1866,"Golden Valley County",30
+1867,"Meagher County",30
+1868,"Musselshell County",30
+1869,"Garfield County",30
+1870,"Powder River County",30
+1871,"Petroleum County",30
+1872,"Roosevelt County",30
+1873,"Sheridan County",30
+1874,"McCone County",30
+1875,"Richland County",30
+1876,"Daniels County",30
+1877,"Valley County",30
+1878,"Dawson County",30
+1879,"Phillips County",30
+1880,"Custer County",30
+1881,"Carter County",30
+1882,"Fallon County",30
+1883,"Prairie County",30
+1884,"Wibaux County",30
+1885,"Cascade County",30
+1886,"Lewis and Clark County",30
+1887,"Glacier County",30
+1888,"Pondera County",30
+1889,"Teton County",30
+1890,"Chouteau County",30
+1891,"Toole County",30
+1892,"Judith Basin County",30
+1893,"Liberty County",30
+1894,"Hill County",30
+1895,"Blaine County",30
+1896,"Jefferson County",30
+1897,"Broadwater County",30
+1898,"Silver Bow County",30
+1899,"Madison County",30
+1900,"Deer Lodge County",30
+1901,"Powell County",30
+1902,"Gallatin County",30
+1903,"Beaverhead County",30
+1904,"Missoula County",30
+1905,"Mineral County",30
+1906,"Lake County",30
+1907,"Ravalli County",30
+1908,"Sanders County",30
+1909,"Granite County",30
+1910,"Flathead County",30
+1911,"Lincoln County",30
+1912,"McHenry County",17
+1913,"Lake County",17
+1914,"Cook County",17
+1915,"Dupage County",17
+1916,"Kane County",17
+1917,"Dekalb County",17
+1918,"Ogle County",17
+1919,"Will County",17
+1920,"Grundy County",17
+1921,"Livingston County",17
+1922,"La Salle County",17
+1923,"Kendall County",17
+1924,"Lee County",17
+1925,"Kankakee County",17
+1926,"Iroquois County",17
+1927,"Ford County",17
+1928,"Vermilion County",17
+1929,"Champaign County",17
+1930,"Jo Daviess County",17
+1931,"Boone County",17
+1932,"Stephenson County",17
+1933,"Carroll County",17
+1934,"Winnebago County",17
+1935,"Whiteside County",17
+1936,"Rock Island County",17
+1937,"Mercer County",17
+1938,"Henry County",17
+1939,"Bureau County",17
+1940,"Putnam County",17
+1941,"Marshall County",17
+1942,"Knox County",17
+1943,"McDonough County",17
+1944,"Warren County",17
+1945,"Henderson County",17
+1946,"Stark County",17
+1947,"Fulton County",17
+1948,"Hancock County",17
+1949,"Peoria County",17
+1950,"Schuyler County",17
+1951,"Woodford County",17
+1952,"Mason County",17
+1953,"Tazewell County",17
+1954,"McLean County",17
+1955,"Logan County",17
+1956,"De Witt County",17
+1957,"Macon County",17
+1958,"Piatt County",17
+1959,"Douglas County",17
+1960,"Coles County",17
+1961,"Moultrie County",17
+1962,"Edgar County",17
+1963,"Shelby County",17
+1964,"Madison County",17
+1965,"Calhoun County",17
+1966,"Macoupin County",17
+1967,"Fayette County",17
+1968,"Jersey County",17
+1969,"Montgomery County",17
+1970,"Greene County",17
+1971,"Bond County",17
+1972,"St. Clair County",17
+1973,"Christian County",17
+1974,"St Clair County",17
+1975,"Washington County",17
+1976,"Clinton County",17
+1977,"Randolph County",17
+1978,"Monroe County",17
+1979,"Perry County",17
+1980,"Adams County",17
+1981,"Pike County",17
+1982,"Brown County",17
+1983,"Effingham County",17
+1984,"Wabash County",17
+1985,"Crawford County",17
+1986,"Lawrence County",17
+1987,"Richland County",17
+1988,"Clark County",17
+1989,"Clay County",17
+1990,"Cumberland County",17
+1991,"Jasper County",17
+1992,"Wayne County",17
+1993,"Edwards County",17
+1994,"Sangamon County",17
+1995,"Morgan County",17
+1996,"Scott County",17
+1997,"Cass County",17
+1998,"Menard County",17
+1999,"Marion County",17
+2000,"Franklin County",17
+2001,"Jefferson County",17
+2002,"Hamilton County",17
+2003,"White County",17
+2004,,17
+2005,"Gallatin County",17
+2006,"Jackson County",17
+2007,"Williamson County",17
+2008,"Union County",17
+2009,"Massac County",17
+2010,"Johnson County",17
+2011,"Alexander County",17
+2012,"Saline County",17
+2013,"Hardin County",17
+2014,"Pope County",17
+2015,"Pulaski County",17
+2016,"St. Louis County",29
+2017,"St Louis County",29
+2018,"Jefferson County",29
+2019,"Franklin County",29
+2020,"Washington County",29
+2021,"St Francois County",29
+2022,"Crawford County",29
+2023,"Gasconade County",29
+2024,"St Louis City",29
+2025,"St. Louis City",29
+2026,"St Charles County",29
+2027,"St. Charles County",29
+2028,"Pike County",29
+2029,"Montgomery County",29
+2030,"Warren County",29
+2031,"Lincoln County",29
+2032,"Audrain County",29
+2033,"Callaway County",29
+2034,"Marion County",29
+2035,"Clark County",29
+2036,"Macon County",29
+2037,"Scotland County",29
+2038,"Shelby County",29
+2039,"Lewis County",29
+2040,"Ralls County",29
+2041,"Knox County",29
+2042,"Adair County",29
+2043,"Schuyler County",29
+2044,"Sullivan County",29
+2045,"Putnam County",29
+2046,"Linn County",29
+2047,"Iron County",29
+2048,"Reynolds County",29
+2049,"Ste Genevieve County",29
+2050,"Wayne County",29
+2051,"Madison County",29
+2052,"Bollinger County",29
+2053,"Cape Girardeau County",29
+2054,"Stoddard County",29
+2055,"Perry County",29
+2056,"Scott County",29
+2057,"Mississippi County",29
+2058,"Dunklin County",29
+2059,"Pemiscot County",29
+2060,"New Madrid County",29
+2061,"Butler County",29
+2062,"Ripley County",29
+2063,"Carter County",29
+2064,"Lafayette County",29
+2065,"Jackson County",29
+2066,"Cass County",29
+2067,"Ray County",29
+2068,"Platte County",29
+2069,"Johnson County",29
+2070,"Clay County",29
+2071,"Buchanan County",29
+2072,"Gentry County",29
+2073,"Worth County",29
+2074,"Andrew County",29
+2075,"Dekalb County",29
+2076,"Nodaway County",29
+2077,"Harrison County",29
+2078,"Clinton County",29
+2079,"Holt County",29
+2080,"Atchison County",29
+2081,"Livingston County",29
+2082,"Daviess County",29
+2083,"Carroll County",29
+2084,"Caldwell County",29
+2085,"Mercer County",29
+2086,"Grundy County",29
+2087,"Chariton County",29
+2088,"Bates County",29
+2089,"St Clair County",29
+2090,"Henry County",29
+2091,"Vernon County",29
+2092,"Cedar County",29
+2093,"Barton County",29
+2094,"Jasper County",29
+2095,"St. Clair County",29
+2096,"Newton County",29
+2097,"McDonald County",29
+2098,"Lawrence County",29
+2099,"Barry County",29
+2100,"Osage County",29
+2101,"Boone County",29
+2102,"Morgan County",29
+2103,"Maries County",29
+2104,"Miller County",29
+2105,"Moniteau County",29
+2106,"Camden County",29
+2107,"Cole County",29
+2108,"Cooper County",29
+2109,"Howard County",29
+2110,"Randolph County",29
+2111,"Monroe County",29
+2112,"Pettis County",29
+2113,"Saline County",29
+2114,"Benton County",29
+2115,"Phelps County",29
+2116,"Shannon County",29
+2117,"Dent County",29
+2118,"Texas County",29
+2119,"Pulaski County",29
+2120,"Laclede County",29
+2121,"Howell County",29
+2122,"Dallas County",29
+2123,"Polk County",29
+2124,"Dade County",29
+2125,"Greene County",29
+2126,"Oregon County",29
+2127,"Douglas County",29
+2128,"Ozark County",29
+2129,"Christian County",29
+2130,"Stone County",29
+2131,"Taney County",29
+2132,"Hickory County",29
+2133,"Webster County",29
+2134,"Wright County",29
+2135,"Atchison County",20
+2136,"Douglas County",20
+2137,"Leavenworth County",20
+2138,"Doniphan County",20
+2139,"Linn County",20
+2140,"Wyandotte County",20
+2141,"Johnson County",20
+2142,"Anderson County",20
+2143,"Miami County",20
+2144,"Franklin County",20
+2145,"Jefferson County",20
+2146,"Wabaunsee County",20
+2147,"Shawnee County",20
+2148,"Marshall County",20
+2149,"Nemaha County",20
+2150,"Pottawatomie County",20
+2151,"Osage County",20
+2152,"Jackson County",20
+2153,"Brown County",20
+2154,"Geary County",20
+2155,"Riley County",20
+2156,"Bourbon County",20
+2157,"Wilson County",20
+2158,"Crawford County",20
+2159,"Cherokee County",20
+2160,"Neosho County",20
+2161,"Allen County",20
+2162,"Woodson County",20
+2163,"Elk County",20
+2164,"Lyon County",20
+2165,"Morris County",20
+2166,"Coffey County",20
+2167,"Marion County",20
+2168,"Butler County",20
+2169,"Chase County",20
+2170,"Greenwood County",20
+2171,"Cloud County",20
+2172,"Republic County",20
+2173,"Smith County",20
+2174,"Washington County",20
+2175,"Jewell County",20
+2176,"Sedgwick County",20
+2177,"Harper County",20
+2178,"Sumner County",20
+2179,"Cowley County",20
+2180,"Harvey County",20
+2181,"Pratt County",20
+2182,"Chautauqua County",20
+2183,"Comanche County",20
+2184,"Kingman County",20
+2185,"Kiowa County",20
+2186,"Barber County",20
+2187,"McPherson County",20
+2188,"Montgomery County",20
+2189,"Labette County",20
+2190,"Saline County",20
+2191,"Dickinson County",20
+2192,"Lincoln County",20
+2193,"Mitchell County",20
+2194,"Ottawa County",20
+2195,"Rice County",20
+2196,"Clay County",20
+2197,"Osborne County",20
+2198,"Ellsworth County",20
+2199,"Reno County",20
+2200,"Barton County",20
+2201,"Rush County",20
+2202,"Ness County",20
+2203,"Edwards County",20
+2204,"Pawnee County",20
+2205,"Stafford County",20
+2206,"Ellis County",20
+2207,"Phillips County",20
+2208,"Norton County",20
+2209,"Graham County",20
+2210,"Russell County",20
+2211,"Trego County",20
+2212,"Rooks County",20
+2213,"Decatur County",20
+2214,"Thomas County",20
+2215,"Rawlins County",20
+2216,"Cheyenne County",20
+2217,"Sherman County",20
+2218,"Gove County",20
+2219,"Sheridan County",20
+2220,"Logan County",20
+2221,"Wallace County",20
+2222,"Ford County",20
+2223,"Clark County",20
+2224,"Gray County",20
+2225,"Hamilton County",20
+2226,"Kearny County",20
+2227,"Lane County",20
+2228,"Meade County",20
+2229,"Finney County",20
+2230,"Hodgeman County",20
+2231,"Stanton County",20
+2232,"Seward County",20
+2233,"Wichita County",20
+2234,"Scott County",20
+2235,"Haskell County",20
+2236,"Greeley County",20
+2237,"Grant County",20
+2238,"Morton County",20
+2239,"Stevens County",20
+2240,"Butler County",32
+2241,"Washington County",32
+2242,"Saunders County",32
+2243,"Cuming County",32
+2244,"Sarpy County",32
+2245,"Douglas County",32
+2246,"Cass County",32
+2247,"Burt County",32
+2248,"Dodge County",32
+2249,"Dakota County",32
+2250,"Thurston County",32
+2251,"Gage County",32
+2252,"Thayer County",32
+2253,"Nemaha County",32
+2254,"Seward County",32
+2255,"York County",32
+2256,"Lancaster County",32
+2257,"Pawnee County",32
+2258,"Otoe County",32
+2259,"Johnson County",32
+2260,"Saline County",32
+2261,"Richardson County",32
+2262,"Jefferson County",32
+2263,"Fillmore County",32
+2264,"Clay County",32
+2265,"Platte County",32
+2266,"Boone County",32
+2267,"Wheeler County",32
+2268,"Nance County",32
+2269,"Merrick County",32
+2270,"Colfax County",32
+2271,"Antelope County",32
+2272,"Polk County",32
+2273,"Greeley County",32
+2274,"Madison County",32
+2275,"Dixon County",32
+2276,"Holt County",32
+2277,"Rock County",32
+2278,"Cedar County",32
+2279,"Knox County",32
+2280,"Boyd County",32
+2281,"Wayne County",32
+2282,"Pierce County",32
+2283,"Keya Paha County",32
+2284,"Stanton County",32
+2285,"Hall County",32
+2286,"Buffalo County",32
+2287,"Custer County",32
+2288,"Valley County",32
+2289,"Sherman County",32
+2290,"Hamilton County",32
+2291,"Howard County",32
+2292,"Blaine County",32
+2293,"Garfield County",32
+2294,"Dawson County",32
+2295,"Loup County",32
+2296,"Adams County",32
+2297,"Harlan County",32
+2298,"Furnas County",32
+2299,"Phelps County",32
+2300,"Kearney County",32
+2301,"Webster County",32
+2302,"Franklin County",32
+2303,"Gosper County",32
+2304,"Nuckolls County",32
+2305,"Red Willow County",32
+2306,"Dundy County",32
+2307,"Chase County",32
+2308,"Hitchcock County",32
+2309,"Frontier County",32
+2310,"Hayes County",32
+2311,"Lincoln County",32
+2312,"Arthur County",32
+2313,"Deuel County",32
+2314,"Morrill County",32
+2315,"Keith County",32
+2316,"Kimball County",32
+2317,"Cheyenne County",32
+2318,"Perkins County",32
+2319,"Cherry County",32
+2320,"Thomas County",32
+2321,"Garden County",32
+2322,"Hooker County",32
+2323,"Logan County",32
+2324,"McPherson County",32
+2325,"Brown County",32
+2326,"Box Butte County",32
+2327,"Grant County",32
+2328,"Sheridan County",32
+2329,"Dawes County",32
+2330,"Scotts Bluff County",32
+2331,"Banner County",32
+2332,"Sioux County",32
+2333,"Jefferson Parish",22
+2334,"St Charles Parish",22
+2335,"St Bernard Parish",22
+2336,"Plaquemines Parish",22
+2337,"St John the Baptist Parish",22
+2338,"St James Parish",22
+2339,"St. John the Baptist Parish",22
+2340,"St. Charles Parish",22
+2341,"Orleans Parish",22
+2342,"Lafourche Parish",22
+2343,"Assumption Parish",22
+2344,"St Mary Parish",22
+2345,"Terrebonne Parish",22
+2346,"Ascension Parish",22
+2347,"St. Mary Parish",22
+2348,"Tangipahoa Parish",22
+2349,"St Tammany Parish",22
+2350,"Washington Parish",22
+2351,"St. Tammany Parish",22
+2352,"St Helena Parish",22
+2353,"Livingston Parish",22
+2354,"Lafayette Parish",22
+2355,"Vermilion Parish",22
+2356,"St Landry Parish",22
+2357,"Iberia Parish",22
+2358,"Evangeline Parish",22
+2359,"Acadia Parish",22
+2360,"St Martin Parish",22
+2361,"Jefferson Davis Parish",22
+2362,"St. Landry Parish",22
+2363,"Calcasieu Parish",22
+2364,"Cameron Parish",22
+2365,"Beauregard Parish",22
+2366,"Allen Parish",22
+2367,"Vernon Parish",22
+2368,"East Baton Rouge Parish",22
+2369,"West Baton Rouge Parish",22
+2370,"West Feliciana Parish",22
+2371,"Pointe Coupee Parish",22
+2372,"Iberville Parish",22
+2373,"East Feliciana Parish",22
+2374,"St. James Parish",22
+2375,"Bienville Parish",22
+2376,"Natchitoches Parish",22
+2377,"Claiborne Parish",22
+2378,"Caddo Parish",22
+2379,"Bossier Parish",22
+2380,"Webster Parish",22
+2381,"Red River Parish",22
+2382,"De Soto Parish",22
+2383,"Sabine Parish",22
+2384,"Ouachita Parish",22
+2385,"Richland Parish",22
+2386,"Franklin Parish",22
+2387,"Morehouse Parish",22
+2388,"Union Parish",22
+2389,"Jackson Parish",22
+2390,"Lincoln Parish",22
+2391,"Madison Parish",22
+2392,"West Carroll Parish",22
+2393,,22
+2394,"Chicot County",22
+2395,"East Carroll Parish",22
+2396,"Rapides Parish",22
+2397,"Concordia Parish",22
+2398,"Avoyelles Parish",22
+2399,"Tensas Parish",22
+2400,"Catahoula Parish",22
+2401,"La Salle Parish",22
+2402,"Winn Parish",22
+2403,"Grant Parish",22
+2404,"Caldwell Parish",22
+2405,"Jefferson County",5
+2406,"Desha County",5
+2407,"Bradley County",5
+2408,"Ashley County",5
+2409,"Chicot County",5
+2410,"Lincoln County",5
+2411,"Cleveland County",5
+2412,"Drew County",5
+2413,"Ouachita County",5
+2414,"Clark County",5
+2415,"Nevada County",5
+2416,"Union County",5
+2417,"Dallas County",5
+2418,"Columbia County",5
+2419,"Calhoun County",5
+2420,"Hempstead County",5
+2421,"Little River County",5
+2422,"Sevier County",5
+2423,"Lafayette County",5
+2424,"Howard County",5
+2425,"Miller County",5
+2426,"Garland County",5
+2427,"Saline County",5
+2428,"Pike County",5
+2429,"Hot Spring County",5
+2430,"Polk County",5
+2431,"Montgomery County",5
+2432,"Perry County",5
+2433,"Arkansas County",5
+2434,"Jackson County",5
+2435,"Woodruff County",5
+2436,"Lonoke County",5
+2437,"White County",5
+2438,"Van Buren County",5
+2439,"Prairie County",5
+2440,"Monroe County",5
+2441,"Conway County",5
+2442,"Faulkner County",5
+2443,"Cleburne County",5
+2444,"Stone County",5
+2445,"Pulaski County",5
+2446,"Grant County",5
+2447,"Independence County",5
+2448,"Crittenden County",5
+2449,"Mississippi County",5
+2450,"Lee County",5
+2451,"Phillips County",5
+2452,"St Francis County",5
+2453,"Cross County",5
+2454,"St. Francis County",5
+2455,"Poinsett County",5
+2456,"Craighead County",5
+2457,"Lawrence County",5
+2458,"Greene County",5
+2459,"Randolph County",5
+2460,"Clay County",5
+2461,"Sharp County",5
+2462,"Izard County",5
+2463,"Fulton County",5
+2464,"Baxter County",5
+2465,"Boone County",5
+2466,"Carroll County",5
+2467,"Marion County",5
+2468,"Newton County",5
+2469,"Searcy County",5
+2470,"Pope County",5
+2471,"Washington County",5
+2472,"Benton County",5
+2473,"Madison County",5
+2474,"Franklin County",5
+2475,"Yell County",5
+2476,"Logan County",5
+2477,"Johnson County",5
+2478,"Scott County",5
+2479,"Sebastian County",5
+2480,"Crawford County",5
+2481,"Caddo County",41
+2482,"Grady County",41
+2483,"Oklahoma County",41
+2484,"McClain County",41
+2485,"Canadian County",41
+2486,"Kingfisher County",41
+2487,"Cleveland County",41
+2488,"Washita County",41
+2489,"Logan County",41
+2490,"Murray County",41
+2491,"Blaine County",41
+2492,"Kiowa County",41
+2493,,41
+2494,"Garvin County",41
+2495,"Stephens County",41
+2496,"Noble County",41
+2497,"Custer County",41
+2498,"Travis County",50
+2499,"Carter County",41
+2500,"Love County",41
+2501,"Johnston County",41
+2502,"Marshall County",41
+2503,"Bryan County",41
+2504,"Jefferson County",41
+2505,"Comanche County",41
+2506,"Jackson County",41
+2507,"Tillman County",41
+2508,"Cotton County",41
+2509,"Harmon County",41
+2510,"Greer County",41
+2511,"Beckham County",41
+2512,"Roger Mills County",41
+2513,"Dewey County",41
+2514,"Garfield County",41
+2515,"Alfalfa County",41
+2516,"Woods County",41
+2517,"Major County",41
+2518,"Grant County",41
+2519,"Woodward County",41
+2520,"Ellis County",41
+2521,"Harper County",41
+2522,"Beaver County",41
+2523,"Texas County",41
+2524,"Cimarron County",41
+2525,"Osage County",41
+2526,"Washington County",41
+2527,"Tulsa County",41
+2528,"Creek County",41
+2529,"Wagoner County",41
+2530,"Rogers County",41
+2531,"Pawnee County",41
+2532,"Payne County",41
+2533,"Lincoln County",41
+2534,"Nowata County",41
+2535,"Craig County",41
+2536,"Mayes County",41
+2537,"Delaware County",41
+2538,"Ottawa County",41
+2539,"Muskogee County",41
+2540,"Okmulgee County",41
+2541,"Pittsburg County",41
+2542,"McIntosh County",41
+2543,"Cherokee County",41
+2544,"Sequoyah County",41
+2545,"Haskell County",41
+2546,"Adair County",41
+2547,"Pushmataha County",41
+2548,"Atoka County",41
+2549,"Hughes County",41
+2550,"Coal County",41
+2551,"Latimer County",41
+2552,"Le Flore County",41
+2553,"Kay County",41
+2554,"McCurtain County",41
+2555,"Choctaw County",41
+2556,"Pottawatomie County",41
+2557,"Seminole County",41
+2558,"Pontotoc County",41
+2559,"Okfuskee County",41
+2560,"Dallas County",50
+2561,"Collin County",50
+2562,"Denton County",50
+2563,"Grayson County",50
+2564,"Rockwall County",50
+2565,,50
+2566,"Tarrant County",50
+2567,"Ellis County",50
+2568,"Navarro County",50
+2569,"Van Zandt County",50
+2570,"Kaufman County",50
+2571,"Henderson County",50
+2572,"Hunt County",50
+2573,"Wood County",50
+2574,"Lamar County",50
+2575,"Red River County",50
+2576,"Fannin County",50
+2577,"Delta County",50
+2578,"Hopkins County",50
+2579,"Rains County",50
+2580,"Camp County",50
+2581,"Titus County",50
+2582,"Franklin County",50
+2583,"Bowie County",50
+2584,"Cass County",50
+2585,"Marion County",50
+2586,"Morris County",50
+2587,"Gregg County",50
+2588,"Panola County",50
+2589,"Upshur County",50
+2590,"Rusk County",50
+2591,"Harrison County",50
+2592,"Smith County",50
+2593,"Cherokee County",50
+2594,"Nacogdoches County",50
+2595,"Anderson County",50
+2596,"Leon County",50
+2597,"Trinity County",50
+2598,"Houston County",50
+2599,"Freestone County",50
+2600,"Madison County",50
+2601,"Angelina County",50
+2602,"Newton County",50
+2603,"San Augustine County",50
+2604,"Sabine County",50
+2605,"Jasper County",50
+2606,"Polk County",50
+2607,"Shelby County",50
+2608,"Tyler County",50
+2609,"Parker County",50
+2610,"Johnson County",50
+2611,"Wise County",50
+2612,"Hood County",50
+2613,"Somervell County",50
+2614,"Hill County",50
+2615,"Palo Pinto County",50
+2616,"Clay County",50
+2617,"Montague County",50
+2618,"Cooke County",50
+2619,"Wichita County",50
+2620,"Archer County",50
+2621,"Knox County",50
+2622,"Wilbarger County",50
+2623,"Young County",50
+2624,"Baylor County",50
+2625,"Haskell County",50
+2626,"Erath County",50
+2627,"Stephens County",50
+2628,"Jack County",50
+2629,"Shackelford County",50
+2630,"Brown County",50
+2631,"Eastland County",50
+2632,"Hamilton County",50
+2633,"Comanche County",50
+2634,"Callahan County",50
+2635,"Throckmorton County",50
+2636,"Bell County",50
+2637,"Milam County",50
+2638,"Coryell County",50
+2639,"Falls County",50
+2640,"Williamson County",50
+2641,"Lampasas County",50
+2642,"McLennan County",50
+2643,"Robertson County",50
+2644,"Bosque County",50
+2645,"Limestone County",50
+2646,"Mason County",50
+2647,"Runnels County",50
+2648,"San Saba County",50
+2649,"McCulloch County",50
+2650,"Coleman County",50
+2651,"Llano County",50
+2652,"Concho County",50
+2653,"Menard County",50
+2654,"Mills County",50
+2655,"Kimble County",50
+2656,"Tom Green County",50
+2657,"Irion County",50
+2658,"Reagan County",50
+2659,"Coke County",50
+2660,"Schleicher County",50
+2661,"Crockett County",50
+2662,"Sutton County",50
+2663,"Sterling County",50
+2664,"Harris County",50
+2665,"Montgomery County",50
+2666,"Walker County",50
+2667,"Liberty County",50
+2668,"San Jacinto County",50
+2669,"Grimes County",50
+2670,"Hardin County",50
+2671,"Matagorda County",50
+2672,"Fort Bend County",50
+2673,"Colorado County",50
+2674,"Austin County",50
+2675,"Wharton County",50
+2676,"Brazoria County",50
+2677,"Waller County",50
+2678,"Washington County",50
+2679,"Galveston County",50
+2680,"Chambers County",50
+2681,"Orange County",50
+2682,"Jefferson County",50
+2683,"Brazos County",50
+2684,"Burleson County",50
+2685,"Lee County",50
+2686,"Victoria County",50
+2687,"Refugio County",50
+2688,"De Witt County",50
+2689,"Jackson County",50
+2690,"Goliad County",50
+2691,"Lavaca County",50
+2692,"Calhoun County",50
+2693,"La Salle County",50
+2694,"Bexar County",50
+2695,"Bandera County",50
+2696,"Kendall County",50
+2697,"Frio County",50
+2698,"McMullen County",50
+2699,"Atascosa County",50
+2700,"Medina County",50
+2701,"Kerr County",50
+2702,"Live Oak County",50
+2703,"Webb County",50
+2704,"Zapata County",50
+2705,"Comal County",50
+2706,"Bee County",50
+2707,"Guadalupe County",50
+2708,"Karnes County",50
+2709,"Wilson County",50
+2710,"Gonzales County",50
+2711,"Nueces County",50
+2712,"Jim Wells County",50
+2713,"San Patricio County",50
+2714,"Kenedy County",50
+2715,"Duval County",50
+2716,"Brooks County",50
+2717,"Aransas County",50
+2718,"Jim Hogg County",50
+2719,"Kleberg County",50
+2720,"Hidalgo County",50
+2721,"Cameron County",50
+2722,"Starr County",50
+2723,"Willacy County",50
+2724,"Bastrop County",50
+2725,"Burnet County",50
+2726,"Blanco County",50
+2727,"Hays County",50
+2728,"Caldwell County",50
+2729,"Gillespie County",50
+2730,"Uvalde County",50
+2731,"Dimmit County",50
+2732,"Edwards County",50
+2733,"Zavala County",50
+2734,"Kinney County",50
+2735,"Real County",50
+2736,"Val Verde County",50
+2737,"Terrell County",50
+2738,"Maverick County",50
+2739,"Fayette County",50
+2740,"Oldham County",50
+2741,"Gray County",50
+2742,"Wheeler County",50
+2743,"Lipscomb County",50
+2744,"Hutchinson County",50
+2745,"Parmer County",50
+2746,"Potter County",50
+2747,"Moore County",50
+2748,"Hemphill County",50
+2749,"Randall County",50
+2750,"Hartley County",50
+2751,"Armstrong County",50
+2752,"Hale County",50
+2753,"Dallam County",50
+2754,"Deaf Smith County",50
+2755,"Castro County",50
+2756,"Lamb County",50
+2757,"Ochiltree County",50
+2758,"Carson County",50
+2759,"Hansford County",50
+2760,"Swisher County",50
+2761,"Roberts County",50
+2762,"Collingsworth County",50
+2763,"Sherman County",50
+2764,"Childress County",50
+2765,"Dickens County",50
+2766,"Floyd County",50
+2767,"Cottle County",50
+2768,"Hardeman County",50
+2769,"Donley County",50
+2770,"Foard County",50
+2771,"Hall County",50
+2772,"Motley County",50
+2773,"King County",50
+2774,"Briscoe County",50
+2775,"Hockley County",50
+2776,"Cochran County",50
+2777,"Terry County",50
+2778,"Bailey County",50
+2779,"Crosby County",50
+2780,"Yoakum County",50
+2781,"Lubbock County",50
+2782,"Garza County",50
+2783,"Dawson County",50
+2784,"Gaines County",50
+2785,"Lynn County",50
+2786,"Jones County",50
+2787,"Stonewall County",50
+2788,"Nolan County",50
+2789,"Taylor County",50
+2790,"Howard County",50
+2791,"Mitchell County",50
+2792,"Scurry County",50
+2793,"Kent County",50
+2794,"Fisher County",50
+2795,"Midland County",50
+2796,"Andrews County",50
+2797,"Reeves County",50
+2798,"Ward County",50
+2799,"Pecos County",50
+2800,"Crane County",50
+2801,"Jeff Davis County",50
+2802,"Borden County",50
+2803,"Glasscock County",50
+2804,"Ector County",50
+2805,"Winkler County",50
+2806,"Martin County",50
+2807,"Upton County",50
+2808,"Loving County",50
+2809,"El Paso County",50
+2810,"Brewster County",50
+2811,"Hudspeth County",50
+2812,"Presidio County",50
+2813,"Culberson County",50
+2814,"Jefferson County",7
+2815,"Arapahoe County",7
+2816,"Adams County",7
+2817,"Broomfield County",7
+2818,"Boulder County",7
+2819,"Elbert County",7
+2820,"Douglas County",7
+2821,"Denver County",7
+2822,"El Paso County",7
+2823,"Park County",7
+2824,"Gilpin County",7
+2825,"Eagle County",7
+2826,"Summit County",7
+2827,"Routt County",7
+2828,"Lake County",7
+2829,"Jackson County",7
+2830,"Clear Creek County",7
+2831,"Grand County",7
+2832,"Weld County",7
+2833,"Larimer County",7
+2834,"Morgan County",7
+2835,"Washington County",7
+2836,"Phillips County",7
+2837,"Logan County",7
+2838,"Yuma County",7
+2839,"Sedgwick County",7
+2840,"Cheyenne County",7
+2841,"Lincoln County",7
+2842,"Kit Carson County",7
+2843,"Teller County",7
+2844,"Pueblo County",7
+2845,"Las Animas County",7
+2846,"Kiowa County",7
+2847,"Baca County",7
+2848,"Otero County",7
+2849,"Crowley County",7
+2850,"Bent County",7
+2851,"Huerfano County",7
+2852,"Prowers County",7
+2853,,7
+2854,"Alamosa County",7
+2855,"Conejos County",7
+2856,"Archuleta County",7
+2857,"La Plata County",7
+2858,"Costilla County",7
+2859,"Saguache County",7
+2860,"Mineral County",7
+2861,"Rio Grande County",7
+2862,"Chaffee County",7
+2863,"Gunnison County",7
+2864,"Fremont County",7
+2865,"Hinsdale County",7
+2866,"Custer County",7
+2867,"Dolores County",7
+2868,"Montezuma County",7
+2869,"San Miguel County",7
+2870,"Montrose County",7
+2871,"Delta County",7
+2872,"Ouray County",7
+2873,"San Juan County",7
+2874,"Mesa County",7
+2875,"Garfield County",7
+2876,"Moffat County",7
+2877,"Pitkin County",7
+2878,"Rio Blanco County",7
+2879,"Laramie County",58
+2880,"Albany County",58
+2881,"Park County",58
+2882,"Platte County",58
+2883,"Goshen County",58
+2884,"Niobrara County",58
+2885,"Converse County",58
+2886,"Carbon County",58
+2887,"Fremont County",58
+2888,"Sweetwater County",58
+2889,"Washakie County",58
+2890,"Big Horn County",58
+2891,"Hot Springs County",58
+2892,"Natrona County",58
+2893,"Johnson County",58
+2894,"Weston County",58
+2895,"Crook County",58
+2896,"Campbell County",58
+2897,"Sheridan County",58
+2898,"Sublette County",58
+2899,"Uinta County",58
+2900,"Teton County",58
+2901,"Lincoln County",58
+2902,"Bannock County",16
+2903,"Bingham County",16
+2904,"Power County",16
+2905,"Butte County",16
+2906,"Caribou County",16
+2907,"Bear Lake County",16
+2908,"Custer County",16
+2909,"Franklin County",16
+2910,"Lemhi County",16
+2911,"Oneida County",16
+2912,"Twin Falls County",16
+2913,"Cassia County",16
+2914,"Blaine County",16
+2915,"Gooding County",16
+2916,"Camas County",16
+2917,"Lincoln County",16
+2918,"Jerome County",16
+2919,"Minidoka County",16
+2920,"Bonneville County",16
+2921,"Fremont County",16
+2922,"Teton County",16
+2923,"Clark County",16
+2924,"Jefferson County",16
+2925,"Madison County",16
+2926,"Nez Perce County",16
+2927,"Clearwater County",16
+2928,"Idaho County",16
+2929,"Lewis County",16
+2930,"Latah County",16
+2931,"Elmore County",16
+2932,"Boise County",16
+2933,"Owyhee County",16
+2934,"Canyon County",16
+2935,"Washington County",16
+2936,"Valley County",16
+2937,"Adams County",16
+2938,"Ada County",16
+2939,"Gem County",16
+2940,"Payette County",16
+2941,"Kootenai County",16
+2942,"Shoshone County",16
+2943,"Bonner County",16
+2944,"Boundary County",16
+2945,"Benewah County",16
+2946,"Duchesne County",51
+2947,"Utah County",51
+2948,"Salt Lake County",51
+2949,"Uintah County",51
+2950,"Davis County",51
+2951,"Summit County",51
+2952,"Morgan County",51
+2953,"Tooele County",51
+2954,"Daggett County",51
+2955,"Rich County",51
+2956,"Wasatch County",51
+2957,"Weber County",51
+2958,,51
+2959,"Box Elder County",51
+2960,"Cache County",51
+2961,"Carbon County",51
+2962,"San Juan County",51
+2963,"Emery County",51
+2964,"Grand County",51
+2965,"Sevier County",51
+2966,"Sanpete County",51
+2967,"Millard County",51
+2968,"Juab County",51
+2969,"Kane County",51
+2970,"Garfield County",51
+2971,"Beaver County",51
+2972,"Iron County",51
+2973,"Wayne County",51
+2974,"Washington County",51
+2975,"Piute County",51
+2976,"Maricopa County",4
+2977,"Pinal County",4
+2978,"Gila County",4
+2979,"Pima County",4
+2980,"Yavapai County",4
+2981,"La Paz County",4
+2982,"Yuma County",4
+2983,"Mohave County",4
+2984,"Graham County",4
+2985,"Greenlee County",4
+2986,"Cochise County",4
+2987,"Santa Cruz County",4
+2988,"Navajo County",4
+2989,"Apache County",4
+2990,"Coconino County",4
+2991,"Sandoval County",36
+2992,"Valencia County",36
+2993,"Cibola County",36
+2994,"Socorro County",36
+2995,"Bernalillo County",36
+2996,"Torrance County",36
+2997,"Santa Fe County",36
+2998,"Rio Arriba County",36
+2999,"San Juan County",36
+3000,"McKinley County",36
+3001,"Taos County",36
+3002,"San Miguel County",36
+3003,"Los Alamos County",36
+3004,"Colfax County",36
+3005,"Guadalupe County",36
+3006,"Mora County",36
+3007,"Harding County",36
+3008,"Catron County",36
+3009,"Sierra County",36
+3010,"Dona Ana County",36
+3011,"DoÃƒÂ±a Ana County",36
+3012,"Hidalgo County",36
+3013,"Grant County",36
+3014,"Luna County",36
+3015,"Curry County",36
+3016,"Roosevelt County",36
+3017,"Lea County",36
+3018,"De Baca County",36
+3019,"Quay County",36
+3020,"Chaves County",36
+3021,"Eddy County",36
+3022,"Lincoln County",36
+3023,"Otero County",36
+3024,"Union County",36
+3025,"Clark County",33
+3026,"Lincoln County",33
+3027,"Nye County",33
+3028,"Esmeralda County",33
+3029,"White Pine County",33
+3030,"Lander County",33
+3031,"Eureka County",33
+3032,"Washoe County",33
+3033,"Lyon County",33
+3034,"Humboldt County",33
+3035,"Churchill County",33
+3036,"Douglas County",33
+3037,"Mineral County",33
+3038,"Pershing County",33
+3039,"Storey County",33
+3040,"Carson City",33
+3041,"Elko County",33
+3042,"Los Angeles County",6
+3043,"Orange County",6
+3044,"Ventura County",6
+3045,"San Bernardino County",6
+3046,"Riverside County",6
+3047,"San Diego County",6
+3048,"Imperial County",6
+3049,"Inyo County",6
+3050,"Santa Barbara County",6
+3051,"Tulare County",6
+3052,"Kings County",6
+3053,"Kern County",6
+3054,"Fresno County",6
+3055,"San Luis Obispo County",6
+3056,"Monterey County",6
+3057,"Mono County",6
+3058,"Madera County",6
+3059,"Merced County",6
+3060,"Mariposa County",6
+3061,,6
+3062,"San Mateo County",6
+3063,"Santa Clara County",6
+3064,"San Francisco County",6
+3065,"Sacramento County",6
+3066,"Alameda County",6
+3067,"Napa County",6
+3068,"Contra Costa County",6
+3069,"Solano County",6
+3070,"Marin County",6
+3071,"Sonoma County",6
+3072,"Santa Cruz County",6
+3073,"San Benito County",6
+3074,"San Joaquin County",6
+3075,"Calaveras County",6
+3076,"Stanislaus County",6
+3077,"Tuolumne County",6
+3078,"Mendocino County",6
+3079,"Lake County",6
+3080,"Humboldt County",6
+3081,"Trinity County",6
+3082,"Del Norte County",6
+3083,"Siskiyou County",6
+3084,"Amador County",6
+3085,"Placer County",6
+3086,"Yolo County",6
+3087,"El Dorado County",6
+3088,"Sutter County",6
+3089,"Yuba County",6
+3090,"Nevada County",6
+3091,"Sierra County",6
+3092,"Colusa County",6
+3093,"Glenn County",6
+3094,"Butte County",6
+3095,"Plumas County",6
+3096,"Shasta County",6
+3097,"Modoc County",6
+3098,"Lassen County",6
+3099,"Tehama County",6
+3100,"Alpine County",6
+3101,"Honolulu County",15
+3102,"Kauai County",15
+3103,"Hawaii County",15
+3104,"Maui County",15
+3105,"Kalawao County",15
+3106,,14
+3107,,43
+3108,,60
+3109,,31
+3110,,59
+3111,"Wasco County",42
+3112,"Marion County",42
+3113,"Clackamas County",42
+3114,"Washington County",42
+3115,"Multnomah County",42
+3116,"Hood River County",42
+3117,"Columbia County",42
+3118,"Sherman County",42
+3119,"Yamhill County",42
+3120,"Clatsop County",42
+3121,"Tillamook County",42
+3122,"Polk County",42
+3123,"Benton County",42
+3124,"Linn County",42
+3125,"Lincoln County",42
+3126,"Lane County",42
+3127,"Curry County",42
+3128,"Coos County",42
+3129,"Douglas County",42
+3130,"Klamath County",42
+3131,,42
+3132,"Josephine County",42
+3133,"Jackson County",42
+3134,"Lake County",42
+3135,"Deschutes County",42
+3136,"Harney County",42
+3137,"Jefferson County",42
+3138,"Wheeler County",42
+3139,"Crook County",42
+3140,"Umatilla County",42
+3141,"Gilliam County",42
+3142,"Baker County",42
+3143,"Grant County",42
+3144,"Morrow County",42
+3145,"Union County",42
+3146,"Wallowa County",42
+3147,"Malheur County",42
+3148,"King County",55
+3149,"Snohomish County",55
+3150,"Kitsap County",55
+3151,"Kittitas County",55
+3152,,55
+3153,"Whatcom County",55
+3154,"Skagit County",55
+3155,"San Juan County",55
+3156,"Island County",55
+3157,"Pierce County",55
+3158,"Clallam County",55
+3159,"Jefferson County",55
+3160,"Lewis County",55
+3161,"Thurston County",55
+3162,"Grays Harbor County",55
+3163,"Mason County",55
+3164,"Pacific County",55
+3165,"Cowlitz County",55
+3166,"Clark County",55
+3167,"Klickitat County",55
+3168,"Skamania County",55
+3169,"Wahkiakum County",55
+3170,"Chelan County",55
+3171,"Douglas County",55
+3172,"Okanogan County",55
+3173,"Grant County",55
+3174,"Yakima County",55
+3175,"Spokane County",55
+3176,"Lincoln County",55
+3177,"Stevens County",55
+3178,"Whitman County",55
+3179,"Adams County",55
+3180,"Ferry County",55
+3181,"Pend Oreille County",55
+3182,"Franklin County",55
+3183,"Benton County",55
+3184,"Walla Walla County",55
+3185,"Columbia County",55
+3186,"Garfield County",55
+3187,"Asotin County",55
+3188,"Anchorage Borough",2
+3189,"Municipality of Anchorage",2
+3190,"Bethel Census Area",2
+3191,"Aleutians West Census Area",2
+3192,"Lake and Peninsula Borough",2
+3193,"Kodiak Island Borough",2
+3194,"Aleutians East Borough",2
+3195,"Wade Hampton Census Area",2
+3196,"Dillingham Census Area",2
+3197,"Kenai Peninsula Borough",2
+3198,"Yukon-Koyukuk Census Area",2
+3199,"Valdez-Cordova Census Area",2
+3200,"Bristol Bay Borough",2
+3201,,2
+3202,"Matanuska-Susitna Borough",2
+3203,"Nome Census Area",2
+3204,"Yakutat Borough",2
+3205,"Fairbanks North Star Borough",2
+3206,"North Slope Borough",2
+3207,"Northwest Arctic Borough",2
+3208,"Denali Borough",2
+3209,"Southeast Fairbanks Census Area",2
+3210,"Juneau Borough",2
+3211,"City and Borough of Juneau",2
+3212,"Hoonah-Angoon Borough",2
+3213,"Haines Borough",2
+3214,"Petersburg Borough",2
+3215,"Sitka Borough",2
+3216,"Skagway Borough",2
+3217,"Ketchikan Gateway Borough",2
+3218,"Prince of Wales-Outer Ketchikan Borough",2
+3219,"Wrangell Borough",2
+3220,Marin,6
+3221,Fresno,6
+3222,Imperial,6
+3223,Kern,6
+3224,Kings,6
+3225,"Los Angeles",6
+3226,Orange,6
+3227,Riverside,6
+3228,"San Bernardino",6
+3229,"San Luis Obispo",6
+3230,"Santa Barbara",6
+3231,Tulare,6
+3232,Ventura,6
+3233,"San Francisco",6
+3234,Archuleta,7
+3235,Boulder,7
+3236,Douglas,7
+3237,Gunnison,7
+3238,"La Plata",7
+3239,Pitkin,7
+3240,Jefferson,7
+3241,Eagle,7
+3242,Sarasota,12
+3243,Volusia,12
+3244,Miami-Dade,12
+3245,Lake,12
+3246,"Saint Lucie",12
+3247,Broward,12
+3248,Orange,12
+3249,Catoosa,13
+3250,Dade,13
+3251,Walker,13
+3252,CLARK,17
+3253,COLES,17
+3254,DOUGLAS,17
+3255,EDGAR,17
+3256,VERMILION,17
+3257,BARREN,21
+3258,BUTLER,21
+3259,EDMONSON,21
+3260,GRAYSON,21
+3261,LOGAN,21
+3262,SIMPSON,21
+3263,WARREN,21
+3264,BOONE,21
+3265,CAMPBELL,21
+3266,KENTON,21
+3267,Montgomery,24
+3268,Howard,24
+3269,"Prince Georges",24
+3270,Baltimore,24
+3271,Carroll,24
+3272,"Anne Arundel",24
+3273,Allegany,24
+3274,Chatham,38
+3275,LINCOLN,38
+3276,Madison,38
+3277,Mecklenburg,38
+3278,Catawba,38
+3279,Bergen,35
+3280,Burlington,35
+3281,Camden,35
+3282,Essex,35
+3283,Gloucester,35
+3284,Hudson,35
+3285,Hunterdon,35
+3286,Mercer,35
+3287,Middlesex,35
+3288,Monmouth,35
+3289,Ocean,35
+3290,Passaic,35
+3291,Somerset,35
+3292,Union,35
+3293,Morris,35
+3294,HAMILTON,40
+3295,Adams,40
+3296,Allen,40
+3297,Ashland,40
+3298,Ashtabula,40
+3299,Athens,40
+3300,Auglaize,40
+3301,Belmont,40
+3302,Butler,40
+3303,Carroll,40
+3304,Clark,40
+3305,Clermont,40
+3306,Columbiana,40
+3307,Coshocton,40
+3308,Cuyahoga,40
+3309,Erie,40
+3310,Fairfield,40
+3311,Fayette,40
+3312,Fulton,40
+3313,Geauga,40
+3314,Guernsey,40
+3315,Hardin,40
+3316,Harrison,40
+3317,Henry,40
+3318,Highland,40
+3319,Holmes,40
+3320,Huron,40
+3321,Jackson,40
+3322,Knox,40
+3323,Lake,40
+3324,Mahoning,40
+3325,Medina,40
+3326,Meigs,40
+3327,Mercer,40
+3328,Miami,40
+3329,Monroe,40
+3330,Montgomery,40
+3331,Morgan,40
+3332,Morrow,40
+3333,Muskingum,40
+3334,Noble,40
+3335,Paulding,40
+3336,Putnam,40
+3337,Ross,40
+3338,Sandusky,40
+3339,Seneca,40
+3340,Shelby,40
+3341,Stark,40
+3342,Summit,40
+3343,Trumbull,40
+3344,Tuscarawas,40
+3345,"Van Wert",40
+3346,Vinton,40
+3347,Warren,40
+3348,Washington,40
+3349,Wayne,40
+3350,Wood,40
+3351,Douglas,42
+3352,Jackson,42
+3353,Josephine,42
+3354,Klamath,42
+3355,Morrow,42
+3356,Union,42
+3357,Clackamas,42
+3358,Clatsop,42
+3359,CHARLESTON,47
+3360,Essex,54
+3361,Gloucester,54
+3362,Hanover,54
+3363,"King and Queen",54
+3364,"King William",54
+3365,Mathews,54
+3366,Middlesex,54
+3367,"New Kent",54
+3368,York,54
+3369,Caroline,54
+3370,Spotsylvania,54
+3371,Stafford,54
+3372,King,55
